@@ -44,6 +44,7 @@ Find out more about Sacred Holding Containers [here](https://somarosa.co.uk/offe
 ## Online 1-1
 
 Held Container online to empower your pleasure and support your nervous system. Working with Breathwork, Sound, Movement, Embodiment, Energy Alchemy to activate your sacred life force underpinned by Nervous System Regulation
+*Until May 2026 only Online offerings with be available
 
 {{< /image-section >}}
 
