@@ -47,7 +47,7 @@ Held Container online to empower your pleasure and support your nervous system. 
 
 {{< /image-section >}}
 
-## We journey into the body, observe what's there, move with what's alive... Then we let your body guide the way...
+## We journey into the body, observe what's there, move with what's alive... And let your body guide the way...
 
 Supporting your journey into your pleasure with embodiment, supported self-holding & resourcing along your discovery
 
