@@ -4,11 +4,9 @@ date: 2025-06-05
 draft: false
 featured: true
 weight: 1
-banner: eros-embodiment-banner.jpg
+banner: erosembodiment2.png
 description: I hold online working group sessions - The Eros Embodiment Group - that is a community working group coming together to journey as an individual and with the collective. You can come to one session or every session, as suits you. Every month we work with something different, no two sessions the same. There is a theme for what feels right for the session, and that is also responsive and fluid to meet the needs of the group that attend. 
 ---
-
-![](/img/eros-top.jpg)
 
 I hold online working group sessions - The Eros Embodiment Group - that is a community working group coming together to journey as an individual and with the collective. You can come to one session or every session, as suits you. Every month we work with something different, no two sessions the same. There is a theme for what feels right for the session, and that is also responsive and fluid to meet the needs of the group that attend. 
 

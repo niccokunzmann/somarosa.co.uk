@@ -22,7 +22,7 @@ Supporting your journey into your pleasure with embodiment, supported self-holdi
 
 
 
-{{< image-section left=true image="/img/homepage-1.jpg" alt="" >}}
+{{< image-section left=true image="/img/sacredpleasurepage.png" alt="" >}}
 ## Sacred Pleasure 1-1
 
 Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, to listen, and how to understand the messages of what's needed, what's desired. 
@@ -30,23 +30,25 @@ Each container is unique, because each person and their journey is different. Ea
 
 When we are truly tuned into our eros, our life force, we are truly in tune with ourselves, all that we are, and all of life. It is the full embrace of our sexuality, and as innately sexual beings, we are made of sex. Sex is our life force that runs through the entirety of our being. To suppress it, shame it, is to suppress all of who we are.
 
-Find out more about our Sacred Pleasure Containers [here](https://somarosa.co.uk/offerings/sacred-holding/ "")
+Find out more about our Sacred Pleasure Containers [here](https://somarosa.co.uk/offerings/sacred-pleasure/)
 {{< /image-section >}}
 
-{{< image-section left=false image="/img/embodiment2.jpg" alt="" >}}
+{{< image-section left=false image="/img/homepage-1.jpg" alt="" >}}
 ## Sacred Holding 1-1
 Held container for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power...
 
 Find out more about Sacred Holding Containers [here](https://somarosa.co.uk/offerings/sacred-holding/ "")
 {{< /image-section >}}
 
-
+{{< image-section left=true image="/img/embodiment2.jpg" alt="" >}}
 ## Online 1-1
 
 Held Container online to empower your pleasure and support your nervous system. Working with Breathwork, Sound, Movement, Embodiment, Energy Alchemy to activate your sacred life force underpinned by Nervous System Regulation
+*Until May 2026 only Online offerings with be available
 
+{{< /image-section >}}
 
-## We journey into the body, observe what's there, move with what's alive... Then we let your body guide the way...
+## We journey into the body, observe what's there, move with what's alive... And let your body guide the way...
 
 Supporting your journey into your pleasure with embodiment, supported self-holding & resourcing along your discovery
 
