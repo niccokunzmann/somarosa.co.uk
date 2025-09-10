@@ -9,6 +9,7 @@ banner: sacred-pleasure-banner.jpg
 ---
 
 
+1-1 Online offerings available only until May 2026 
 
 Held Container for your Sacred Pleasure -
 

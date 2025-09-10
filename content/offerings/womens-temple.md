@@ -27,6 +27,8 @@ Our sexuality as yoni-holders is a rich delicacy of feminine touch thats graced 
 
 ## Upcoming Women's Temples
 
+1-1 Online offerings available only until May 2026 
+
 See latest Events [here](https://dandelion.events/o/somarosa/events "")
 
 ## What will this bring into your life?

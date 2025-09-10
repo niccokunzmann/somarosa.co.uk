@@ -38,18 +38,8 @@ Everything is an invitation, the workshop is guided so that wherever on the scal
 ​
 ## Upcoming Workshops
 
-No upcoming workshops.
+No upcoming workshops. The next workshop will be in May 2026, only online offerings are available until then
 
-​
-
-Concious Connections on 14 December follows a similar framework without the focus of cuddles.
-
-​
-
-See here: 
-Whitland, 14 Dec 4.30-10pm.
-
-[EVENT PAGE](https://dandelion.events/e/s22ln)​
 
 ## Why come to a Cwtch Connection Workshop?
 

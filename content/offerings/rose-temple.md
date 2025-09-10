@@ -32,12 +32,6 @@ We invite in our pleasure in deeper ways to a richer and fuller experience first
 
 ---
 
-## A Midsummer Nights Dream: Temple Sleepover Weekend
-
-12-13 July Hatch Court, South Devon
-
-See more information here: The Rose Temple: [A Midsummer Nights Dream · Dandelion](https://dandelion.events/e/j3q8e)
-
 ## Heart, Soul & Eros: Temple Retreat Weekend
 
 6-7 September
@@ -48,9 +42,11 @@ See more information here: [Heart, Soul & Eros Emergence: Sleepover Weekend · D
 
 ![](/img/tantra-workshop.jpg)
 
+The next Rose Temple will be in May 2026, only online offerings are available until then
+
 ## All of you is welcome 
 
-![ENQUIRE NOW](mailto:lovetemplewestwales@gmail.com?subject=I%20would%20love%20to%20come%20to%20The%20Rose%20Temple!)
+![ENQUIRE NOW](mailto:somarosauk@gmail.com?subject=I%20would%20love%20to%20come%20to%20The%20Rose%20Temple!)
 
 ---
 

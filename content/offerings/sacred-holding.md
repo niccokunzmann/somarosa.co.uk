@@ -8,6 +8,8 @@ description: Held containers for your journey in opening, deepening, exploring g
 banner: sacred-holding-banner.jpg
 ---
 
+1-1 Online offerings available only until May 2026 
+
 Cuddle Therapy, Cradling & Holding
 
 This can look like spooning, lying into my lap and being soothed, being rocked/cradled whilst sang to or a variety of ways that is unique to the individuals inner child desires to be held
