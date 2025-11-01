@@ -44,10 +44,12 @@ Find out more about Sacred Holding Containers [here](https://somarosa.co.uk/offe
 ## Online 1-1
 
 Held Container online to empower your pleasure and support your nervous system in these areas:
-Awakening your Energygasm, your Orgasmic Woman
+Awakening your Energygasm, Your Full Body Pleasure
 Yoni Egg Demouring & Reclamation
 Nervous System Experiencing & Resourcing 
 Reclaiming your Self Love & Self Pleasure
+
+Also some of these practices are available in online group sessions. See full list of group sessions [here](https://dandelion.events/o/somarosa "")
 
 {{< /image-section >}}
 
