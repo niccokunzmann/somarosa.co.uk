@@ -43,8 +43,11 @@ Find out more about Sacred Holding Containers [here](https://somarosa.co.uk/offe
 {{< image-section left=true image="/img/embodiment2.jpg" alt="" >}}
 ## Online 1-1
 
-Held Container online to empower your pleasure and support your nervous system. Working with Breathwork, Sound, Movement, Embodiment, Energy Alchemy to activate your sacred life force underpinned by Nervous System Regulation
-*Until May 2026 only Online offerings with be available
+Held Container online to empower your pleasure and support your nervous system in these areas:
+Awakening your Energygasm, your Orgasmic Woman
+Yoni Egg Demouring & Reclamation
+Nervous System Experiencing & Resourcing 
+Reclaiming your Self Love & Self Pleasure
 
 {{< /image-section >}}
 
