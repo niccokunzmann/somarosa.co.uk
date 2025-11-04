@@ -18,6 +18,19 @@ Each container is unique, because each person and their journey is different. Ea
 
 Supporting your journey into your pleasure with embodiment, supported self-holding & resourcing along your discovery
 
+{{< image-section left=true image="/img/embodiment2.jpg" alt="" >}}
+## Online 1-1
+
+Held Container online to empower your pleasure and support your nervous system in these areas:
+Awakening your Shakti, Your Full Body Pleasure
+Yoni Egg Demouring & Reclamation
+Nervous System Experiencing & Resourcing 
+Reclaiming your Self Love & Self Pleasure
+These sessions are £65 - £85 sliding scale (£85 is standard price, £65 / £75 for those who need financial support)
+
+Also some of these practices are available in online group sessions. See full list of group sessions [here](https://dandelion.events/o/somarosa "")
+
+{{< /image-section >}}
 -
 
 
@@ -40,18 +53,7 @@ Held container for your journey in opening, deepening, exploring greater love, s
 Find out more about Sacred Holding Containers [here](https://somarosa.co.uk/offerings/sacred-holding/ "")
 {{< /image-section >}}
 
-{{< image-section left=true image="/img/embodiment2.jpg" alt="" >}}
-## Online 1-1
 
-Held Container online to empower your pleasure and support your nervous system in these areas:
-Awakening your Energygasm, Your Full Body Pleasure
-Yoni Egg Demouring & Reclamation
-Nervous System Experiencing & Resourcing 
-Reclaiming your Self Love & Self Pleasure
-
-Also some of these practices are available in online group sessions. See full list of group sessions [here](https://dandelion.events/o/somarosa "")
-
-{{< /image-section >}}
 
 ## We journey into the body, observe what's there, move with what's alive... And let your body guide the way...
 

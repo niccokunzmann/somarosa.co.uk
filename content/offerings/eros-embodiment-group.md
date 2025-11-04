@@ -10,7 +10,7 @@ description: I hold online working group sessions - The Eros Embodiment Group - 
 
 I hold online working group sessions - The Eros Embodiment Group - that is a community working group coming together to journey as an individual and with the collective. You can come to one session or every session, as suits you. Every month we work with something different, no two sessions the same. There is a theme for what feels right for the session, and that is also responsive and fluid to meet the needs of the group that attend. 
 
-
+Current Online sessions are available [here](https://dandelion.events/o/somarosa "") 
 
 Below are what sessions can involve, which could be a large focus on one of them, multiple or sometimes weaving all of them together. These containers are empowering your sacred self pleasure, to feel alive and safe within your own body, your nervous system, your pleasure in this online circle. 
 
