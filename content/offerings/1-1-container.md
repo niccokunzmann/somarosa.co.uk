@@ -24,18 +24,18 @@ Supporting your journey with your pleasure with embodiment, supported self-holdi
 Held Container tailored to where you're at on your journey, setting the pace that's right for your nervous system as healing can only unfold when the nervous system feels safe. I work intuitively to pull in practices that suit where you're at. These session outlines are not rigid structures and so are not limited to what's outlined below.
 
 
-##Reclaiming your Self Love & Self Pleasure
+Reclaiming your Self Love & Self Pleasure
 Tailored practices meeting you within:
 - Creating or deepening embodied connection to your pleasure & body
 - Cultivating love for yourself & your body
 - Activating your sexual energy, also bringing increased overall vitality
 - Harnessing your sexual energy, sublimating and channelling your sexual energy for balanced aliveness
 
-##Awakening your Kundalini Shakti, Your Full Body Pleasure
+Awakening your Kundalini Shakti, Your Full Body Pleasure
 
 Working with Taoist Tantric Arts practice, Breathwork, Self-pleasure to awaken your Shakti energy (Kundalini) to come alive, to circulate for Whole Body Pleasure. Will be tailored to depending where you're at in your Kundalini journey 
 
-##Yoni Egg Demouring & Reclamation
+Yoni Egg Demouring & Reclamation
 Yoni Egg practices can be used to clear and heal blocked energies and emotions held in the yoni and rest of the body, but can also be used to cultivate sexual vitality that recharges the whole body's vitality. 
 Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy, Guided Self Love & Self pleasure practices, 
 
