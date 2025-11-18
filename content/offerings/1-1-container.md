@@ -21,7 +21,13 @@ Supporting your journey with your pleasure with embodiment, supported self-holdi
 {{< image-section left=true image="/img/embodiment2.jpg" alt="" >}}
 ## Online 1-1
 
+
 Held Container tailored to where you're at on your journey, setting the pace that's right for your nervous system as healing can only unfold when the nervous system feels safe. I work intuitively to pull in practices that suit where you're at. These session outlines are not rigid structures and so are not limited to what's outlined below.
+
+
+{{< /image-section >}}
+-
+
 
 
 Reclaiming your Self Love & Self Pleasure
@@ -40,7 +46,7 @@ Yoni Egg practices can be used to clear and heal blocked energies and emotions h
 Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy, Guided Self Love & Self pleasure practices, 
 
 
-##Nervous System Experiencing & Resourcing 
+Nervous System Experiencing & Resourcing 
 A session focused on embodied learning about your unique nervous system - guided to deepen in body, seeing what's there, learning to recognise your nervous system state, and then practices offered to respond to your real-time nervous system state and tracking your body's response. 
 
 
@@ -50,11 +56,6 @@ A session focused on embodied learning about your unique nervous system - guided
 These sessions are £55 - £75 sliding scale (£75 is standard price, £55 / £65 for those who need financial support)
 
 Also some of these practices are available in online group sessions. See full list of group sessions [here](https://dandelion.events/o/somarosa "")
-
-{{< /image-section >}}
--
-
-
 
 {{< image-section left=true image="/img/page-banners/sacred-pleasure-banner.jpg" alt="" >}}
 ## Sacred Pleasure 1-1
