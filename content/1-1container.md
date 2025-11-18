@@ -16,17 +16,38 @@ Each container is unique, because each person and their journey is different. Ea
 ## Your Body
 ## Your Needs
 
-Supporting your journey into your pleasure with embodiment, supported self-holding & resourcing along your discovery
+Supporting your journey with your pleasure with embodiment, supported self-holding & resourcing along your discovery
 
 {{< image-section left=true image="/img/embodiment2.jpg" alt="" >}}
 ## Online 1-1
 
-Held Container online to empower your pleasure and support your nervous system in these areas:
-Awakening your Shakti, Your Full Body Pleasure
-Yoni Egg Demouring & Reclamation
-Nervous System Experiencing & Resourcing 
-Reclaiming your Self Love & Self Pleasure
-These sessions are £65 - £85 sliding scale (£85 is standard price, £65 / £75 for those who need financial support)
+Held Container tailored to where you're at on your journey, setting the pace that's right for your nervous system as healing can only unfold when the nervous system feels safe. I work intuitively to pull in practices that suit where you're at. These session outlines are not rigid structures and so are not limited to what's outlined below.
+
+
+##Reclaiming your Self Love & Self Pleasure
+Tailored practices meeting you within:
+- Creating or deepening embodied connection to your pleasure & body
+- Cultivating love for yourself & your body
+- Activating your sexual energy, also bringing increased overall vitality
+- Harnessing your sexual energy, sublimating and channelling your sexual energy for balanced aliveness
+
+##Awakening your Kundalini Shakti, Your Full Body Pleasure
+
+Working with Taoist Tantric Arts practice, Breathwork, Self-pleasure to awaken your Shakti energy (Kundalini) to come alive, to circulate for Whole Body Pleasure. Will be tailored to depending where you're at in your Kundalini journey 
+
+##Yoni Egg Demouring & Reclamation
+Yoni Egg practices can be used to clear and heal blocked energies and emotions held in the yoni and rest of the body, but can also be used to cultivate sexual vitality that recharges the whole body's vitality. 
+Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy, Guided Self Love & Self pleasure practices, 
+
+
+##Nervous System Experiencing & Resourcing 
+A session focused on embodied learning about your unique nervous system - guided to deepen in body, seeing what's there, learning to recognise your nervous system state, and then practices offered to respond to your real-time nervous system state and tracking your body's response. 
+
+
+
+
+
+These sessions are £55 - £75 sliding scale (£75 is standard price, £55 / £65 for those who need financial support)
 
 Also some of these practices are available in online group sessions. See full list of group sessions [here](https://dandelion.events/o/somarosa "")
 
