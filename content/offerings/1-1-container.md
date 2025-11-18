@@ -10,27 +10,22 @@ description: Each container is unique, because each person and their journey is 
 
 ## What will we discover in your Journey?
 
-Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, to listen, and how to understand the messages of what's needed, what's desired. 
+Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, for how we can connect to the pleasures within your body. 
 
 ## Your Journey
 ## Your Body
-## Your Needs
+## Your Pleasure
 
-Supporting your journey with your pleasure with embodiment, supported self-holding & resourcing along your discovery
+
 
 {{< image-section left=true image="/img/embodiment2.jpg" alt="" >}}
-## Online 1-1
-
-
-
-
-
-{{< /image-section >}}
--
-
 Held Container tailored to where you're at on your journey, setting the pace that's right for your nervous system as healing can only unfold when the nervous system feels safe. I work intuitively to pull in practices that suit where you're at. These session outlines are not rigid structures and so are not limited to what's outlined below.
+{{< /image-section >}}
 
-Reclaiming your Self Love & Self Pleasure
+
+## Online 1-1
+##Reclaiming your Self Love & Self Pleasure
+
 Tailored practices meeting you within:
 - Creating or deepening embodied connection to your pleasure & body
 - Cultivating love for yourself & your body
