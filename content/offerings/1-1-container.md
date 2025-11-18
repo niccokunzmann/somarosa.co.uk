@@ -22,13 +22,13 @@ Supporting your journey with your pleasure with embodiment, supported self-holdi
 ## Online 1-1
 
 
-Held Container tailored to where you're at on your journey, setting the pace that's right for your nervous system as healing can only unfold when the nervous system feels safe. I work intuitively to pull in practices that suit where you're at. These session outlines are not rigid structures and so are not limited to what's outlined below.
+
 
 
 {{< /image-section >}}
 -
 
-
+Held Container tailored to where you're at on your journey, setting the pace that's right for your nervous system as healing can only unfold when the nervous system feels safe. I work intuitively to pull in practices that suit where you're at. These session outlines are not rigid structures and so are not limited to what's outlined below.
 
 Reclaiming your Self Love & Self Pleasure
 Tailored practices meeting you within:
@@ -57,7 +57,7 @@ These sessions are £55 - £75 sliding scale (£75 is standard price, £55 / £6
 
 Also some of these practices are available in online group sessions. See full list of group sessions [here](https://dandelion.events/o/somarosa "")
 
-{{< image-section left=true image="/img/page-banners/sacred-pleasure-banner.jpg" alt="" >}}
+{{< image-section left=true image="/img/sacredpleasurepage.png" alt="" >}}
 ## Sacred Pleasure 1-1
 
 Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, to listen, and how to understand the messages of what's needed, what's desired. 
