@@ -48,6 +48,7 @@ A session focused on embodied learning about your unique nervous system - guided
 "I cannot recommend Anya highly enough for the spaces she holds. She created a beautifully curated safe space that allowed me to feel held, seen and accepted.  I could be me, showing vulnerability and self in a way that I knew would be cherished and held"
 -Chris
 
+## Book a 20 minute Discovery Call [Here](https://linktr.ee/somarosaonline "")
 
 These sessions are £55 - £75 sliding scale (£75 is standard price, £55 / £65 for those who need financial support)
 
