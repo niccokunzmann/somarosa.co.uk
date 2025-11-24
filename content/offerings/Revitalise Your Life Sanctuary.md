@@ -1,54 +1,96 @@
 ---
-title: "The Eros Embodiment Group"
+title: "Revitalise Your Life Sanctuary"
 date: 2025-06-05
 draft: false
 featured: true
 weight: 1
-banner: erosembodiment2.png
+banner: sanctuary-banner.png
 description: A 3 month program to Revitalise Your Life. Rewire Your Nervous System. Renew Your Zest for Life. Focused on Embodiment, Nervous System, Pleasure Rewiring. Tailored to where you're at in your journey, to meet you needs. 
 ---
 
+## Revitalise Your Life
+
+12 Weeks to Embodied Pleasure, Full Aliveness
+Rewire your nervous system. Broaden your Nervous System Tool Kit. 
+
+This is a template. In our consultation we establish how this will alter to meet your needs. Everyone’s journey is different so therefore needs a different program, but this gives a flavour of what we may work with. 
+There is also a version for men also. 
+
+1st session: 90min Session. Grounding Reflection of where you’re at now and where you’d like to evolve into
+Creating goals for bringing in daily routines, practices that are achievable within your life. 
+
+2nd session: Nervous System Tracking Practice
+
+3rd session: Establishing your Nervous System Safety & Danger Cues
+
+4th session: Gestalt Therapy 
+
+5th session: Breathwork Journey.
+
+6th session: Self pleasure massage ritual. Womb clearing
+
+7th session: Yoni de-amouring
+
+8th Session: Awakening the Senses
+
+9th session: Activating Root Chakra & Awakening microcosmic orbit. 
+
+10th session: Finding your Authentic Sensuality 
+
+11th session: Sex Magick Full Kundalini Activation 
+
+12th session: Integration. Revisiting practices. 
+
+Weekly 1-1 Sessions for 12 weeks. Personal Reflection Kit & Homeplaywork: £900
+
+On call - can send a message whenever they need and i will respond within 24hrs. Extra £250 
 
 
-Below are what sessions can involve, which could be a large focus on one of them, multiple or sometimes weaving all of them together. These containers are empowering your sacred self pleasure, to feel alive and safe within your own body, your nervous system, your pleasure in this online circle. 
+## Rewire Your Nervous System
 
-For example, a container might be about Energygasms; Deepening Embodied Self Love; Embodiment Resourcing; Opening your Sacral to Vocal Channel..... and so much more!!
+3 month program. Fortnightly sessions.
+Rewire Your Nervous System, Rewire Your Life.
+Everything we experience is through the filter of our nervous system, so by reprogramming our nervous system, broadening our neuroplasticity then our whole experience of life transforms. 
 
-​
-This circle is open to all genders, sexual orientations and relationship statuses. 
+Session 1: Nervous System Tracking Practice. Creating goals for bringing in daily routines, practices that are achievable within your life. 
 
----
+Session 2: Establishing your Nervous System Safety & Danger Cues
 
-## Your Eros
+Session 3: EFT Tapping / Tao Self Massage / Energy points 
 
-We journey to awaken, empower, enliven your life force, your sekhem, your prana, your eros. This powerful force of energy has many names across many traditions and ancient cultures - it is the source of all life, the source of our expression, our creative fire. Yet it has been shamed, suppressed and misunderstood for thousands of years. We change the story within our body, we reclaim our body, our power, our story and rewrite our future.
+Session 4: Gestalt Therapy
 
-## Your Breath
+Session 5: Journey through Nervous System States
 
-Your breath is the most powerful tools you have access to - and you have access to it, you use it every single moment. And because we use it every single moment we take it for granted, forgetting it is a vessel for transformation. We can change our state of being at any moment just with our breath - to energise, to relax, to reset our nervous system, to release stuck energies...
+Session 6: Developing Your Resourcing practices.
 
-## Your Sound
+3 month package: 6 sessions, Homeplaywork, Personal Reflection Pack £450
 
-Your sound is sacred. Each person's sound, each moment of your sound is unique in frequency and has the power to heal, to transform yourself and others. 
 
-Expression through our vocals stimulates our vagus nerve, and therefore aids our nervous system into parasympathetic states. Our vocal chords connect to our sacral centre - activating the sacral to vocal channel allows our life force energy to flow and be expressed, to awaken in all of our body, for a pathway for our kundalini energy to arise. 
+## Your Authentic Embodied Pleasure
 
-## Somatic Movement
+1st session: Manifestation Visualisation. Somatic Tracking.
 
-When activated in a sympathetic state movement is needed to circulate and release stuck energy, which allows us to settle into a neutral regulated state again.
+2nd session: Gestalt Therapy.
 
-## Embodiment & Resourcing
+3rd Session: Self pleasure ritual.Womb clearing practice
 
-Dropping into our somatic experience, being curious about what we find, we can notice sensations, feelings we otherwise might overlook.
+4th session: Yoni de-amouring
 
-We can also find resource in our body, regulate our nervous system and experience greater relaxation, contentment, and safety. 
+5th session: Activate Root Chakra Awakening microcosmic orbit. 
 
-## Nervous System Regulation
+6th session: Finding Your Authentic Sensuality
 
-We start with practices to ground into the space, regulate as only from a regulated state can we go on a journey of deep discovery. I am a Trauma Informed Space-holder that responds to the needs of the group, and pulls upon various practices that are right for the moment
+7th session: Sex Magick Full Kundalini Activation 
 
-## More Dates Coming Soon!
+8th session: Developing your Resourcing Practice. Integration. 
 
-> "Life changing! - A space held extremely well for all wanting to explore connection and all of its possibilities…" - Lee, Wales
+6 sessions, Homeplaywork, Personal Reflection Pack £450
+
+8 sessions, Homeplaywork, Personal Reflection Pack £595
+
+
+Book a 20 min [Discovery Call](https://calendly.com/somarosauk/discoverycall "")
+
 
 ![](/img/eros-bottom.jpg)

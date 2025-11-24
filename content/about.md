@@ -8,8 +8,6 @@ banner = "about-banner.jpg"
 +++
 
 
-![](/img/about-anya.jpg)
-
 i'm Anya. I am a Tao Tantric Arts Facilitator, Temple Priestess, Sacred Sexuality, Trauma Informed Somatic Embodiment & Women's work Space-holder, Yoga Teacher, Ceremonial Dancer, Singer, Sound Healing Practitioner and Artist.
 
 My passions weave through in a variety of ways, I believe in full expression of life without apology. In power of expression channelled through our life force, Eros, to be expressed in creativity and sexuality that is felt in every moment, every sensation, every experience. 
