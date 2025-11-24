@@ -19,7 +19,7 @@ See more [here](https://somarosa.co.uk/offerings/revitalise-your-life-sanctuary/
 ## Sensuality
 
 Embodied enquiry of how YOUR sacred flow of life, your Eros, flows through you... We journey within to discover what this looks and feels like for you. 
-Discover your authentic sensual self in group circle, the list of upcoming workshops[here](https://dandelion.events/o/somarosa "")
+Discover your authentic sensual self in group circle, the list of upcoming workshops [here](https://dandelion.events/o/somarosa "")
 
 {{< /image-section >}}
 
