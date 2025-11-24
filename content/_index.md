@@ -14,7 +14,7 @@ See more [here](https://somarosa.co.uk/offerings/revitalise-your-life-sanctuary/
 {{< /image-section >}}
 
 
-{{< image-section left=true image="/img/homepage-1.jpg" alt="" >}}
+{{< image-section left=false image="/img/homepage-1.jpg" alt="" >}}
 
 ## Sensuality
 
