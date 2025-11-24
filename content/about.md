@@ -8,7 +8,8 @@ banner = "about-banner.jpg"
 +++
 
 
-i'm Anya. I am a Tao Tantric Arts Facilitator, Temple Priestess, Sacred Sexuality, Trauma Informed Somatic Embodiment & Women's work Space-holder, Yoga Teacher, Ceremonial Dancer, Singer, Sound Healing Practitioner and Artist.
+i'm Anya. I am a Trauma-Informed Embodiment & Pleasure Coach, intuitive to your needs and your journey. I weave in the many practices I've learnt over the last 10 years from 
+Tao Tantric Arts, Somatic Healing, Nervous System Regulation & Attunement, Breathwork, Yoga, Sound Healing, Ceremony, Priestesshood and much more from my journey of embodiment, expression, sexuality, connection, deep connection to earth & spirit. 
 
 My passions weave through in a variety of ways, I believe in full expression of life without apology. In power of expression channelled through our life force, Eros, to be expressed in creativity and sexuality that is felt in every moment, every sensation, every experience. 
 
@@ -47,6 +48,6 @@ Sound Therapy with Elaine Thompson April 2022
 amongst many many more wonderful teachers and Mystery Schools that have fed into my life journey from across the globe.
 
 
-{{< image-section left=false image="/img/certificates/YTTCcert.jpg" alt="" >}}
+{{< image-section left=false image="/img/certificates/YTTCcert.jpeg" alt="" >}}
 
 {{< /image-section >}}
