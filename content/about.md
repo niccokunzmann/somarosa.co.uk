@@ -16,7 +16,7 @@ I guide women who feel disconnected from themselves, their body, their pleasure,
 I am devoted to this work because I lived the disconnection.
 
 I lived the numbness, the shutdown, the loneliness, the emptiness, the overwhelm, the dissociation, the “I am not enough” whilst also “I’m too much”, the “What am i truly feeling? What am i needing?”
-Then after a sudden awakening, suddenly cracked open to the other extreme where oscillating between embodied feeling and dissassociation, my question was “How do i feel all of this and stay embodied?!” 
+Then after a powerful awakening, suddenly cracked open, my question was “How do i feel all of this and stay embodied?!” 
 
 
 And I know — without a shred of doubt — that:
@@ -78,13 +78,16 @@ Her presence immediately makes me feel safe, open and receptive. Through her Tem
 
 For most of my childhood and early adulthood, from seven years old onward, I lived in a body that felt shut down.
  Numb.
+ 
  Emotionally disconnected from life, from people, from myself.
-With unrecognised Autism and ADHD, and emotional needs that went unseen and unmet, I learned to mask everything.
+With unrecognised Autism and ADHD, and emotional needs that went unseen and unmet,  I lived in chronic shutdown.
+
  I internalised my entire life experience.
  I didn’t know the language for my emotions — most of the time, I didn’t even know what I was feeling.
- I lived in chronic shutdown.
+ 
 So I became the girl who said,
  “I’m fine,” - because it was easier than saying the truth “I don’t know what I’m feeling” or “I’m not okay but I don’t know what I need”
+ 
 When I heard people speak about “being an empath,” I wondered,
  Why don’t I feel much? What’s wrong with me?
 Looking back, now i can understand:
@@ -94,70 +97,91 @@ Looking back, now i can understand:
 
 That dull, desolate sense of existence became my normal.
  I assumed I simply had a natural tendency toward depression — and I carried shame about that, especially in a world that, at the time, didn’t speak openly about mental health.
+ 
  The more insecure I felt, the more i would mask - terrified that someone would see the truth under it that i wasn’t. 
 There was a moment of abandonment in my early years that marked me deeply.
+
  A school counsellor suggested I put the painful emotions into a box — to open only on “special occasions.”
-At 7 years old, my Mum’s fiance who i deeply loved, left and i never saw her again. My only 2 school friends both moved away within 6 months, and I felt insecure and lonely. As a solution to this, a school counsellor suggested that I “Put the memories & emotions that caused pain with it into a box, and when i wanted to i could look at that box at special occasions”
+
 I thought I had discovered a secret solution:
 If I put all uncomfortable emotions into this imaginary box… why would I ever open it at all?
-So I didn’t open the box. And for nearly 2 decades every difficult emotion went inside that box — hidden, locked, suppressed. .
+So I didn’t open the box. And for nearly 2 decades every difficult emotion went inside that box — hidden, locked, suppressed. For nearly 2 decades...
+
 By my early twenties, I had created what looked like the perfect life:
  a brilliant graduate job, amazing colleagues, financial security, a lively social life, a stable home.
 And yet, walking through the vibrant streets of Covent Garden one evening, I felt a deep emptiness in my chest. Void. 
+
 How can I have all this in my life… and still feel so empty?
 I realised that the life I had been striving for — career, money, achievements — was never going to fill the void inside me.
+
 I went travelling on a gap year, which turned into 3 years, on what on the surface i thought was to “see the world” was actually a search for myself, for who i was and where i belonged, which I’d questioned since a child. 
 
 
-I eventually found that sense of home in an unexpected place: the community of South Wales.
+I eventually found that sense of home in a community in Wales.
  For the first time, my nervous system exhaled.
  Slowly, gently, I began to unravel.
-Then came Ireland.
-In a ruined cathedral, something cracked open in me — suddenly, fiercely, beautifully.
+ 
+Then on a Pilgramage in Ireland, in a ruined cathedral, something cracked open in me — suddenly, fiercely, beautifully.
  It was like a lifetime of numbness dissolved in an instant.
  I felt everything.
  All emotions at once.
  All realms at once.
+ 
 It felt like a week-long psychedelic initiation without any plant medicine — visions, energies, past-life threads, ancestral insight.
+
 But returning to daily life after such a sudden rupture… is its own kind of initiation.
+
 For a year, I cried every day.
 I cried from gratitude — finally able to feel the beauty of life.
  And I cried from grief — for the decades I hadn’t.
  And I cried because the sheer intensity of feeling left me wondering,
  How do I live with all of this?
+ 
 My nervous system oscillated wildly between being in body and total overwhelm.
  I would feel everything — then dissociate.
+ 
  My system had learnt this response when I was 17, a physical assault whereby my nervous system could only result to witnessing the terror from above my body. 
+ 
 Years later, I found i could I dissociate into bliss, into spiritual realms, into the faerie world — a place where sensitivity felt safe and where I longed to stay away from the difficulty of human relating and physical stimulus. 
+
 But while my consciousness floated, my body was left unprotected — energetically vulnerable to entity possession. 
  I sought guidance from Shamanic Healers who showed me how to protect my energy field, but still I didn’t understand the impact that disassociation had on my nervous system and thought as long as i energetically protected myself, I could enjoy this “blissful spiritual experience”. 
+ 
 Slowly, I began to realise that even though the dissociated bliss felt spiritual and beautiful, I wasn’t embodied.
 I had to learn how to stay in my body again, rewiring an entire lifetime of shutdown, dissociation, hyper-sensitivity, and survival state mechanisms.
+
 The simplest things would overwhelm me:
  a voice too loud, a car driving past, someone sitting too close, a fabric brushing my skin.
 I would lose sensation.
  Go numb.
  Spin into overthinking.
  Float away.
+ 
 So I began the profound work of learning my nervous system — understanding its danger or safety cues, its fears, its patterns.
  Learning my body’s language.
 And as I stopped resisting sensations and emotions…
  I began to soften into them. Feeling became a doorway — not a threat.
+ 
 Alongside this, I found Tantra, sacred sexuality, and breathwork — and later, orgasmic breathwork.
 These teachings showed me that every emotion — grief, anger, shame, joy — is energy.
  Life force.
  Shakti.
+ 
 And when allowed to flow, even the painful emotions can transmute into pleasure.
+
 My river of life, once dammed and stagnant, began to move again.
  Sometimes it still meets rocks — I am a messy, feeling, human — but then again my system remembers, and allows. 
 
-
 The more I allow myself to feel, the more aliveness fills my body — and the more pleasure becomes available in every moment.
+
 This is why I am devoted to this work.
+
 Because I know what it is like to live disconnected from yourself, from your body, from your pleasure, from your emotions.
+
  And I know what becomes possible when the river begins to flow again.
 To pleasure through sensation. 
 Through your real-time body’s experience. 
+
 This is the journey to Embodied Pleasure.
  To full aliveness.
  To sovereign feminine power.
