@@ -16,7 +16,7 @@ See more [here](https://somarosa.co.uk/offerings/revitalise-your-life-sanctuary/
 
 {{< image-section left=false image="/img/homepage2.jpg" alt="" >}}
 
-## Why I Believe You, Too, Can Rediscover your Aliveness
+## Yes! You CAN Rediscover your Aliveness
 
 I am devoted to this work because I lived the disconnection.
 
