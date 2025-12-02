@@ -50,6 +50,8 @@ A session focused on embodied learning about your unique nervous system - guided
 
 ## Book a 20 minute Discovery Call [Here](https://linktr.ee/somarosaonline "")
 
+There are also 3 month programs if you're seeking a deep dive to completely Revitalise Your Life in the Sanctuary. See more [here](https://somarosa.co.uk/offerings/revitalise-your-life-sanctuary/ "")
+
 These sessions are £55 - £75 sliding scale (£75 is standard price, £55 / £65 for those who need financial support)
 
 Also some of these practices are available in online group sessions. See full list of group sessions [here](https://dandelion.events/o/somarosa "")
