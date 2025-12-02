@@ -7,16 +7,40 @@ title: "Somarosa"
 
 Join the Sanctuary to Rewire Your Nervous System, Renew Your Zest for Life, and fully Revitalise Your Life. 
 Focused on Embodiment, Nervous System, Discovering your Authentic Embodied Pleasure. 
-Tailored to where you're at in your journey, to meet you needs. 
-A 3 month deep dive individualised program
+A 12 week deep dive individualised program, tailored to where you're at in your journey, to meet you needs.
 
 See more [here](https://somarosa.co.uk/offerings/revitalise-your-life-sanctuary/ "")
 {{< /image-section >}}
 
 
-{{< image-section left=false image="/img/homepage-1.jpg" alt="" >}}
 
-## Sensuality
+{{< image-section left=false image="/img/homepage2.jpg" alt="" >}}
+
+## Why I Believe You, Too, Can Rediscover your Aliveness
+
+I am devoted to this work because I lived the disconnection.
+
+I lived the numbness, the shutdown, the loneliness, the emptiness, the overwhelm, the disassociation, the “I am not enough” whilst also “I’m too much”, the “What am i truly feeling? What am i needing?”
+
+And I know — without a shred of doubt — that:
+Every woman can awaken her aliveness.
+Every woman can rediscover her authentic pleasure.
+Every woman can reconnect to her body.
+Every woman can rise in her feminine power.
+
+{{< /image-section >}}
+
+But the path comes not from forcing or performing.
+
+It begins with softening, surrendering to what our body is trying to tell us.
+Feeling, listening, to what is truly there
+Allowing space for your Nervous System to breathe, to feel.
+It begins with returning to Home to your body, and from Embodied Home can safety, pleasure, aliveness can be rediscovered and reclaimed
+
+
+{{< image-section left=true image="/img/homepage-1.jpg" alt="" >}}
+
+## Your Authentic Sexuality
 
 Embodied enquiry of how YOUR sacred flow of life, your Eros, flows through you... We journey within to discover what this looks and feels like for you. 
 Discover your authentic sensual self in group circle, the list of upcoming workshops [here](https://dandelion.events/o/somarosa "")
@@ -24,24 +48,10 @@ Discover your authentic sensual self in group circle, the list of upcoming works
 {{< /image-section >}}
 
 
-## Embodiment
-
-Dropping into your inner world, learning to listen to the body's subtle messages of what your body needs. We track and respond to  what's needed moment to moment
 
 
 
 
-## Expression
-
-There are many ways to express ourselves, we explore those that are offered from the core of our being, our inner child's desires, our animal body expression, our eros wild and alive, free to express. 
 
 
-
-{{< image-section left=false image="/img/homepage2.jpg" alt="" >}}
-
-## Connection
-
-We connect in heart, setting down the masks we carry in the outside world to see and be seen at soul level. When we connect from this space, our hearts and bodies are deeply enriched.
-
-{{< /image-section >}}
 
