@@ -8,20 +8,16 @@ banner = "about-banner.jpg"
 +++
 
 
-i'm Anya. I am a Trauma-Informed Embodiment & Pleasure Coach, intuitive to your needs and your unique journey. I weave in the many practices I've learnt over the last 10 years from 
+Hello! I'm Anya, a Trauma-Informed Embodiment & Pleasure Coach, intuitive to your needs and your unique journey. I weave in the many practices I've learnt over the last 10 years from 
 Tao Tantric Arts, Somatic Healing, Nervous System Regulation & Attunement, Breathwork, Yoga, Sound Healing, Ceremony, Priestesshood and much more from my journey of embodiment, expression, sexuality, connection, deep connection to earth & spirit. 
 
-I guide women who feel disconnected from themselves, disconnected from their body, their pleasure, their zest for life. Women who feel the longing to feel themselves, who they truly are again, yet aren’t sure how to fully access it. 
+I guide women who feel disconnected from themselves, their body, their pleasure, their zest for life. Women who feel the longing to feel themselves, who they truly are again, yet aren’t sure how to fully access it. 
 
 I am devoted to this work because I lived the disconnection.
 
-I lived the numbness, the shutdown, the loneliness, the emptiness, the overwhelm, the disassociation, the “I am not enough” whilst also “I’m too much”, the “What am i truly feeling? What am i needing?”
-Then after being cracked open, I was learning “How do i feel all of this and stay embodied?!” 
+I lived the numbness, the shutdown, the loneliness, the emptiness, the overwhelm, the dissociation, the “I am not enough” whilst also “I’m too much”, the “What am i truly feeling? What am i needing?”
+Then after a sudden awakening, suddenly cracked open to the other extreme where oscillating between embodied feeling and dissassociation, my question was “How do i feel all of this and stay embodied?!” 
 
-I lived this for nearly two decades. 
-
-Masking what was truly going on, even to myself. 
-The chronic survival.
 
 And I know — without a shred of doubt — that:
  Every woman can awaken her aliveness.
