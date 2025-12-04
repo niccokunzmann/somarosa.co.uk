@@ -13,10 +13,12 @@ description: Each container is unique, because each person and their journey is 
 Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, for how we can connect to the pleasures within your body. 
 Online sessions available only until May 2026. 
 
-## Your Journey
-## Your Body
-## Your Pleasure
+## Recalibrate Your Life
+## Reawaken Your Pleasure
+## Remember Your Truth
 
+From feeling overwhelmed, stressed, burnt out, disconnected
+To feeling connected, resourced, grounded, capable, neuro-flexible, empowered and Alive!
 
 
 {{< image-section left=true image="/img/embodiment2.jpg" alt="" >}}
