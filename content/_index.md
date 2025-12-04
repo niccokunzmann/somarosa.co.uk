@@ -48,6 +48,8 @@ Discover your authentic sensual self in group circle, the list of upcoming works
 {{< /image-section >}}
 
 
+"Instead of being ashamed of what you've been through, be proud of what you've overcome!" - Dr. Phil
+
 
 
 

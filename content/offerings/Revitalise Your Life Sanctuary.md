@@ -11,10 +11,32 @@ description: A 3 month program to Revitalise Your Life. Rewire Your Nervous Syst
 ## Revitalise Your Life
 
 12 Weeks to Embodied Pleasure, Full Aliveness
-Rewire your nervous system. Broaden your Nervous System Tool Kit. 
+Reawaken Your Senses
+Reclaim Your Body
+Rediscover Your Pleasure
+Reactivate Your Sensuality
+Restore Your Nervous System 
+Recalibrate Negative Patterns, Beliefs, Habits 
+Remember Your Sovereign Feminine Power
+Revitalise Your Life
+
+
+A 12 week immersive journey designed for women who feel the quiet longing inside—the desire for more sensation, more aliveness, more pleasure, more connection to self. This path blends trauma informed nervous system work, feminine embodiment, sensual awakening, and energetic activation rooted in Trauma-Informed Nervous System practice and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations. 
 
 This is a template. In our consultation we establish how this will alter to meet your needs. Everyone’s journey is different so therefore needs a different program, but this gives a flavour of what we may work with. 
 There is also a version for men also. 
+
+## Is this for Me?
+- Do you feel disconnected from your body, feeling numb, shutdown, collapsed, or dissociated is a regular or consistent theme for you
+- Do you feel disconnected from your pleasure: your pleasure, intimacy, orgasms feel anti-climatic, unfulfilling, dull, small, or non-existent?
+- Do you long for intimacy & pleasure that feels life-altering, heart expansive, soul-enlightening
+- Do you long to feel ALIVE, in your sovereign power, feel whole, feel worthy?
+- Do you long for depth of connection to your deep sensual feminine?
+- Do you are READY for self-evolution, transforming from your experience from a fragment of who you are to feel the expansion of all that you truly are?
+If you answered YES to any of these questions then you are Ready to Revitalise Your Life!!
+
+
+To do any healing work, it is essential to find safety within the body. We focus on grounding, establishing anchors for the nervous system. Then we slowly transition into energy clearing practices, to allow space in the body for pleasure, deep connection, aliveness to unravel. 
 
 1st session: 90min Session. Grounding Reflection of where you’re at now and where you’d like to evolve into
 Creating goals for bringing in daily routines, practices that are achievable within your life. 
@@ -41,7 +63,16 @@ Creating goals for bringing in daily routines, practices that are achievable wit
 
 12th session: Integration. Revisiting practices. 
 
-Weekly 1-1 Sessions for 12 weeks. Personal Reflection Kit & Homeplaywork: £900
+What's Included:
+
+•	12 x weekly 1:1 private online sessions
+•	Revitalise Your Life Personal 30 page Workbook
+•	Homeplay practices
+•	Nervous system tools
+•	Energetic & emotional healing 
+•	Taoist & Tantric practices 
+•	Continuation of development and support on a consistent journey
+ Total Package: £900
 
 On call - can send a message whenever they need and i will respond within 24hrs. Extra £250 
 
