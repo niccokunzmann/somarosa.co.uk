@@ -5,9 +5,10 @@ title: "Somarosa"
 {{< image-section left=true image="/img/homepage3.jpg" alt="" >}}
 ## Revitalise Your Life Sanctuary
 
-Join the Sanctuary to Rewire Your Nervous System, Renew Your Zest for Life, and fully Revitalise Your Life. 
-Focused on Embodiment, Nervous System, Discovering your Authentic Embodied Pleasure. 
-A 12 week deep dive individualised program, tailored to where you're at in your journey, to meet you needs.
+Join the Sanctuary to Rewire Your Nervous System, Renew Your Zest for Life and fully Revitalise Your Life. 
+A 12 week immersive path rooted in Trauma-Informed Nervous System practice and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations. 
+Everything we experience is through the filter of our nervous system, so by reprogramming our nervous system, broadening our neuroplasticity then our whole experience of life transforms. You will learn a blend of grounding practices you can do anytime, anywhere that creates long-lasting change for your nervous system and your life. Whilst also rituals you can bring into your life for awakening more sensation, more aliveness and more pleasure.
+A 12 week deep dive individualised program, for you to feel more connected, more alive, more YOU.
 
 See more [here](https://somarosa.co.uk/offerings/revitalise-your-life-sanctuary/ "")
 {{< /image-section >}}
