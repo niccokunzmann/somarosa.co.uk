@@ -20,6 +20,8 @@ Recalibrate Negative Patterns, Beliefs, Habits
 Remember Your Sovereign Feminine Power
 Revitalise Your Life
 
+[See more here](file:///C:/Users/anya_/Downloads/Revitalise%20Life%20Promo.pdf "")
+
 
 A 12 week immersive journey designed for women who feel the quiet longing inside—the desire for more sensation, more aliveness, more pleasure, more connection to self. This path blends trauma informed nervous system work, feminine embodiment, sensual awakening, and energetic activation rooted in Trauma-Informed Nervous System practice and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations. 
 
