@@ -29,16 +29,36 @@ This is a template. In our consultation we establish how this will alter to meet
 There is also a version for men also. 
 
 ## Is this for Me?
-- Do you feel disconnected from your body, feeling numb, shutdown, collapsed, or dissociated is a regular or consistent theme for you
-- Do you feel disconnected from your pleasure: your pleasure, intimacy, orgasms feel anti-climatic, unfulfilling, dull, small, or non-existent?
-- Do you long for intimacy & pleasure that feels life-altering, heart expansive, soul-enlightening
-- Do you long to feel ALIVE, in your sovereign power, feel whole, feel worthy?
-- Do you long for depth of connection to your deep sensual feminine?
-- Do you are READY for self-evolution, transforming from your experience from a fragment of who you are to feel the expansion of all that you truly are?
-If you answered YES to any of these questions then you are Ready to Revitalise Your Life!!
+Do you feel disconnected from your body, feeling numb, shutdown, collapsed, or dissociated is a regular or consistent theme for you?
+Do you feel disconnected from your pleasure: your pleasure, intimacy, orgasms feel anti-climatic, unfulfilling, dull, small, or non-existent?
+Life often feels overwhelming, too much, you feel stressed, burnt out?
+Do you often feel stuck whirling in your head, and long to be more present with your body?
+Do you long for intimacy & pleasure that feels deeply fulfilling in your heart & body?
+Do you long to feel ALIVE, in your sovereign power, feel whole, feel worthy?
+Do you long for depth of connection to your deep sensual feminine?
+Are you READY for self-evolution, transforming from your experience from a fragment of who you are to feel the expansion of all that you truly are?
+If you answered YES, you feel the yearning somewhere deep within you, to any of these questions then you are Ready to Revitalise Your Life!!
 
 
-To do any healing work, it is essential to find safety within the body. We focus on grounding, establishing anchors for the nervous system. Then we slowly transition into energy clearing practices, to allow space in the body for pleasure, deep connection, aliveness to unravel. 
+
+Rewire Your Nervous System, 
+Rewire Your Life. 
+
+Everything we experience is through the filter of our nervous system, so by reprogramming our nervous system, broadening our neuroplasticity then our whole experience of life transforms. 
+
+It is ESSENTIAL to find safety within the body FIRST, before then we can deeply feel & release the emotions. And from deepened embodiment, we are connected to our deeper sensations and pleasure comes more alive and richer. 
+
+Throughout the process you will integrate practices to reset, ground, nourish, soothe your system as accessible transformative tools to realistically fit into your daily life. This is where the long-lasting change  occurs for your nervous system and your life. 
+
+Widening your capacity to FEEL again.
+To truly feel whilst staying connected 
+truly connected to your body’s experience
+ to your pleasure,
+ to your emotions,
+ to the truth of who you are.
+ Brings TRUE Nervous System Resiliency = Long lasting change as the Nervous System Reprograms
+
+
 
 1st session: 90min Session. Grounding Reflection of where you’re at now and where you’d like to evolve into
 Creating goals for bringing in daily routines, practices that are achievable within your life. 

@@ -70,6 +70,9 @@ You’re not alone.
 Her presence immediately makes me feel safe, open and receptive. Through her Temple and breath work sessions I have uncovered so much about myself and my own energy, needs and boundaries, which has gone on to help me profoundly in my life. Seeing how her being lights up in these workshops and how that touches others, makes it clear to me this is what she is here to do. Her unique passion and gentleness combined are such medicine in these times and I would recommend her to anyone wanting to experience deep healing."
 -Meg
 
+" Anya has a powerful combination of masculine and feminine. She holds and she inspires. I have worked through a great deal of personal healing. She really cares about each individual, their process and their journey as if it were her own."
+-Amy
+
 "Anya’s guidance is gentle, nurturing and heartfelt, as well as playful, sexy and sensual and I fully recommend the Soma-Rosa Temple experience to anyone looking to revolutionize and empower and revitalize their sexual encounters."
 
 "Anya crafted a warm and inviting atmosphere and held the space lightly and gently, allowing me to ease into intimacy at my own pace and in my own way" - Chris
@@ -214,3 +217,19 @@ amongst many many more wonderful teachers and Mystery Schools that have fed into
 {{< image-section left=false image="/img/certificates/YTTCcert.jpeg" alt="" >}}
 
 {{< /image-section >}}
+
+<script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('b7e7bdd8475519')
+</script>
+<div style="text-align: left" class="sender-form-field" data-sender-form-id="en5Prp"></div> </head>
