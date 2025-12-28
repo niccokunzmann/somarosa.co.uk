@@ -16,8 +16,6 @@ Email [&#104;&#101;&#97;&#114;&#116;&#111;&#102;&#116;&#104;&#101;&#114;&#111;&#
 {{< email-contact-form >}}
 
 
-
-```java
 <script>
   (function (s, e, n, d, er) {
     s['Sender'] = er;
@@ -32,9 +30,6 @@ Email [&#104;&#101;&#97;&#114;&#116;&#111;&#102;&#116;&#104;&#101;&#114;&#111;&#
   })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
   sender('b7e7bdd8475519')
 </script>
-<div style="text-align: left" class="sender-form-field" data-sender-form-id="en5Prp"></div> </head>
-```
-``` 
 
 
 

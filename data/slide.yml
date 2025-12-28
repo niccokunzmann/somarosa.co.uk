@@ -2,13 +2,11 @@
   video: "videos/anya walsh somarosa.co.uk.mp4"
   seconds: 25
 - title": ""
-  image: "img/slide/01-frontpage.png"
+  image: "img/slide/homepage-1.png"
 - title": ""
-  image: "img/slide/02-frontpage.png"
+  image: "img/slide/homepage-2.png"
 - title": ""
-  image: "img/slide/03-frontpage.png"
+  image: "img/slide/homepage-3.png"
 - title": ""
-  image: "img/slide/04-frontpage.png"
-- title": ""
-  image: "img/slide/05-frontpage.png"
+  image: "img/slide/homepage-4.png"
   # color: text-black
