@@ -1,7 +1,7 @@
 ---
 title: "Revitalise Your Life Sanctuary"
 date: 2025-06-05
-draft: false
+draft: true
 featured: true
 parent: private sessions
 weight: 1
