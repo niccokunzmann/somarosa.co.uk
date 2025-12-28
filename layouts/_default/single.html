@@ -4,18 +4,52 @@
 <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:title" content="{{ .Title }}">
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:title" content="{{ .Title }}" />
 
 {{ if .Params.image }}
-  {{ with .Params.image }}
-    <meta property="og:image" content="{{ . | absURL }}">
-  {{ end }}
+  <meta property="og:image" content="{{ .Params.image | absURL }}" />
 {{ else if .Site.Params.homepage_meta_tags.meta_og_image }}
-  <meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image | absURL }}">
+  <meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image | absURL }}" />
 {{ end }}
 
 {{ if .Description }}
   <meta name="description" content="{{ .Description }}" />
   <meta property="og:description" content="{{ .Description }}" />
-  <m
+  <meta property="twitter:description" content="{{ .Description }}" />
+{{ else if .Summary }}
+  <meta name="description" content="{{ .Summary }}" />
+  <meta property="og:description" content="{{ .Summary }}" />
+  <meta property="twitter:description" content="{{ .Summary }}" />
+{{ end }}
+
+{{ end }}
+
+
+{{ define "main" }}
+
+{{ if .Params.banner }}
+  <img
+    src="/img/page-banners/{{ .Params.banner }}"
+    alt="{{ .Title }}"
+    class="page-banner"
+  />
+{{ end }}
+
+<div class="mx-auto my-10 max-w-6xl">
+  <div class="mx-3 px-2">
+
+    {{ if not .Params.banner }}
+      <h1 class="title text-5xl mb-4">{{ .Title }}</h1>
+    {{ end }}
+
+    {{ with .Content }}
+      <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">
+        {{ . }}
+      </div>
+    {{ end }}
+
+  </div>
+</div>
+
+{{ end }}

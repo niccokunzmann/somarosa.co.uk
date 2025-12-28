@@ -5,7 +5,6 @@ draft: false
 featured: true
 parent: private sessions
 weight: 1
-url: https://somarosa.co.uk/private-sessions/revitalise-your-life-sanctuary/
 banner: sanctuary-banner.png
 description: A 3 month program to Revitalise Your Life. Rewire Your Nervous System. Renew Your Zest for Life. Focused on Embodiment, Nervous System, Discovering your Authentic Embodied Pleasure. Tailored to where you're at in your journey, to meet you needs. 
 ---
