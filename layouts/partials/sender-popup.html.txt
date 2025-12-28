@@ -1,3 +1,5 @@
+{{ partial "sender-popup.html" . }}
+</body>
 <script>
   (function (s, e, n, d, er) {
     s['Sender'] = er;
