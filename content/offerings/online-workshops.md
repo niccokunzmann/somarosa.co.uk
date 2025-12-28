@@ -1,11 +1,10 @@
 ---
-title: "Concious Connections"
+title: "Online Workshops"
 date: 2025-06-05
 draft: false
 featured: true
 weight: 1
-banner: cuddleconnections.png
-description: Come for a Platonic connection, love, safety, nourishment, oxytocin and SO much more that will only be understood once you experience it... 
+description: 
 ---
 
 ## Bring in more connection into your life
@@ -19,7 +18,7 @@ To express your needs and find a way they can be met?
 
 Nourishing touch & cuddles can feel scary with strangers, but we gently open to connection gentle step at a time at your own pace doing only what feels really nourishing for you
 
-This is a trauma-informed space as trained by Rachel Rickards & Catherine Hale The Field & Culture of Care where there is a gentle pace supported by attunement, embodied listening and nervous system resourcing. 
+This is a trauma-aware space as trained by Eshana Spiers, where we our regulating our nervous systems and you are held in your experience in what arises for you
 
 ## The Workshop
 
@@ -38,8 +37,18 @@ Everything is an invitation, the workshop is guided so that wherever on the scal
 ​
 ## Upcoming Workshops
 
-No upcoming workshops. The next workshop will be in May 2026, only online offerings are available until then
+No upcoming workshops.
 
+​
+
+Concious Connections on 14 December follows a similar framework without the focus of cuddles.
+
+​
+
+See here: 
+Whitland, 14 Dec 4.30-10pm.
+
+[EVENT PAGE](https://dandelion.events/e/s22ln)​
 
 ## Why come to a Cwtch Connection Workshop?
 

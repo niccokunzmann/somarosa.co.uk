@@ -3,6 +3,7 @@ title: "Revitalise Your Life Sanctuary"
 date: 2025-06-05
 draft: false
 featured: true
+parent: private sessions
 weight: 1
 banner: sanctuary-banner.png
 description: A 3 month program to Revitalise Your Life. Rewire Your Nervous System. Renew Your Zest for Life. Focused on Embodiment, Nervous System, Discovering your Authentic Embodied Pleasure. Tailored to where you're at in your journey, to meet you needs. 

@@ -1,17 +1,15 @@
 ---
-title: "Sacred Pleasure Container"
+title: "Tantric Bodywork"
 date: 2025-06-05
 draft: false
 featured: true
+parent: offerings
 weight: 1
 description: Held containers for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power....​​
-banner: sacred-pleasure-banner.jpg
 ---
 
 
-1-1 Online offerings available only until May 2026 
-
-Held Container for your Sacred Pleasure -
+Tantric Bodywork for your Sacred Pleasure -
 
 ​
 
@@ -63,9 +61,11 @@ Hands on healing for full activation of the 7 energy centres (chakras) along the
 
 ​
 
-Sacred Self Pleasure Container
+Energetic Tantric Container
 
-Guided rediscovery and reclamation of your eros with your self touch, sound, breath, movement 
+As above but without physical touch - guided with energetic touch to circulate your eros, and intuitively guiding your 
+
+rediscovery of your eros with your self touch, sound, breath, movement 
 
 60 minutes - £60
 

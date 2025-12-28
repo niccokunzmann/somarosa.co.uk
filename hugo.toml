@@ -51,65 +51,61 @@ enableRobotsTXT = true
 
 [menu]
 
+  # -------- Parent: Private Sessions --------
   [[menu.main]]
-    identifier = "offerings"
-    name = "Offerings"
-    url = "/offerings/"
+    identifier = "private-sessions"
+    name = "Private Sessions"
+    url = "/private-sessions/"
     weight = 1
 
   [[menu.main]]
-    identifier = "offerings-1"
-    name = "1-1"
-    url = "/offerings/1-1-container/"
-    weight = 10
-
-#  [[menu.main]]
-#    identifier = "offerings-2"
-#    name = "Cwtch Connections"
-#    url = "/offerings/cwtch-connections/"
-#    weight = 11
-#
-#  [[menu.main]]
-#    identifier = "offerings-3"
-#    name = "Eros Embodiment Group"
-#    url = "/offerings/eros-embodiment-group/"
-#    weight = 13
-#
-#  [[menu.main]]
-#    identifier = "offerings-4"
-#    name = "Rose Temple"
-#    url = "/offerings/rose-temple/"
-#    weight = 14
-#
-#  [[menu.main]]
-#    identifier = "offerings-5"
-#    name = "Sacred Holding"
-#    url = "/offerings/sacred-holding/"
-#    weight = 15
-#
-#  [[menu.main]]
-#    identifier = "offerings-6"
-#    name = "Sacred Pleasure"
-#    url = "/offerings/sacred-pleasure/"
-#    weight = 16
-#
-#  [[menu.main]]
-#    identifier = "offerings-7"
-#    name = "Women's Temple"
-#    url = "/offerings/womens-temple/"
-#    weight = 17
+    name = "Revitalise Your Life Sanctuary"
+    url = "/private-sessions/revitalise-your-life-sanctuary/"
+    parent = "private-sessions"
+    weight = 11
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 30
+    name = "Tantric Bodywork"
+    url = "/private-sessions/tantric-bodywork/"
+    parent = "private-sessions"
+    weight = 12
+
+
+  # -------- Parent: Workshops --------
+  [[menu.main]]
+    identifier = "workshops"
+    name = "Workshops"
+    url = "/workshops/"
+    weight = 2
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 40
+    name = "The Rose Temple"
+    url = "/workshops/rose-temple/"
+    parent = "workshops"
+    weight = 20
+
+  [[menu.main]]
+    name = "Online Workshops"
+    url = "/workshops/online-workshops/"
+    parent = "workshops"
+    weight = 21
+
+  [[menu.main]]
+    name = "Women's Temple"
+    url = "/workshops/womens-temple/"
+    parent = "workshops"
+    weight = 22
+
+# -------- Other top-level items -------- 
+[[menu.main]] 
+name = "About" 
+url = "/about/" 
+weight = 30 
+
+[[menu.main]] 
+name = "Contact" 
+url = "/contact/" 
+weight = 40
 
   # ----------- Footer Menu -----------
 
@@ -128,19 +124,19 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Instagram"
-    url = "https://www.instagram.com/somarosa.sensual/"
+    url = "https://www.instagram.com/somarosa.uk/"
     pre = "<i class='fa-brands fa-instagram'></i>"
       weight = 2
 
   [[menu.footer]]
     name = "Facebook"
-    url = "https://www.facebook.com/HeartoftheroseWales"
+    url = "https://www.facebook.com/somarosaonline/"
     pre = "<i class='icon-facebook text-2xl'></i>"
       weight = 3
 
   [[menu.footer]]
     name = "Email"
-    url = "mailto:heartoftherosewales@gmail.com"
+    url = "mailto:somarosauk@gmail.com"
     pre = "<i class='icon-email text-2xl'></i>"
       weight = 4
 

@@ -1,41 +1,94 @@
 <header>
-    <div id="overlay">
-        <ul class="text-center list-none text-white text-3xl">
-            {{ range .Site.Menus.main }}
-            <li class="p-2">
-                <a href="{{ .URL | safeURL }}">
-                    <span>{{ .Name }}</span>
-                </a>
-            </li>
-            {{ end }}
-        </ul>
+  <!-- Mobile overlay menu -->
+  <div id="overlay">
+    <ul class="text-center list-none text-white text-3xl">
+      {{ range .Site.Menus.main }}
+        <li class="p-2">
+          <a href="{{ .URL | safeURL }}">
+            <span>{{ .Name }}</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+
+  <!-- Main navigation -->
+  <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+    <!-- Logo -->
+    <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+      <a href="{{ .Site.BaseURL }}">
+        <img
+          alt="{{ .Site.Params.logo.alt }}"
+          class="{{ .Site.Params.logo.size }} mr-3 logo"
+          src="{{ .Site.Params.logo.main | relURL }}"
+        >
+      </a>
     </div>
-    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
-        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
-            <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}"
-                    class="{{ .Site.Params.logo.size }} mr-3 logo" src="{{ .Site.Params.logo.main | relURL }}"></a>
-        </div>
-        <div class="block lg:hidden">
-            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
-                <span class="top"></span>
-                <span class="middle"></span>
-                <span class="bottom"></span>
-            </div>
-        </div>
-        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
-            <div class="text-lg lg:flex-grow title">
-                <a href="{{ .Site.BaseURL }}">
-                    {{ .Site.Title }}
-                </a>
-            </div>
-            <div class="text-lg">
-                {{ range .Site.Menus.main }}
-                <a href="{{ .URL | safeURL }}"
-                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+
+    <!-- Hamburger -->
+    <div class="block lg:hidden">
+      <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+        <span class="top"></span>
+        <span class="middle"></span>
+        <span class="bottom"></span>
+      </div>
+    </div>
+
+    <!-- Desktop + mobile menu -->
+    <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+
+      <!-- Site title -->
+      <div class="text-lg lg:flex-grow title">
+        <a href="{{ .Site.BaseURL }}">
+          {{ .Site.Title }}
+        </a>
+      </div>
+
+      <!-- Menu items -->
+      <div class="text-lg flex flex-col lg:flex-row">
+
+        {{ range .Site.Menus.main }}
+
+          {{ if .HasChildren }}
+            <!-- Dropdown parent -->
+            <div class="relative group block mt-4 lg:mt-0 mr-8">
+              <a
+                href="{{ .URL | safeURL }}"
+                class="inline-flex items-center text-black hover:opacity-60"
+              >
+                {{ .Name }}
+                <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="M19 9l-7 7-7-7" />
+                </svg>
+              </a>
+
+              <!-- Dropdown -->
+              <div class="absolute left-0 hidden group-hover:block bg-white shadow-lg rounded mt-2 z-50 min-w-[220px]">
+                {{ range .Children }}
+                  <a
+                    href="{{ .URL | safeURL }}"
+                    class="block px-4 py-3 text-black hover:bg-gray-100 whitespace-nowrap"
+                  >
                     {{ .Name }}
-                </a>
+                  </a>
                 {{ end }}
+              </div>
             </div>
-        </div>
-    </nav>
+
+          {{ else }}
+            <!-- Normal link -->
+            <a
+              href="{{ .URL | safeURL }}"
+              class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8"
+            >
+              {{ .Name }}
+            </a>
+          {{ end }}
+
+        {{ end }}
+
+      </div>
+    </div>
+  </nav>
 </header>
