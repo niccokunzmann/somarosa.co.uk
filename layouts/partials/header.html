@@ -53,26 +53,29 @@
           {{ if .HasChildren }}
             <!-- Dropdown parent -->
             <div class="relative group block mt-4 lg:mt-0 mr-8">
+
+              <!-- Parent link -->
               <a
                 href="{{ .URL | safeURL }}"
                 class="inline-flex items-center text-black hover:opacity-60"
               >
                 {{ .Name }}
-                <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg class="ml-1 w-4 h-4 hidden lg:block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                     d="M19 9l-7 7-7-7" />
                 </svg>
               </a>
 
-              <!-- ✅ DROPDOWN (FIXED) -->
-             <div
-  class="absolute left-0 top-full opacity-0 invisible
-         group-hover:opacity-100 group-hover:visible
-         transition-opacity duration-200
-         bg-white shadow-lg rounded mt-0 z-50 min-w-[220px]
-         pointer-events-auto"
->
-
+              <!-- Dropdown -->
+              <div
+                class="
+                  lg:absolute lg:left-0 lg:top-full
+                  opacity-100 visible
+                  lg:opacity-0 lg:invisible
+                  lg:group-hover:opacity-100 lg:group-hover:visible
+                  transition-opacity duration-200
+                  bg-white shadow-lg rounded mt-2 lg:mt-0 z-50 min-w-[220px]
+                "
               >
                 {{ range .Children }}
                   <a
@@ -83,6 +86,7 @@
                   </a>
                 {{ end }}
               </div>
+
             </div>
 
           {{ else }}
