@@ -140,4 +140,3 @@ Session 6: Developing Your Resourcing practices.
 Book a 20 min [Discovery Call](https://calendly.com/somarosauk/discoverycall "")
 
 
-![](/img/eros-bottom.jpg)
