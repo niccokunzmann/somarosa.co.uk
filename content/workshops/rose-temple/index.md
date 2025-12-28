@@ -1,5 +1,5 @@
 ---
-title: "The Rose Temple"
+title: "Rose Temple"
 date: 2025-06-05
 draft: false
 featured: true
