@@ -13,7 +13,8 @@
   </div>
 
   <!-- Main navigation -->
-  <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+  <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8 overflow-visible">
+
     <!-- Logo -->
     <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
       <a href="{{ .Site.BaseURL }}">
@@ -35,7 +36,7 @@
     </div>
 
     <!-- Desktop + mobile menu -->
-    <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+    <div class="hidden w-full flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
 
       <!-- Site title -->
       <div class="text-lg lg:flex-grow title">
@@ -63,8 +64,13 @@
                 </svg>
               </a>
 
-              <!-- Dropdown -->
-              <div class="absolute left-0 hidden group-hover:block bg-white shadow-lg rounded mt-2 z-50 min-w-[220px]">
+              <!-- ✅ DROPDOWN (FIXED) -->
+              <div
+                class="absolute left-0 opacity-0 invisible
+                       group-hover:opacity-100 group-hover:visible
+                       transition-opacity duration-200
+                       bg-white shadow-lg rounded mt-2 z-50 min-w-[220px]"
+              >
                 {{ range .Children }}
                   <a
                     href="{{ .URL | safeURL }}"
