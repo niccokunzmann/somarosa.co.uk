@@ -42,7 +42,7 @@ Now my journey is passing on the baton to those who seek more resilient, capable
 
 Join me in private Sanctuary to Rewire Your Nervous System, Renew Your Zest for Life and fully Revitalise Your Life. 
 
- 12 week deep dive individualised program, for you to feel more connected, more alive, more YOU, rooted in Trauma-Informed Nervous System Recalibration and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations. 
+12 week deep dive individualised program, for you to feel more connected, more alive, more YOU, rooted in Trauma-Informed Nervous System Recalibration and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations. 
 
 Everything we experience is through the filter of our nervous system, so by reprogramming our nervous system, broadening our neuroplasticity then our whole experience of life transforms. You will learn a blend of grounding practices you can do anytime, anywhere that creates long-lasting change for your nervous system and your life. 
 
