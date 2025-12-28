@@ -8,41 +8,14 @@
 <meta property="twitter:title" content="{{ .Title }}">
 
 {{ if .Params.image }}
-{{ with .Params.image }}
-<meta property="og:image" content="{{ . | absURL }}">
-{{ end }}
-{{ else }}
-<meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image | absURL }}">
-{{ end }}
-
-{{- if .Description }}
-<meta name="description" content="{{ .Description }}" />
-<meta property="og:description" content="{{ .Description }}" />
-<meta property="twitter:description" content="{{ .Description }}" />
-{{- else if .Summary }}
-<meta name="description" content="{{ .Summary }}" />
-<meta property="og:description" content="{{ .Summary }}" />
-<meta property="twitter:description" content="{{ .Summary }}" />
-{{- else if .Site.Params.description }}
-<meta name="description" content="{{ .Site.Params.description }}" />
-<meta property="og:description" content="{{ .Site.Params.description }}" />
-<meta property="twitter:description" content="{{ .Site.Params.description }}" />
-{{- end }}
-
+  {{ with .Params.image }}
+    <meta property="og:image" content="{{ . | absURL }}">
+  {{ end }}
+{{ else if .Site.Params.homepage_meta_tags.meta_og_image }}
+  <meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image | absURL }}">
 {{ end }}
 
-{{ define "main" }}
-
-{{ if .Params.banner }}
-    <img src="/img/page-banners/{{ .Params.banner }}" alt="{{ .Title }}" class="page-banner"/>
-{{ end }}
-
-<div class="mx-auto my-10 max-w-6xl">
-  <div class="mx-3 col-span-3 lg:col-span-2 px-2">
-    {{ if not .Params.banner }}
-        <h1 class="title text-5xl mb-4">>{{.Title}}</h1>
-    {{ end }}
-    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">{{.Content}}</div>
-  </div>
-</div>
-{{ end }}
+{{ if .Description }}
+  <meta name="description" content="{{ .Description }}" />
+  <meta property="og:description" content="{{ .Description }}" />
+  <m
