@@ -115,4 +115,4 @@ This is a trauma informed space, facilitators and spaceholders assisting are ava
 
 Id love to hear from you! Get in touch!
 
-[heartoftherosewales@gmail.com](mailto:heartoftherosewales@gmail.com)
+[somarosauk@gmail.com](mailto:somarosauk@gmail.com)
