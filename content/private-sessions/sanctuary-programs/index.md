@@ -1,5 +1,5 @@
 ---
-title: "Sacred Holding Container"
+title: "Sanctuary Programs"
 date: 2025-06-05
 draft: false
 featured: true
