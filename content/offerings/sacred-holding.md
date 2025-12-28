@@ -2,7 +2,7 @@
 title: "Sacred Holding Container"
 date: 2025-06-05
 draft: false
-featured: true
+featured: false
 weight: 1
 description: Held containers for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power....​​
 ---

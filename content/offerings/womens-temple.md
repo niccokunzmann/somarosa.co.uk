@@ -4,6 +4,7 @@ title: "Womens Temple"
 date: 2025-06-05
 draft: true
 featured: true
+parent: offerings
 weight: 1
 description: 
 ---

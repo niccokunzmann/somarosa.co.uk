@@ -1,5 +1,5 @@
 ---
-title: "Online 1-1 Container"
+title: "Private Sanctuary"
 date: 2025-06-05
 draft: false
 featured: true

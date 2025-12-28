@@ -3,6 +3,7 @@ title: "The Eros Embodiment Group"
 date: 2025-06-05
 draft: false
 featured: true
+parent: offerings
 weight: 1
 description: I hold online working group sessions - The Eros Embodiment Group - that is a community working group coming together to journey as an individual and with the collective. You can come to one session or every session, as suits you. Every month we work with something different, no two sessions the same. There is a theme for what feels right for the session, and that is also responsive and fluid to meet the needs of the group that attend. 
 ---

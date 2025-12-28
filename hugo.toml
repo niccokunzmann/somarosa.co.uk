@@ -44,7 +44,7 @@ enableRobotsTXT = true
     meta_og_type = "website"
     meta_og_url = "https://tella.pages.dev" # TODO
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png" # TODO
-    meta_og_description = "Anya Walsh -  Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist."
+    meta_og_description = "Anya Walsh -  Feminine Embodiment Coach, Tantric Bodyworker, Temple Priestess, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist."
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username" # TODO
     meta_twitter_creator = "@username" # TODO
@@ -67,6 +67,7 @@ enableRobotsTXT = true
 #    identifier = "offerings-2"
 #    name = "Cwtch Connections"
 #    url = "/offerings/cwtch-connections/"
+#	parent = "offerings"
 #    weight = 11
 #
 #  [[menu.main]]
@@ -127,19 +128,19 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Instagram"
-    url = "https://www.instagram.com/somarosa.sensual/"
+    url = "https://www.instagram.com/somarosa.uk/"
     pre = "<i class='fa-brands fa-instagram'></i>"
       weight = 2
 
   [[menu.footer]]
     name = "Facebook"
-    url = "https://www.facebook.com/HeartoftheroseWales"
+    url = "https://www.facebook.com/somarosaonline"
     pre = "<i class='icon-facebook text-2xl'></i>"
       weight = 3
 
   [[menu.footer]]
     name = "Email"
-    url = "mailto:heartoftherosewales@gmail.com"
+    url = "mailto:somarosauk@gmail.com"
     pre = "<i class='icon-email text-2xl'></i>"
       weight = 4
 
