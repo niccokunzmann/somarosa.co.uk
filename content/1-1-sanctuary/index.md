@@ -50,7 +50,7 @@ Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy
 A session focused on embodied learning about your unique nervous system - guided to deepen in body, seeing what's there, learning to recognise your nervous system state, and then practices offered to respond to your real-time nervous system state and tracking your body's response. 
 
 
-There are also 3 month programs if you're seeking a deep dive to completely Revitalise Your Life in the Sanctuary. See more [here](https://somarosa.co.uk/offerings/revitalise-your-life-sanctuary/ "")
+There are also 3 month programs if you're seeking a deep dive to completely Revitalise Your Life in the Sanctuary. See more [here](https://somarosa.co.uk/sanctuary/revitalise-your-life-sanctuary/ "")
 
 
 These sessions are £55 - £75 sliding scale (£75 is standard price, £55 / £65 for those who need financial support)
@@ -71,7 +71,7 @@ Each container is unique, because each person and their journey is different. Ea
 
 When we are truly tuned into our eros, our life force, we are truly in tune with ourselves, all that we are, and all of life. It is the full embrace of our sexuality, and as innately sexual beings, we are made of sex. Sex is our life force that runs through the entirety of our being. To suppress it, shame it, is to suppress all of who we are.
 
-Find out more about Tantric Bodywork [here](https://somarosa.co.uk/1-1-sanctuary/tantric-bodywork/ "")
+Find out more about Tantric Bodywork [here](https://somarosa.co.uk/sanctuary/tantric-bodywork/ "")
 
 {{< /image-section >}}
 
@@ -79,7 +79,7 @@ Find out more about Tantric Bodywork [here](https://somarosa.co.uk/1-1-sanctuary
 ## 1-1 Sanctuary
 Held container for your journey in deepening your connection to your body, learning of your nervous system, your needs, your desires...
 
-Find out more about being held in the Sanctuary [here](https://somarosa.co.uk/1-1-sanctuary/sanctuary-programs "")
+Find out more about being held in the Sanctuary [here](https://somarosa.co.uk/sanctuary/sanctuary-programs "")
 {{< /image-section >}}
 
 
