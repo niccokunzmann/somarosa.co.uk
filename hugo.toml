@@ -55,24 +55,24 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "1-1-sanctuary"
     name = "1-1 Sanctuary"
-    url = "/sanctuary/"
+    url = "/1-1-sanctuary/"
     weight = 1
 
   [[menu.main]]
     name = "Revitalise Your Life Sanctuary"
-    url = "/sanctuary/revitalise-your-life-sanctuary/"
+    url = "/1-1-sanctuary/revitalise-your-life-sanctuary/"
     parent = "1-1-sanctuary"
     weight = 11
 
   [[menu.main]]
     name = "Tantric Bodywork"
-    url = "/sanctuary/tantric-bodywork/"
+    url = "/1-1-sanctuary/tantric-bodywork/"
     parent = "1-1-sanctuary"
     weight = 12
 
   [[menu.main]]
     name = "Sanctuary Programs"
-    url = "/sanctuary/sanctuary-programs/"
+    url = "/1-1-sanctuary/sanctuary-programs/"
     parent = "1-1-sanctuary"
     weight = 22
 
