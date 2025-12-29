@@ -72,7 +72,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Sanctuary Programs"
-    url = "/sanctuary/tantric-bodywork/"
+    url = "/sanctuary/sanctuary-programs/"
     parent = "1-1-sanctuary"
     weight = 22
 

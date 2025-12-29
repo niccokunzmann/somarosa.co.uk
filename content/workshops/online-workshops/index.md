@@ -20,6 +20,11 @@ Nourishing touch & cuddles can feel scary with strangers, but we gently open to 
 
 This is a trauma-informed space where we our regulating our nervous systems and you are held in your experience in what arises for you
 
-Yoni Reclamation Series: ongoing series throughout the year, check below for upcoming workshops
+Yoni Reclamation Series: 
+This series weaves a combination of nervous system resourcing/grounding practices, Taoist Tantric Arts, Yoni Egg practices, Self Love & Self pleasure practices, and Heart sharing in our sister community. 
+Our Yoni holds trauma, trapped emotions and energies and can cause tension, numbness, lack of sensation, lack of pleasure, medical conditions when not healed. These practices unravel what is held in our yoni slowly, at a pace that's right for your individual body, to gradually unfold and awaken more pleasure, sensation, vitality, insight, clarity, confidence, personal power, self worth, self love…
+
+
+Ongoing series throughout the year, check below for upcoming workshops
 
 Online Workshops: See full list of group sessions [here](https://dandelion.events/o/somarosa "")

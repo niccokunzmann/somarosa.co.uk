@@ -27,7 +27,7 @@ Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy
 A session focused on embodied learning about your unique nervous system - guided to deepen in body, seeing what's there, learning to recognise your nervous system state, and then practices offered to respond to your real-time nervous system state and tracking your body's response. 
 
 
-There are also 3 month programs if you're seeking a deep dive to completely Revitalise Your Life in the Sanctuary. See more [here](https://somarosa.co.uk/offerings/revitalise-your-life-sanctuary/ "")
+There are also 3 month programs if you're seeking a deep dive to completely Revitalise Your Life in the Sanctuary. See more [here](https://somarosa.co.uk/sanctuary/revitalise-your-life-sanctuary/ "")
 
 
 These sessions are £55 - £75 sliding scale (£75 is standard price, £55 / £65 for those who need financial support)
