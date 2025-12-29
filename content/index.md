@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 {{< image-section left=true image="/img/about-anya.jpg" alt="" >}}
-##I used to think depression was my normal state...
+## I used to think depression was my normal state...
 I was shutdown, disconnected, disassociated... 
 
 
@@ -15,12 +15,13 @@ Our society has encouraged to keep on the treadmill of keeping going, keep doing
 
 
 {{< image-section left=false image="/img/homepage3.jpg" alt="" >}}
-##It is my passion 
-...and my mission to share the practices I have learnt so you too can bring back your full aliveness & feel deeply connected to yourself once again!
+## My passion is to bring the same to you!
+My mission is to share the practices I have learnt so you too can bring back your full aliveness & feel deeply connected to yourself once again!
 
 12 week deep dive individualised program, for you to feel more connected, more alive, more YOU, rooted in Trauma-Informed Nervous System Recalibration and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations.
 See more [here](https://somarosa.co.uk/sanctuary/revitalise-your-life-sanctuary/ "")
 {{< /image-section >}}
+
 
 
 

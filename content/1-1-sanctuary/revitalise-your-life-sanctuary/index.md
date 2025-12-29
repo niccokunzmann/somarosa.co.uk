@@ -22,6 +22,10 @@ A 12 week immersive journey designed for women who feel the quiet longing inside
 This is a template. In our consultation we establish how this will alter to meet your needs. Everyone’s journey is different so therefore needs a different program, but this gives a flavour of what we may work with. 
 There is also a version for men also. 
 
+{{< image-section image="/img/revitalise-2.png" alt="" >}}
+
+{{< /image-section >}}
+
 ## Is this for Me?
 Do you feel disconnected from your body, feeling numb, shutdown, collapsed, or dissociated is a regular or consistent theme for you?
 Do you feel disconnected from your pleasure: your pleasure, intimacy, orgasms feel anti-climatic, unfulfilling, dull, small, or non-existent?
