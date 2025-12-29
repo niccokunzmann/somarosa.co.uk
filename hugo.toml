@@ -51,24 +51,30 @@ enableRobotsTXT = true
 
 [menu]
 
-  # -------- Parent: Private Sessions --------
+  # -------- Parent: 1-1 Sanctuary --------
   [[menu.main]]
-    identifier = "private-sessions"
-    name = "Private Sessions"
-    url = "/private-sessions/"
+    identifier = "1-1-sanctuary"
+    name = "1-1 Sanctuary"
+    url = "/sanctuary/"
     weight = 1
 
   [[menu.main]]
     name = "Revitalise Your Life Sanctuary"
-    url = "/private-sessions/revitalise-your-life-sanctuary/"
-    parent = "private-sessions"
+    url = "/sanctuary/revitalise-your-life-sanctuary/"
+    parent = "1-1-sanctuary"
     weight = 11
 
   [[menu.main]]
     name = "Tantric Bodywork"
-    url = "/private-sessions/tantric-bodywork/"
-    parent = "private-sessions"
+    url = "/sanctuary/tantric-bodywork/"
+    parent = "1-1-sanctuary"
     weight = 12
+
+  [[menu.main]]
+    name = "Sanctuary Programs"
+    url = "/sanctuary/tantric-bodywork/"
+    parent = "1-1-sanctuary"
+    weight = 22
 
 
   # -------- Parent: Workshops --------

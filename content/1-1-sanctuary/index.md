@@ -1,5 +1,5 @@
 ---
-title: "Private Sessions"
+title: "1-1 Sanctuary"
 ---
 
 Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, to listen, and how to understand the messages of what's needed, what's desired. 
@@ -13,7 +13,7 @@ One off Private Sessions available.
 ## What will we discover in your Journey?
 
 Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, for how we can connect to the pleasures within your body. 
-Online sessions available only until May 2026. 
+Currently only online sessions are available 
 
 ## Recalibrate Your Life
 ## Reawaken Your Pleasure
@@ -71,14 +71,15 @@ Each container is unique, because each person and their journey is different. Ea
 
 When we are truly tuned into our eros, our life force, we are truly in tune with ourselves, all that we are, and all of life. It is the full embrace of our sexuality, and as innately sexual beings, we are made of sex. Sex is our life force that runs through the entirety of our being. To suppress it, shame it, is to suppress all of who we are.
 
-Find out more about our Sacred Pleasure Containers [here](https://somarosa.co.uk/offerings/sacred-pleasure/ "")
+Find out more about Tantric Bodywork [here](https://somarosa.co.uk/1-1-sanctuary/tantric-bodywork/ "")
+
 {{< /image-section >}}
 
 {{< image-section left=false image="/img/homepage-1.jpg" alt="" >}}
-## Sacred Holding 1-1
+## 1-1 Sanctuary
 Held container for your journey in deepening your connection to your body, learning of your nervous system, your needs, your desires...
 
-Find out more about Sacred Holding Containers [here](https://somarosa.co.uk/offerings/sacred-holding/ "")
+Find out more about being held in the Sanctuary [here](https://somarosa.co.uk/1-1-sanctuary/sanctuary-programs "")
 {{< /image-section >}}
 
 
