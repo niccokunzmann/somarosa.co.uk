@@ -1,148 +1,166 @@
-baseURL = "https://somarosa.co.uk"
+############################
+# Site Configuration
+############################
+
+baseURL = "https://somarosa.co.uk/"
 title = "Somarosa"
 author = "Anya Walsh"
 languageCode = "en"
-DefaultContentLanguage = "en"
-enableInlineShortcodes = true
+defaultContentLanguage = "en"
+
 theme = "tella"
+
 enableRobotsTXT = true
+canonifyURLs = true
+relativeURLs = false
+enableInlineShortcodes = false
 
-# Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
 
-# If you're using Google Analytics, you can enable this feature.
-#googleAnalytics = "UA-12345678-1"
-
-# Disqus Comment System
-#disqusShortname = ""
+############################
+# Params
+############################
 
 [params]
 
-  showBlog = false
-  mainSections = [] # ['blog']
+showBlog = false
+mainSections = ["pages"]
+googleFonts = false
 
-  googleFonts = false
 
-  [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Anya Walsh"
+############################
+# Logo
+############################
 
-    # The size parameter is the class name of tailwindcss
-    # https://tailwindcss.com/
-    size = "h-14"
+[params.logo]
+main = "img/logo/logo.svg"
+alt = "Anya Walsh"
+size = "h-14"
 
-  [params.site]
-    name = "Anya Walsh"
 
-  [params.icon]
-    #If you want to use FontAwesome, set this parameter to true.
-    fontawesome = true
+############################
+# Site Name
+############################
 
-  [params.homepage_meta_tags]
-    meta_description = "Anya Walsh -  Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist"
-    meta_og_title = "Somarosa"
-    meta_og_type = "website"
-    meta_og_url = "https://somarosa.co.uk"
-    meta_og_image = "https://somarosa.co.uk/img/link-preview.png" # TODO
-    meta_og_description = "Anya Walsh -  Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username" # TODO
-    meta_twitter_creator = "@username" # TODO
+[params.site]
+name = "Anya Walsh"
+
+
+############################
+# Icons
+############################
+
+[params.icon]
+fontawesome = true
+
+
+############################
+# SEO / Meta
+############################
+
+[params.homepage_meta_tags]
+meta_description = "Anya Walsh – Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's Work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Vocalist and Artist"
+meta_og_title = "Somarosa"
+meta_og_type = "website"
+meta_og_url = "https://somarosa.co.uk/"
+meta_og_image = "https://somarosa.co.uk/img/link-preview.png"
+meta_og_description = "Anya Walsh – Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's Work facilitator."
+meta_twitter_card = "summary_large_image"
+meta_twitter_site = "@somarosa"
+meta_twitter_creator = "@somarosa"
+
+
+############################
+# Main Menu
+############################
 
 [menu]
 
-  # -------- Parent: 1-1 Sanctuary --------
-  [[menu.main]]
-    identifier = "1-1-sanctuary"
-    name = "1-1 Sanctuary"
-    url = "/1-1-sanctuary/"
-    weight = 1
+[[menu.main]]
+identifier = "1-1-sanctuary"
+name = "1-1 Sanctuary"
+url = "/1-1-sanctuary/"
+weight = 10
 
-  [[menu.main]]
-    name = "Revitalise Your Life Sanctuary"
-    url = "/1-1-sanctuary/revitalise-your-life-sanctuary/"
-    parent = "1-1-sanctuary"
-    weight = 11
+[[menu.main]]
+name = "Revitalise Your Life Sanctuary"
+parent = "1-1-sanctuary"
+url = "/1-1-sanctuary/revitalise-your-life-sanctuary/"
+weight = 11
 
-  [[menu.main]]
-    name = "Tantric Bodywork"
-    url = "/1-1-sanctuary/tantric-bodywork/"
-    parent = "1-1-sanctuary"
-    weight = 12
+[[menu.main]]
+name = "Tantric Bodywork"
+parent = "1-1-sanctuary"
+url = "/1-1-sanctuary/tantric-bodywork/"
+weight = 12
 
-  [[menu.main]]
-    name = "Sanctuary Programs"
-    url = "/1-1-sanctuary/sanctuary-programs/"
-    parent = "1-1-sanctuary"
-    weight = 22
+[[menu.main]]
+name = "Sanctuary Programs"
+parent = "1-1-sanctuary"
+url = "/1-1-sanctuary/sanctuary-programs/"
+weight = 13
 
 
-  # -------- Parent: Workshops --------
-  [[menu.main]]
-    identifier = "workshops"
-    name = "Workshops"
-    url = "/workshops/"
-    weight = 2
+[[menu.main]]
+identifier = "workshops"
+name = "Workshops"
+url = "/workshops/"
+weight = 20
 
-  [[menu.main]]
-    name = "The Rose Temple"
-    url = "/workshops/rose-temple/"
-    parent = "workshops"
-    weight = 20
+[[menu.main]]
+name = "The Rose Temple"
+parent = "workshops"
+url = "/workshops/rose-temple/"
+weight = 21
 
-  [[menu.main]]
-    name = "Online Workshops"
-    url = "/workshops/online-workshops/"
-    parent = "workshops"
-    weight = 21
+[[menu.main]]
+name = "Online Workshops"
+parent = "workshops"
+url = "/workshops/online-workshops/"
+weight = 22
 
-  [[menu.main]]
-    name = "Women's Temple"
-    url = "/workshops/womens-temple/"
-    parent = "workshops"
-    weight = 22
+[[menu.main]]
+name = "Women's Temple"
+parent = "workshops"
+url = "/workshops/womens-temple/"
+weight = 23
 
-# -------- Other top-level items -------- 
-[[menu.main]] 
-name = "About" 
-url = "/about/" 
-weight = 30 
 
-[[menu.main]] 
-name = "Contact" 
-url = "/contact/" 
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 30
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
 weight = 40
 
-  # ----------- Footer Menu -----------
 
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
-    pre = '<i class="fa-solid fa-house"></i>'
-      weight = 1
+############################
+# Footer Menu
+############################
 
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/niccokunzmann/somarosa.co.uk"
-    pre = "<i class='fa-brands fa-github'></i>"
-#    pre = "<img class='text-2xl' src='https://img.shields.io/github/actions/workflow/status/niccokunzmann/somarosa.co.uk/hugo.yml?branch=main&style=flat&logo=github'/>"
-      weight = 10
+[[menu.footer]]
+name = "Home"
+url = "/"
+weight = 1
 
-  [[menu.footer]]
-    name = "Instagram"
-    url = "https://www.instagram.com/somarosa.uk/"
-    pre = "<i class='fa-brands fa-instagram'></i>"
-      weight = 2
+[[menu.footer]]
+name = "Instagram"
+url = "https://www.instagram.com/somarosa.uk/"
+weight = 2
 
-  [[menu.footer]]
-    name = "Facebook"
-    url = "https://www.facebook.com/somarosaonline/"
-    pre = "<i class='icon-facebook text-2xl'></i>"
-      weight = 3
+[[menu.footer]]
+name = "Facebook"
+url = "https://www.facebook.com/somarosaonline/"
+weight = 3
 
-  [[menu.footer]]
-    name = "Email"
-    url = "mailto:somarosauk@gmail.com"
-    pre = "<i class='icon-email text-2xl'></i>"
-      weight = 4
+[[menu.footer]]
+name = "Email"
+url = "mailto:somarosauk@gmail.com"
+weight = 4
 
+[[menu.footer]]
+name = "GitHub"
+url = "https://github.com/niccokunzmann/somarosa.co.uk"
+weight = 10
