@@ -43,7 +43,6 @@ input[type="url"], button {
 h1, h2, h3, h4, h5, h6, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
     color: var(--text-color);
     font-family: var(--accent-font);
-
 }
 
 .prose a, a, #mobileMenu a {
@@ -58,7 +57,6 @@ body {
 
 body, .content {
     font-family: var(--text-font);
-
 }
 
 #overlay a {
@@ -88,9 +86,7 @@ body, .content {
     flex: 1;
 }
 
-
 /* be default, we style the desktop. We override phone display. */
-
 @media (max-width: 1023px) {
     .image-section {
         flex-direction: column;
@@ -107,7 +103,6 @@ body, .content {
 img {
     border-radius: var(--border-radius);
 }
-
 
 .grid .summary {
     height: 100%;
@@ -142,10 +137,7 @@ header .title {
     top: unset;
     text-align: center;
     color: var(--text-color);
-    /* background: rgba(1, 1, 1, 0.1);
-    border-radius: var(--border-radius); */
     text-shadow: -1px 0 var(--background-color), 0 1px var(--background-color), 1px 0 var(--background-color), 0 -1px var(--background-color);
-
 }
 
 @media (max-width: 433px) {
@@ -191,7 +183,6 @@ header .title {
     font-display: swap;
 }
 
-
 nav .logo {
     height: 6rem;
 }
@@ -204,8 +195,25 @@ nav .logo {
     background-color: var(--secondary-color);
 }
 
-
 .scroll-top {
     color: var(--background-color);
     background-color: var(--accent-color);
+}
+
+/* =======================
+   DROPDOWN MENU STYLES
+======================= */
+.navbar .dropdown-menu {
+    background-color: #9f5255 !important; /* your requested color */
+    border-radius: var(--border-radius);
+}
+
+.navbar .dropdown-menu a {
+    color: #ffffff !important; /* text color for readability */
+    padding: 0.5em 1em;
+}
+
+.navbar .dropdown-menu a:hover {
+    color: #ffcb86 !important; /* accent hover color */
+    background-color: rgba(255,255,255,0.1);
 }
