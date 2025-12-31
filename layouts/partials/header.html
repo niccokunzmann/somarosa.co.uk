@@ -74,13 +74,14 @@
                   lg:opacity-0 lg:invisible
                   lg:group-hover:opacity-100 lg:group-hover:visible
                   transition-opacity duration-200
-                  bg-white shadow-lg rounded mt-2 lg:mt-0 z-50 min-w-[220px]
+                  custom-dropdown
+                  shadow-lg rounded mt-2 lg:mt-0 z-50 min-w-[220px]
                 "
               >
                 {{ range .Children }}
                   <a
                     href="{{ .URL | safeURL }}"
-                    class="block px-4 py-3 text-black hover:bg-gray-100 whitespace-nowrap"
+                    class="custom-dropdown-link block px-4 py-3 whitespace-nowrap"
                   >
                     {{ .Name }}
                   </a>
