@@ -80,6 +80,12 @@ Creating goals for bringing in daily routines, practices that are achievable wit
 
 12th session: Integration. Revisiting practices. 
 
+
+
+
+{{< /image-section >}}
+
+{{< image-section left=false image="/img/revitalise1.png" alt="" >}}
 What's Included:
 
 •	12 x weekly 1:1 private online sessions
@@ -92,6 +98,7 @@ What's Included:
  Total Package: £900
 
 On call - can send a message whenever they need and i will respond within 24hrs. Extra £250 
+{{< /image-section >}}
 
 
 ## Rewire Your Nervous System
