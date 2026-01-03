@@ -218,7 +218,7 @@ amongst many many more wonderful teachers and Mystery Schools that have fed into
 
 <img src="/img/certificates/YTTCcert.jpeg" alt="">
 <img src="/img/certificates/ATTCcert.png" alt="">
-<img src="/img/certificates/catherinecert.jpg" alt="">
+<img src="/img/certificates/catherinecert.png" alt="">
 
 {{< /fullwidth-gallery >}}
 
