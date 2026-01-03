@@ -214,9 +214,14 @@ Sound Therapy with Elaine Thompson April 2022
 amongst many many more wonderful teachers and Mystery Schools that have fed into my life journey from across the globe.
 
 
-{{< image-section left=false image="/img/certificates/YTTCcert.jpeg" alt="" >}}
+{{< fullwidth-gallery >}}
 
-{{< /image-section >}}
+<img src="/img/certificates/YTTCcert.jpeg" alt="">
+<img src="/img/certificates/ATTCcert.png" alt="">
+<img src="/img/certificates/catherinecert.jpg" alt="">
+
+{{< /fullwidth-gallery >}}
+
 
 <script>
   (function (s, e, n, d, er) {
