@@ -4,35 +4,62 @@ title: "Revitalise Your Life Sanctuary"
 
 ## Revitalise Your Life
 
-12 Weeks to Embodied Pleasure, Full Aliveness
+12 Week Journey to Aliveness
+
 Reawaken Your Senses
+
 Reclaim Your Body
+
 Rediscover Your Pleasure
+
 Reactivate Your Sensuality
+
 Restore Your Nervous System 
+
 Recalibrate Negative Patterns, Beliefs, Habits 
+
 Remember Your Sovereign Feminine Power
+
 Revitalise Your Life
 
 [See more here](file:///C:/Users/anya_/Downloads/Revitalise%20Life%20Promo.pdf "")
 
+I truly, fully believe, every person can feel FULLY ALIVE. 
+I KNOW it is possible for you to feel deeply connected to your body, your emotions, your full expression of you are truly are. 
+I KNOW it because i have been through this journey myself, and have witnessed many do the same. 
+And for myself, and many I've witnessed, there's felt like no hope, this is "just how it is for me, I'll just have to make do with it"
 
-A 12 week immersive journey designed for women who feel the quiet longing inside—the desire for more sensation, more aliveness, more pleasure, more connection to self. This path blends trauma informed nervous system work, feminine embodiment, sensual awakening, and energetic activation rooted in Trauma-Informed Nervous System practice and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations. 
+This is your invitation to a 12 week immersive journey designed for women who feel the  longing quietly inside to feel truly themselves again. The ones who feel the desire to deeply connect with their body again, and their vitality, pleasure, and zest for life. 
 
-This is a template. In our consultation we establish how this will alter to meet your needs. Everyone’s journey is different so therefore needs a different program, but this gives a flavour of what we may work with. 
+This path blends trauma informed nervous system work, feminine embodiment, sensual awakening, and energetic activation rooted in Trauma-Informed Nervous System practice and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations. 
+
+In our consultation we establish how this will alter to meet your needs. Below is a example framework of how this could look, but will be altered to meet your needs overall and what arises in life week by week. 
 There is also a version for men also. 
+
+
+It is my heart, soul & s:x passion to bring the depth of connection to body, to full vitality the full power of s:xual energy that is our FUEL for life & body to you. Reclaiming all that our unique expression of s:xuality is and how it expresses itself within our body in our daily life, not just behind closed doors. 
+
+I believe there is more for you, more you can live, and feel (without getting overwhelmed or shutting down) in your life, more of YOU, the whole full unapologetic YOU! And I'm excited to meet you in every step of your journey, in every layer of unfolding and blossoming into a more authentic embodied YOU. 
 
 
 ## Is this for Me?
 Do you feel disconnected from your body, feeling numb, shutdown, collapsed, or dissociated is a regular or consistent theme for you?
+
 Do you feel disconnected from your pleasure: your pleasure, intimacy, orgasms feel anti-climatic, unfulfilling, dull, small, or non-existent?
+
 Life often feels overwhelming, too much, you feel stressed, burnt out?
+
 Do you often feel stuck whirling in your head, and long to be more present with your body?
+
 Do you long for intimacy & pleasure that feels deeply fulfilling in your heart & body?
+
 Do you long to feel ALIVE, in your sovereign power, feel whole, feel worthy?
+
 Do you long for depth of connection to your deep sensual feminine?
+
 Are you READY for self-evolution, transforming from your experience from a fragment of who you are to feel the expansion of all that you truly are?
-If you answered YES, you feel the yearning somewhere deep within you, to any of these questions then you are Ready to Revitalise Your Life!!
+
+**If you answered YES, you feel the yearning somewhere deep within you, to any of these questions then you are Ready to Revitalise Your Life!!**
 
 
 
@@ -83,7 +110,6 @@ Creating goals for bringing in daily routines, practices that are achievable wit
 
 
 
-{{< /image-section >}}
 
 {{< image-section left=false image="/img/revitalise1.png" alt="" >}}
 What's Included:
