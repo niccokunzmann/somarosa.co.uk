@@ -2,7 +2,7 @@
 title: "Revitalise Your Life Sanctuary"
 ---
 
-## Revitalise Your Life
+## Do you long to feel your full alive self?
 
 12 Week Journey to Aliveness
 
