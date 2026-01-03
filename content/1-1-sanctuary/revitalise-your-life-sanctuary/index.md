@@ -22,8 +22,6 @@ Remember Your Sovereign Feminine Power
 
 Revitalise Your Life
 
-[See more here](file:///C:/Users/anya_/Downloads/Revitalise%20Life%20Promo.pdf "")
-
 I truly, fully believe, every person can feel FULLY ALIVE. 
 I KNOW it is possible for you to feel deeply connected to your body, your emotions, your full expression of you are truly are. 
 I KNOW it because i have been through this journey myself, and have witnessed many do the same. 
@@ -33,8 +31,8 @@ This is your invitation to a 12 week immersive journey designed for women who fe
 
 This path blends trauma informed nervous system work, feminine embodiment, sensual awakening, and energetic activation rooted in Trauma-Informed Nervous System practice and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations. 
 
-In our consultation we establish how this will alter to meet your needs. Below is a example framework of how this could look, but will be altered to meet your needs overall and what arises in life week by week. 
-There is also a version for men also. 
+
+[See more here](file:///C:/Users/anya_/Downloads/Revitalise%20Life%20Promo.pdf "")
 
 
 It is my heart, soul & s:x passion to bring the depth of connection to body, to full vitality the full power of s:xual energy that is our FUEL for life & body to you. Reclaiming all that our unique expression of s:xuality is and how it expresses itself within our body in our daily life, not just behind closed doors. 
@@ -83,7 +81,10 @@ truly connected to your body’s experience
  to your emotions,
  to the truth of who you are.
  Brings TRUE Nervous System Resiliency = Long lasting change as the Nervous System Reprograms
+ 
 
+In our consultation we establish how this will alter to meet your needs. Below is a example framework of how this could look, but will be altered to meet your needs overall and what arises in life week by week. 
+There is also a version for men also. 
 
 <img src="/img/revitalise3.png" alt="Revitalise" class="full-width-image">
 
