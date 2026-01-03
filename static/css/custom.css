@@ -73,6 +73,14 @@ body, .content {
     gap: 1em;
 }
 
+.full-width-image {
+  width: 100vw;
+  max-width: 100%;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  display: block;
+}
+
 .left-side, .right-side {
     display: inline-block;
 }

@@ -80,6 +80,7 @@ truly connected to your body’s experience
  to the truth of who you are.
  Brings TRUE Nervous System Resiliency = Long lasting change as the Nervous System Reprograms
 
+<img src="/img/revitalise-1.png" alt="Revitalise" class="full-width-image">
 
 
 1st session: 90min Session. Grounding Reflection of where you’re at now and where you’d like to evolve into
