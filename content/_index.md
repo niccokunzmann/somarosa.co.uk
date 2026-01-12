@@ -1,5 +1,9 @@
 ---
 title: "Home"
+description: "Feminine Embodiment Coach and Somatic Vitality to restore nervous system safety, reawaken sensuality, reclaim pleasure, and feel fully alive in their body again."
+keywords: ["tao tantric arts", "nervous system","vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "somatic therapy"]
+date: 2026-01-12
+draft: false
 ---
 
 {{< image-section left=true image="/img/about-anya.jpg" alt="" >}}

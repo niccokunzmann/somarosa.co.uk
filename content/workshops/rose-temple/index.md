@@ -6,6 +6,7 @@ featured: true
 weight: 1
 banner: rose-temple-banner.jpg
 description: The Rose Temple is a ceremonially held shared journey where we meet in heart, in desire, in pleasure, in emotion, in vulnerability, in connection, in the intimacy of all that arises in sacred space.  The Rose holds us in her heart, taking us on a journey to witness our own and others true essence, and in connection with our hearts and loving consensual touch. 
+keywords: ["temple of love", "trauma informed temple night", "nervous system","sensuality", "tantra practice", "somatic practice", "feminine embodiment"]
 ---
 
 {{< image-section left=false image="/img/eros-top.jpg" alt="The rose temple" >}}

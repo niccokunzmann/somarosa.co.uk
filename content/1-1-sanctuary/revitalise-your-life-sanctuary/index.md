@@ -1,6 +1,11 @@
 ---
 title: "Revitalise Your Life Sanctuary"
+description: "A 12-week immersive program for women to restore nervous system safety, awaken sensuality, reclaim pleasure, and feel fully alive in their body again."
+keywords: ["sanctuary", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness"]
+date: 2026-01-12
+draft: false
 ---
+
 
 ## Do you long to feel your full alive self?
 
@@ -40,6 +45,8 @@ It is my heart, soul & s:x passion to bring the depth of connection to body, to 
 I believe there is more for you, more you can live, and feel (without getting overwhelmed or shutting down) in your life, more of YOU, the whole full unapologetic YOU! And I'm excited to meet you in every step of your journey, in every layer of unfolding and blossoming into a more authentic embodied YOU. 
 
 <img src="/img/revitalise-2.png" alt="Revitalise" class="full-width-image">
+<img src="image.jpg" loading="lazy" alt="Description">
+
 
 ## Is this for Me?
 Do you feel disconnected from your body, feeling numb, shutdown, collapsed, or dissociated is a regular or consistent theme for you?

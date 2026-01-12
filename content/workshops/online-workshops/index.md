@@ -1,11 +1,18 @@
 ---
 title: "Online Workshops"
-date: 2025-06-05
+description: "A trauma-informed space to explore nourishing touch, nervous system regulation, and yoni reclamation through gentle practices, sisterhood, and embodied practices."
+keywords: [
+  "trauma-informed touch",
+  "yoni reclamation",
+  "nervous system regulation",
+  "feminine embodiment",
+  "somatic healing for women",
+  "tantric practices for women"
+]
+date: 2026-01-12
 draft: false
-featured: true
-weight: 1
-description: 
 ---
+
 
 ## Bring in more connection into your life
 
