@@ -33,7 +33,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.147.8'   # match the version you use locally
+          hugo-version: '0.147.8'   # match your local Hugo version
           extended: true
 
       # Step 3: Build the Hugo site
@@ -42,4 +42,14 @@ jobs:
 
       # Step 4: Configure GitHub Pages
       - name: Configure Pages
-        uses: actions/configure-pa
+        uses: actions/configure-pages@v5
+
+      # Step 5: Upload the generated site artifact
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      # Step 6: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
