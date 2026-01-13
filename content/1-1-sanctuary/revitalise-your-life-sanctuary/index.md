@@ -6,6 +6,10 @@ date: 2026-01-12
 draft: false
 ---
 
+Hey beauty, 
+I commend you for seeking support, embarking on the search for more, for knowing there must be something more for yourself. And to be willing to gift that to yourself. I imagine you've been wondering how to move forward in your life for a while - and now you're taking the steps to find the answers. 
+
+My approach is not to logically understand the body, the patterns or the mental or emotional challenges that arise, but to learn to listen to the subtle messages the body gives us, and create space for the body to be the guide. 
 
 ## Do you long to feel your full alive self?
 
