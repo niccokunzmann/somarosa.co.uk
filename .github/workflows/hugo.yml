@@ -33,23 +33,34 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.147.8'   # match your local Hugo version
+          hugo-version: '0.147.8'
           extended: true
 
-      # Step 3: Build the Hugo site
+      # Step 3: Setup Node.js (needed for PostCSS)
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      # Step 4: Install PostCSS & dependencies
+      - name: Install npm packages
+        run: |
+          npm install postcss postcss-cli autoprefixer
+
+      # Step 5: Build Hugo site
       - name: Build Hugo site
         run: hugo --gc --minify
 
-      # Step 4: Configure GitHub Pages
+      # Step 6: Configure GitHub Pages
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      # Step 5: Upload the generated site artifact
+      # Step 7: Upload the generated site artifact
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
-      # Step 6: Deploy to GitHub Pages
+      # Step 8: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
