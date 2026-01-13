@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://somarosa.co.uk/workshops/rose-temple/</loc>
+    <loc>http://localhost:1313/workshops/rose-temple/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somarosa.co.uk/1-1-sanctuary/tantric-bodywork/</loc>
+    <loc>http://localhost:1313/1-1-sanctuary/tantric-bodywork/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somarosa.co.uk/1-1-sanctuary/</loc>
+    <loc>http://localhost:1313/1-1-sanctuary/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somarosa.co.uk/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somarosa.co.uk/workshops/online-workshops/</loc>
+    <loc>http://localhost:1313/workshops/online-workshops/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somarosa.co.uk/1-1-sanctuary/revitalise-your-life-sanctuary/</loc>
+    <loc>http://localhost:1313/1-1-sanctuary/revitalise-your-life-sanctuary/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somarosa.co.uk/workshops/</loc>
+    <loc>http://localhost:1313/workshops/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somarosa.co.uk/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somarosa.co.uk/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://somarosa.co.uk/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://somarosa.co.uk/tags/index/</loc>
+    <loc>http://localhost:1313/tags/index/</loc>
   </url><url>
-    <loc>https://somarosa.co.uk/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
   </url><url>
-    <loc>https://somarosa.co.uk/1-1-sanctuary/sanctuary-programs/</loc>
+    <loc>http://localhost:1313/1-1-sanctuary/sanctuary-programs/</loc>
   </url><url>
-    <loc>https://somarosa.co.uk/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://somarosa.co.uk/workshops/womens-temple/</loc>
+    <loc>http://localhost:1313/workshops/womens-temple/</loc>
   </url>
 </urlset>
