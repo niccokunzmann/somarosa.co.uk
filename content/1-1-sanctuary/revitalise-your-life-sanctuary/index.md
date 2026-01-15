@@ -38,27 +38,6 @@ I believe there is more for you, more you can live, and feel (without getting ov
 <img src="image.jpg" loading="lazy" alt="Description">
 
 
-## Is this for Me?
-Do you feel disconnected from your body, feeling numb, shutdown, collapsed, or dissociated is a regular or consistent theme for you?
-
-Do you feel disconnected from your pleasure: your pleasure, intimacy, orgasms feel anti-climatic, unfulfilling, dull, small, or non-existent?
-
-Life often feels overwhelming, too much, you feel stressed, burnt out?
-
-Do you often feel stuck whirling in your head, and long to be more present with your body?
-
-Do you long for intimacy & pleasure that feels deeply fulfilling in your heart & body?
-
-Do you long to feel ALIVE, in your sovereign power, feel whole, feel worthy?
-
-Do you long for depth of connection to your deep sensual feminine?
-
-Are you READY for self-evolution, transforming from your experience from a fragment of who you are to feel the expansion of all that you truly are?
-
-**If you answered YES, you feel the yearning somewhere deep within you, to any of these questions then you are Ready to Revitalise Your Life!!**
-
-
-
 Rewire Your Nervous System, 
 Rewire Your Life. 
 
