@@ -44,13 +44,15 @@ jobs:
       - name: Install npm dependencies
         run: npm ci || npm install
 
-      # 5. Optional sanity check 
+      # 5. Sanity check (optional but useful)
       - name: Check PostCSS
         run: npx postcss --version
 
-      # 6. Build site
+      # 6. Build site (CRITICAL FIX: expose node bin to Hugo)
       - name: Build Hugo site
-        run: hugo --gc --minify
+        run: |
+          export PATH="$PWD/node_modules/.bin:$PATH"
+          hugo --gc --minify
 
       # 7. Configure Pages
       - name: Configure Pages
