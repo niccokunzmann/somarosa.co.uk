@@ -13,23 +13,9 @@ My approach is not to logically understand the body, the patterns or the mental 
 
 ## Do you long to feel your full alive self?
 
-12 Week Journey to Aliveness
+<img src="/img/revitalisepage3.png" alt="Revitalise" class="full-width-image">
 
-Reawaken Your Senses
-
-Reclaim Your Body
-
-Rediscover Your Pleasure
-
-Reactivate Your Sensuality
-
-Restore Your Nervous System 
-
-Recalibrate Negative Patterns, Beliefs, Habits 
-
-Remember Your Sovereign Feminine Power
-
-Revitalise Your Life
+<img src="/img/revitalisepage4.png" alt="Revitalise" class="full-width-image">
 
 I truly, fully believe, every person can feel FULLY ALIVE. 
 I KNOW it is possible for you to feel deeply connected to your body, your emotions, your full expression of you are truly are. 
