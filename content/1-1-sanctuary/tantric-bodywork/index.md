@@ -20,7 +20,7 @@ Devotional Oil Massage
 A full-body oil massage blending Swedish and Taoist massage techniques, offered in slow, sacred presence. Guided by conscious, attentive touch, this session allows you to deeply receive on a body, heart and soul level.
 
 The pace is slow, attuned and the oil abundant, and the quality of touch devotional and sensually rich, allowing the body to soften, replenish, and feel fully held. 
-Supporting deep body relaxation, then balancing your chakras, and circulating vital energy across your body to leave you feeling deeply nourished and enlivened. (non-genital)
+Supporting deep body relaxation, then balancing your chakras, and circulating vital energy across your body to leave you feeling deeply nourished and enlivened. 
 
 60 minutes - £90
 90 minutes - £120
@@ -36,9 +36,10 @@ Activating your kundalini, life force energy, through energywork, bodywork and o
 
 ​
 
-Tantric Massage Full Body Expansion
+Tantric & Lingam / Yoni Massage Full Body Expansion
 
-Oil massage with devotional presence, attunement and kundalini channeling, clearing blockages for greater pleasure and vitality for your life force energy, your kundalini to awaken. Tantric massage including lingam/yoni massage. 
+Oil massage with devotional presence, attunement and kundalini channeling, clearing blockages for greater pleasure and vitality for your life force energy, your kundalini to awaken. Tantric massage 
+Including lingam/yoni massage. 
 
 60 minutes - £135
 
@@ -48,11 +49,9 @@ As above including activating and balancing your chakras and serpent power whils
 90 minutes - £180
 ​
 
-2 hour Full Journey
-
 Hands on healing for full activation of the 7 energy centres (chakras) along the spinal column. Then beginning Tantric Touch container as above then grounding and integrating with still holding/cuddle therapy to integrate the session. 
 
-2 hours - £210
+2 hour Full Journey - £210
 
 
 
