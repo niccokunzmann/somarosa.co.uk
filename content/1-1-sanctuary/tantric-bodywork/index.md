@@ -20,7 +20,7 @@ Devotional Oil Massage
 A full-body oil massage blending Swedish and Taoist massage techniques, offered in slow, sacred presence. Guided by conscious, attentive touch, this session allows you to deeply receive on a body, heart and soul level.
 
 The pace is slow, attuned and the oil abundant, and the quality of touch devotional and sensually rich, allowing the body to soften, replenish, and feel fully held. 
-Supporting deep body relaxation, then balancing your chakras, and circulating vital energy across your body to leave you feeling deeply nourished and enlivened. 
+Supporting deep body relaxation, and circulating vital energy across your body to leave you feeling deeply nourished and enlivened. 
 
 60 minutes - £90
 90 minutes - £120
@@ -44,7 +44,7 @@ Including lingam/yoni massage.
 60 minutes - £135
 
 
-As above including activating and balancing your chakras and serpent power whilst intuitively guiding breath and movement, incorporating genital massage. 
+As above including activating and balancing your chakras and serpent power whilst intuitively guiding breath and expression, incorporating lingam/yoni massage. 
 
 90 minutes - £180
 ​
