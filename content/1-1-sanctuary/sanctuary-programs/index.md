@@ -1,6 +1,10 @@
 ---
 title: "Sanctuary Programs"
 banner: sacred-holding-banner.jpg
+description: "Private 1-1 sanctuary sessions online and in person for feminine embodiment, nervous system health, emotional health, somatic vitality, self-love and self-empowerment"
+keywords: ["sanctuary", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "tao tantric arts", "somatic feminine coaching", "trauma-informed women's coach", "women's empowermenr embodiment work", "nervous system","vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy"]
+date: 2026-01-12
+draft: false
 ---
 
 1-1 Online offerings available only until May 2026 

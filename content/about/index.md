@@ -1,17 +1,103 @@
 +++
 title = "About"
-description = "What you want to know about Anya Walsh"
+description = "Who is Anya Walsh, what is my story, and what is Feminine Embodiment Coaching and is it for me"
 date = "2025-06-05"
 aliases = ["about-us", "about-anya", "contact"]
 author = "Hugo Authors"
 banner = "about-banner.jpg"
+description: "A 12-week immersive program for women to restore nervous system safety, awaken sensuality, reclaim pleasure, and feel fully alive in their body again."
+keywords: ["sanctuary", "what is feminine embodiment coaching", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "tao tantric arts", "somatic feminine coaching", "trauma-informed women's coach", "women's empowermenr embodiment work", "nervous system","vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy"]
+draft: false
 +++
 
 
-Hello! I'm Anya, a Trauma-Informed Embodiment & Pleasure Coach, intuitive to your needs and your unique journey. I weave in the many practices I've learnt over the last 10 years from 
-Tao Tantric Arts, Somatic Healing, Nervous System Regulation & Attunement, Breathwork, Yoga, Sound Healing, Ceremony, Priestesshood and much more from my journey of embodiment, expression, sexuality, connection, deep connection to earth & spirit. 
+Hello! I'm Anya, a Trauma-Informed Feminine Embodiment & Somatic Vitality Coach. My sessions support you to reclaim rooted connection, safety, pleasure and power in your body again. 
+
+I believe it is essential to build the nervous system plasticity & resiliency in titration, to build up your window of tolerance  to cope with life's physical, emotional, mental and spiritual waves in the body. Building gradually creates a long lasting sustainable resiliency, so you can cope with more of life without shutting down or going into overwhelm.  
+
+I weave in the many practices I've learnt over the last 10 years from Tao Tantric Arts, Somatic Healing, Nervous System Health, Breathwork, Yin & Hatha Yoga, Pranayama, BioDevelopment Dance Therapy, Sound Healing, laughter Yoga, Ceremony, Priestesshood and much more from my journey of embodiment, expression, sexuality, connection, deep connection to earth & spirit. 
 
 I guide women who feel disconnected from themselves, their body, their pleasure, their zest for life. Women who feel the longing to feel themselves, who they truly are again, yet aren’t sure how to fully access it. 
+
+
+# What Is Feminine Embodiment Coaching?
+
+Feminine Embodiment Coaching is about connecting to your true feminine energy. Not what you think it should look or feel like from the media or from your peers, not coming from performance or forcing yourself to surrender. 
+
+It’s looking within and finding the feminine as it feels from within - the softness, wildness, chaotic, expressive, sensuality, creativity and everything in between. 
+
+And it’s not with the goal to become more desirable, more attractive, more loveable, more easy-to-please.
+
+Feminine Embodiment can be to nurture your sensuality, creativity, intuition, self-love, these are the commonly known qualities of “feminine” and yes this is part of it, but it is not all of it. There is an essential counterpart - to also self-inquire to the parts of ourselves we have pushed away, suppressed, rejected or judged within ourselves. This is integrating all elements of the feminine. 
+
+Every sensation, emotion, power, desire, truth, grief, pleasure, and life force - this is the feminine. This is the Shakti Ma in her raw essence who is ever flowing. It is a process of getting to know the feminine through each expression, each energy she presents to us, and being curious about what it has to teach us. 
+
+Through this journey within Feminine Embodiment Coaching, a deeper connection with your whole self is nurtured and developed, allowing you to experience a fuller spectrum of life. 
+
+What does a session actually look like?
+
+Instead of analysing your past trauma through talking therapy, we connect to the body and see what trauma the body is revealing to us. There are various practices that incorporate breathwork, energy cultivation, mindful movement, self-touch, somatic awareness, parts work alongside verbal expression.
+
+
+
+Feminine embodiment coaching bring the two together in our daily life. 
+
+A liberated feminine nervous system can:
+- Say no without guilt.
+- Express anger without collapse.
+- Hold boundaries without over-explaining.
+- Receive support without losing power.
+- Feel desire without shame.
+
+Feminine Embodiment includes your fire. It includes your grief, your erotic intelligence, your stillness.
+
+
+## What Happens in a Feminine Embodiment Session?
+
+Every coach works differently, but sessions may include:
+
+- Conscious connected breathwork 
+- Somatic tracking
+- Vocal activation
+- Energy cultivation
+- Guided awareness practices
+- Nurturing movement such as Yin Yoga, Tao Yoga & Qi Gong
+- Nervous system health
+- Self-Inquiry and repatterning beliefs
+
+
+We are building your system’s ability to stay.
+
+Over time, women often notice:
+
+- Less anxiety in intimacy
+- Clearer boundaries
+- More access to pleasure, sensation and energy
+- Greater emotional resilience
+- Increased vitality
+- Deeper self-trust
+
+
+## What is Somatic Vitality?
+We titrate building the nervous system capacity, your window of tolerance, to not just cope with life's challenges, but to feel fully empowered knowing that you can meet the physical, emotional, mental and spiritual waves that show up in the body and in our lives. Building gradually creates a long lasting sustainable resiliency, so you can cope with more of life without shutting down or going into overwhelm.
+
+In western culture, we are encouraged to operate from the neck up. 
+
+High-functioning, successful, intellectual, capable, goal-orientated. 
+
+Yet underneath there so often lies: anxiety, stress, desolation, collapse, overwhelm, numbness, disconnection, lack of worth. 
+
+Our journey begins dropping into the body. Grounding practices using touch, breath, movement support us to become aware of the body’s experience and from there connection is re-established. A flower cannot thrive without it’s roots. 
+
+First grounding, then bringing connection and aliveness into the body - building up at the pace of the nervous system. This is strengthening your inner structure, not pushing you into catharsis. 
+
+
+As in Tantra, we build Shiva - the observer, the stable presence - so that Shakti (your life force, your emotion, your desire) can move freely within the holding of Shiva. 
+
+Without Shiva, intensity is unheld and overwhelms.
+Without Shakti, life feels flat.
+
+
 
 I am devoted to this work because I lived the disconnection.
 
@@ -70,7 +156,7 @@ You’re not alone.
 Her presence immediately makes me feel safe, open and receptive. Through her Temple and breath work sessions I have uncovered so much about myself and my own energy, needs and boundaries, which has gone on to help me profoundly in my life. Seeing how her being lights up in these workshops and how that touches others, makes it clear to me this is what she is here to do. Her unique passion and gentleness combined are such medicine in these times and I would recommend her to anyone wanting to experience deep healing."
 -Meg
 
-" Anya has a powerful combination of masculine and feminine. She holds and she inspires. I have worked through a great deal of personal healing. She really cares about each individual, their process and their journey as if it were her own."
+"Anya has a powerful combination of masculine and feminine. She holds and she inspires. I have worked through a great deal of personal healing. She really cares about each individual, their process and their journey as if it were her own."
 -Amy
 
 "Anya’s guidance is gentle, nurturing and heartfelt, as well as playful, sexy and sensual and I fully recommend the Soma-Rosa Temple experience to anyone looking to revolutionize and empower and revitalize their sexual encounters."
@@ -195,6 +281,8 @@ This is the journey to Embodied Pleasure.
 
 ## Trainings
 
+BioDevelopment Dance Therapy, January 2026, Samma Karuna
+
 Tao Tantric Arts - October - November 2025 with Shashi Solluna and Minke De Vos
 
 Culture of Care - The Field Trauma Informed Facilitator Training February - July 2025 with Catherine Hale and Rachel Rickards
@@ -211,7 +299,7 @@ Trained in Hatha Yoga, Pranayama, Yoga Nidra, Chakra yoga with Sivananda's 3rd g
 
 Sound Therapy with Elaine Thompson April 2022
 
-amongst many many more wonderful teachers and Mystery Schools that have fed into my life journey from across the globe.
+Amongst many more wonderful teachers and Mystery Schools that have fed into my life journey from across the globe.
 
 
 {{< fullwidth-gallery >}}

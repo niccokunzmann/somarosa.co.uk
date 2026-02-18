@@ -5,8 +5,8 @@ draft: false
 featured: true
 parent: offerings
 weight: 1
-keywords: ["yoni massage", "nervous system", "vitality", "lingam massage", "tantric massage", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "erotic massage uk"]
-description: Held containers for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power....​​
+keywords: ["yoni massage", "kundalini activation", "kundalini activation process", "tantric massage wales", "tantra for couples", "tao tantric arts", "taoist massage", "nervous system", "vitality", "lingam massage", "tantric massage", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "erotic massage uk"]
+description: Tantric containers for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power in Tantric Bodywork, Energywork and Holding....​​
 ---
 
 
