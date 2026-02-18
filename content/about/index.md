@@ -5,10 +5,10 @@ date = "2025-06-05"
 aliases = ["about-us", "about-anya", "contact"]
 author = "Hugo Authors"
 banner = "about-banner.jpg"
-description: "A 12-week immersive program for women to restore nervous system safety, awaken sensuality, reclaim pleasure, and feel fully alive in their body again."
-keywords: ["sanctuary", "what is feminine embodiment coaching", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "tao tantric arts", "somatic feminine coaching", "trauma-informed women's coach", "women's empowermenr embodiment work", "nervous system","vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy"]
-draft: false
+keywords = ["sanctuary", "what is feminine embodiment coaching", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy"]
+draft = false
 +++
+
 
 
 Hello! I'm Anya, a Trauma-Informed Feminine Embodiment & Somatic Vitality Coach. My sessions support you to reclaim rooted connection, safety, pleasure and power in your body again. 
