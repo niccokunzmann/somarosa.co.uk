@@ -1,7 +1,7 @@
 ---
 title: "Home"
 description: "Feminine Embodiment Coach and Somatic Vitality to restore nervous system safety, reawaken sensuality, reclaim pleasure, and feel fully alive in their body again."
-keywords: ["tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "tao tantric arts", "somatic feminine coaching", "trauma-informed women's coach", "women's empowermenr embodiment work", "nervous system","vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy"]
+keywords: ["tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "tao tantric arts", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy"]
 date: 2026-01-12
 draft: false
 ---
