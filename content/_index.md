@@ -8,7 +8,7 @@ draft: false
 
 
 
-{{< image-section left=true image="/img/about-anya.jpg" alt="" >}}
+{{< image-section left=true image="/img/anyaprofile.jpg" alt="" >}}
 ## Hey beauty, 
 
 I commend you for embarking on the search for more, for knowing there must be something more for yourself. And to be willing to give that gift to yourself.
