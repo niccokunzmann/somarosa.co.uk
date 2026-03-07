@@ -281,9 +281,9 @@ This is the journey to Embodied Pleasure.
 
 ## Trainings
 
-BioDevelopment Dance Therapy, January 2026, Samma Karuna
+Tao Tantric Arts - October 2025 - April 2026 with Shashi Solluna and Minke De Vos
 
-Tao Tantric Arts - October - November 2025 with Shashi Solluna and Minke De Vos
+BioDevelopment Dance Therapy, January 2026, Samma Karuna
 
 Culture of Care - The Field Trauma Informed Facilitator Training February - July 2025 with Catherine Hale and Rachel Rickards
 
