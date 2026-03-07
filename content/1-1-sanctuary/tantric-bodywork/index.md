@@ -10,7 +10,7 @@ description: Tantric containers for your journey in opening, deepening, explorin
 ---
 
 
-Tantric Bodywork & Energywork for your Sacred Pleasure -
+## Tantric Bodywork & Energywork for your Sacred Pleasure 
 
 ​
 
