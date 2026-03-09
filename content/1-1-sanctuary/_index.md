@@ -1,5 +1,6 @@
 ---
 title: "1-1 Sanctuary"
+description: "Online 1-1 feminine embodiment coaching with tantra, breathwork and nervous system support to help you reconnect with your body, pleasure, vitality and authentic expression."
 ---
 
 Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, to listen, and how to understand the messages of what's needed, what's desired. 
