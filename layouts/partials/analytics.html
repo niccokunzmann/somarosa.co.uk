@@ -1,0 +1,13 @@
+{{ if not hugo.IsServer }}
+<!-- Google Analytics GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JBFRCXTYP4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JBFRCXTYP4', {
+    anonymize_ip: true
+  });
+</script>
+{{ end }}
