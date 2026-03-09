@@ -1,11 +1,11 @@
 +++
 title = "About"
-description = "Who is Anya Walsh, what is my story, and what is Feminine Embodiment Coaching and is it for me"
+description = "Who is Anya Walsh, what are Somarosa certifications, what is my story, and what is Feminine Embodiment Coaching and is Feminine Embodiment Coaching for me"
 date = "2025-06-05"
 aliases = ["about-us", "about-anya", "contact"]
 author = "Hugo Authors"
 banner = "about-banner.jpg"
-keywords = ["sanctuary", "what is feminine embodiment coaching", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy", "livetantra", "shashi solluna", "minke de vos", "catherine hale", "the field facilitation", "live tantra community", "livetantra project manager"]
+keywords = ["sanctuary", "what is feminine embodiment coaching", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy", "livetantra", "shashi solluna", "minke de vos", "catherine hale", "the field facilitation", "live tantra community", "livetantra project manager", "anya walsh", "somarosa"]
 draft = false
 +++
 
