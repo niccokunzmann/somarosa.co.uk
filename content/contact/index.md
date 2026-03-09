@@ -1,6 +1,7 @@
 ---
 title: 'Contact'
 banner: "contact-banner.jpg"
+description: "contact information for Anya Walsh somarosa for one to one private coaching sessions, workshops, events, retreats get in touch"
 ---
 
 
