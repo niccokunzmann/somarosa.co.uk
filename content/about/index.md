@@ -5,13 +5,13 @@ date = "2025-06-05"
 aliases = ["about-us", "about-anya", "contact"]
 author = "Hugo Authors"
 banner = "about-banner.jpg"
-keywords = ["sanctuary", "what is feminine embodiment coaching", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy", "livetantra", "shashi solluna", "minke de vos", "catherine hale", "the field facilitation", "live tantra community", "livetantra project manager", "anya walsh", "somarosa", "brainz magazine"]
+keywords = ["sanctuary", "what is feminine embodiment coaching", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy", "livetantra", "shashi solluna", "minke de vos", "catherine hale", "the field facilitation", "live tantra community", "livetantra project manager", "anya walsh", "somarosa", "brainz magazine", "samma karuna", "biodevelopment dance therapy", "tantra dance", "samma karuna biodevelopment", "womens tantra training", "pleasure coaching", "vitality coaching"]
 draft = false
 +++
 
 
 
-Hello! I'm Anya, a Trauma-Informed Feminine Embodiment & Somatic Vitality Coach. My sessions support you to reclaim rooted connection, safety, pleasure and power in your body again. 
+Hello! I'm Anya, a Trauma-Informed Feminine Embodiment & Pleasure Coach. My sessions support you to reclaim rooted connection, safety, pleasure and power in your body again. 
 
 I believe it is essential to build the nervous system plasticity & resiliency in titration, to build up your window of tolerance  to cope with life's physical, emotional, mental and spiritual waves in the body. Building gradually creates a long lasting sustainable resiliency, so you can cope with more of life without shutting down or going into overwhelm.  
 
