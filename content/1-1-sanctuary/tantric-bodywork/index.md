@@ -63,4 +63,9 @@ Orgasmic Breathwork
 
 60 minutes - £80
 
+
+"Unlike some working within the field of ‘Sacred-Sexuality’ Anya is the ‘Real-Deal’ on a genuine quest to discover and embody all she can about Tantric-Arts in order to be of best service to her clients.
+
+The Tantric-Massage I received from Anya was a beautiful, intuitive and gentle experience, redefining my sense of eros and a breakthrough moment of sexual healing." - Sam
+
 ​
