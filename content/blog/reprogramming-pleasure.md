@@ -1,5 +1,5 @@
 +++
-title = "Reprogramming Pleasure: How Slowing Down Deepens Our Connection With Our Bodies"
+title = "Reprogramming Pleasure"
 date = 2026-03-25
 draft = false
 type = "blog"
