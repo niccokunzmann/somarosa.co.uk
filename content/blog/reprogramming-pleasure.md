@@ -2,6 +2,7 @@
 title = "Reprogramming Pleasure: How Slowing Down Deepens Our Connection With Our Bodies"
 date = 2026-03-25
 draft = false
+type = "blog"
 description = "How slowing down pleasure helps you reconnect with your body, heal shame, and experience deeper intimacy and full-body sensation."
 keywords = [
   "feminine embodiment", "tantra for women", "nervous system healing", "somatic healing", "self pleasure practice", "embodiment coaching", "tantric practices", "emotional healing body", "intimacy and connection", "female sexuality healing",
