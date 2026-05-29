@@ -1,8 +1,16 @@
----
-title: "Training Your Nervous System"
-date: 2026-05-29
-draft: false
----
++++
+title = "Training Your Nervous System: Building Sustainable Resiliency"
+date = 2026-05-29
+draft = false
+type = "blog"
+description = "Learn how to build nervous system resilience by increasing your capacity to process stress, trauma, and emotional experiences without overwhelm through a somatic, trauma-informed approach."
+keywords = [
+"nervous system regulation", "nervous system resilience", "trauma healing", "somatic healing", "somatic therapy", "window of tolerance", "emotional regulation", "trauma integration", "nervous system healing", "stress recovery",
+"self regulation", "healing trauma in the body", "trauma informed healing", "somatic experiencing", "how to regulate your nervous system", "build resilience nervous system", "process trauma safely", "retraumatization healing", "expand capacity nervous system", "healing emotional overwhelm",
+"body based healing", "somatic practices for trauma", "nervous system training", "how to build emotional resilience", "healing through the body", "trauma and triggers", "understanding trauma responses", "fight flight freeze response", "somatic resilience practices"
+]
+tags = ["nervous system", "trauma", "somatics", "healing", "resilience"]
++++
 
 # Training Your Nervous System: Building Sustainable Resiliency 
 
