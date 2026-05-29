@@ -12,8 +12,6 @@ keywords = [
 tags = ["nervous system", "trauma", "somatics", "healing", "resilience"]
 +++
 
-# Training Your Nervous System: Building Sustainable Resiliency 
-
 ## Why Healing Isn’t About What Happened, It’s What Your Nervous System Couldn’t Process 
 When we think about trauma, we often picture dramatic, life-altering events: accidents, abuse, loss. Whilst these events are impactful and shocking, often referred to as shock trauma, this provides a very limited view of what trauma actually is. For most people, trauma is created from much subtler, not-so-shocking experiences.
 Trauma is not just about an experience that happened, but the way our nervous system responded to it. Trauma is any occurrence that the body could not process at that time.
