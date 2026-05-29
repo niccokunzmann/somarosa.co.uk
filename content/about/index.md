@@ -13,7 +13,7 @@ draft = false
 
 Hello! I'm Anya, a Trauma-Informed Feminine Embodiment & Pleasure Coach. My sessions support you to reclaim rooted connection, safety, pleasure and power in your body again. 
 
-I believe it is essential to build the nervous system plasticity & resiliency in titration, to build up your window of tolerance  to cope with life's physical, emotional, mental and spiritual waves in the body. Building gradually creates a long lasting sustainable resiliency, so you can cope with more of life without shutting down or going into overwhelm.  
+I believe before activating or raising energy, we must first start with embodiment. Grounding in the body, and developing the nervous system capacity to cope with life's physical, emotional, mental and spiritual waves in the body. Building gradually creates a long lasting sustainable resiliency, so you can cope with more of life without shutting down or going into overwhelm.  
 
 I weave in the many practices I've learnt over the last 10 years from Tao Tantric Arts, Somatic Healing, Nervous System Health, Breathwork, Yin & Hatha Yoga, Pranayama, BioDevelopment Dance Therapy, Sound Healing, laughter Yoga, Ceremony, Priestesshood and much more from my journey of embodiment, expression, sexuality, connection, deep connection to earth & spirit. 
 
