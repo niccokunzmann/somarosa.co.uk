@@ -7,7 +7,7 @@ description = "Learn how to build nervous system resilience by increasing your c
 keywords = [
 "nervous system regulation", "nervous system resilience", "trauma healing", "somatic healing", "somatic therapy", "window of tolerance", "emotional regulation", "trauma integration", "nervous system healing", "stress recovery",
 "self regulation", "healing trauma in the body", "trauma informed healing", "somatic experiencing", "how to regulate your nervous system", "build resilience nervous system", "process trauma safely", "retraumatization healing", "expand capacity nervous system", "healing emotional overwhelm",
-"body based healing", "somatic practices for trauma", "nervous system training", "how to build emotional resilience", "healing through the body", "trauma and triggers", "understanding trauma responses", "fight flight freeze response", "somatic resilience practices"
+"body based healing", "somatic practices for trauma", "nervous system training", "how to build emotional resilience", "healing through the body", "trauma and triggers", "understanding trauma responses", "brainz article", "brainz magazine", "fight flight freeze response", "somatic resilience practices"
 ]
 tags = ["nervous system", "trauma", "somatics", "healing", "resilience"]
 +++
