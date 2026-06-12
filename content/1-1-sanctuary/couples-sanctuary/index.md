@@ -10,7 +10,9 @@ description: Tantric containers for your journey in opening, deepening, explorin
 ---
 
 
-## Reignite Connection. Deepen Intimacy. Rediscover Each Other.
+## Reignite Connection. 
+## Deepen Intimacy. 
+## Rediscover Each Other.
 
 These sessions are designed for couples who want to slow down, reconnect, and explore intimacy with greater presence, awareness, and intention, whether you're feeling disconnected or simply want to deepen what’s already there.
 
