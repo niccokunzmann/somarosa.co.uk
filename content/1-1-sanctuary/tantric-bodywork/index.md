@@ -55,7 +55,7 @@ Hands on healing for full activation of the 7 energy centres (chakras) along the
 
 
 Yoni De-armouring Massage 
-**Yoni De-Armouring Massage – A Journey of Healing, Release & Reconnection**
+
  Our Yoni holds trauma, trapped emotions and energies and can cause tension, numbness, lack of sensation, lack of pleasure, medical conditions when not healed. These practices unravel what is held in our yoni slowly, at a pace that's right for your individual body, to gradually unfold and awaken more pleasure, sensation, vitality, insight, clarity, confidence, personal power, self worth, self love…
 
 Yoni de-armouring massage is a deeply therapeutic and nurturing practice designed to support women in releasing stored tension, emotional blockages, and past trauma held within the body—particularly in the pelvic and womb space.
