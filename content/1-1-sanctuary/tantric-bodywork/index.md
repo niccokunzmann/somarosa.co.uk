@@ -54,8 +54,31 @@ Hands on healing for full activation of the 7 energy centres (chakras) along the
 2 hour Full Journey - £210
 
 
+Yoni De-armouring Massage 
+**Yoni De-Armouring Massage – A Journey of Healing, Release & Reconnection**
+ Our Yoni holds trauma, trapped emotions and energies and can cause tension, numbness, lack of sensation, lack of pleasure, medical conditions when not healed. These practices unravel what is held in our yoni slowly, at a pace that's right for your individual body, to gradually unfold and awaken more pleasure, sensation, vitality, insight, clarity, confidence, personal power, self worth, self love…
 
- 
+Yoni de-armouring massage is a deeply therapeutic and nurturing practice designed to support women in releasing stored tension, emotional blockages, and past trauma held within the body—particularly in the pelvic and womb space.
+
+This is a gentle, guided process that combines breathwork, body awareness, and intentional, respectful touch to help you reconnect with your body, restore sensitivity, and awaken your natural energy flow. Sessions can include crystal yoni egg or wands de-amouring (using your own), receiving de-amouring hand massage or guiding your own de-armouring self-massage.
+
+Yoni De-armouring supports with:
+Release of physical and emotional tension
+Increased body awareness and sensitivity
+Enhanced connection to feminine energy, vitality, libido
+Support to sexual, physical and relational traumas held in the yoni, womb and body
+Enhanced sense of relaxation and wellbeing
+Releases and reduces numbness, pain and over-sensitivity
+Increases pleasure zones in the genitals and heightened enjoyment during lovemaking
+Sexual healing and increase the body’s capacity for pleasure
+Feeling more empowered, confident and freer
+
+Each session is held in a safe, confidential, and non-judgmental space, where your comfort, consent, and boundaries are always respected. This is a deeply personal journey, guided at your pace, with care and professionalism at the heart of the experience.
+
+Whether you are seeking healing, empowerment, or deeper connection with your body, yoni de-armouring massage offers a sacred space for transformation and self-discovery.
+
+90 min sessions £130
+
 
 Orgasmic Breathwork 
 
