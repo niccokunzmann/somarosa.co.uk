@@ -12,6 +12,7 @@ description: Tantric containers for your journey in opening, deepening, explorin
 
 ## Private Sanctuary for Embodied Immersion of Tantric Bodywork
 
+Guided immersions into body, sensation and presence. 
 
 Full Body Devotional Oil Massage
 
