@@ -64,10 +64,6 @@ There is also a version for men also.
 
 <img src="/img/revitalise3.png" alt="Revitalise" class="full-width-image">
 
-<img src="/img/revitalise4.png" alt="Revitalise" class="full-width-image">
-
-On call - can send a message whenever they need and i will respond within 24hrs. Extra £250 
-
 
 <img src="/img/revitalise-1.png" alt="Revitalise" class="full-width-image">
 
