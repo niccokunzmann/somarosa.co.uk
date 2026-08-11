@@ -2,12 +2,13 @@
 title: "Sanctuary Programs"
 banner: sacred-holding-banner.jpg
 description: "Private 1-1 sanctuary sessions online and in person for feminine embodiment, nervous system health, emotional health, somatic vitality, self-love and self-empowerment"
-keywords: ["sanctuary", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "tao tantric arts", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "nervous system","vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy", "Anya Walsh", "somarosa", "shashi solluna", "catherine hale", "rachel rickards", "the field facilitation"]
+keywords: ["sanctuary", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "tao tantric arts", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "nervous system","vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy", "Anya Walsh", "somarosa", "shashi solluna", "catherine hale", "rachel rickards", "the field facilitation", "pleasure coach", "self love coaching", "embodiment coach", "confidence coaching"]
 date: 2026-01-12
 draft: false
 ---
+Below are examples of session structures. Each session is tailored to your journey - so may be an alteration of an example session below or a blend of practices between these sessions. Get in touch to discuss what would fit for you.
 
-1-1 Online offerings available only until May 2026 
+1-1 Online offerings available. Get in touch for information on time zones and in person sessions.
 
 ## Reclaiming your Self Love & Self Pleasure
 
@@ -18,12 +19,12 @@ draft: false
 
 ## Awakening your Kundalini Shakti, Your Full Body Pleasure
 
-Working with Taoist Tantric Arts practice, Breathwork, Self-pleasure to awaken your Shakti energy (Kundalini) to come alive, to circulate for Whole Body Pleasure. Will be tailored to depending where you're at in your Kundalini journey 
+Working with Taoist Tantric Arts practice, Breathwork, Self-pleasure to awaken your Kundalini Shakti energy to come alive, to circulate for Whole Body Pleasure. Will be tailored to depending where you're at in your Kundalini journey 
 
 ## Yoni Egg Demouring & Reclamation
 
 Yoni Egg practices can be used to clear and heal blocked energies and emotions held in the yoni and rest of the body, but can also be used to cultivate sexual vitality that recharges the whole body's vitality. 
-Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy, Guided Self Love & Self pleasure practices, 
+Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy, Guided Self Love & Self pleasure practices
 
 
 ## Nervous System Experiencing & Resourcing 
@@ -34,11 +35,11 @@ A session focused on embodied learning about your unique nervous system - guided
 There are also 3 month programs if you're seeking a deep dive to completely Revitalise Your Life in the Sanctuary. See more [here](https://somarosa.co.uk/sanctuary/revitalise-your-life-sanctuary/ "")
 
 
-These sessions are £55 - £75 sliding scale (£75 is standard price, £55 / £65 for those who need financial support)
+These sessions are £65 - £85 sliding scale (£85 is standard price, £75 / £55 for those who are in financial difficulty)
 
 Also some of these practices are available in online group sessions. See full list of group sessions [here](https://dandelion.events/o/somarosa "")
 
-## Book a 20 minute Discovery Call [Here](https://linktr.ee/somarosaonline "")
+## Book a 20 minute Discovery Call [Here](https://linktr.ee/somarosaonline "") or contact somarosauk@gmail.com 
 
 
 ## In Person Sessions
