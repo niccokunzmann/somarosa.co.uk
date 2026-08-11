@@ -62,6 +62,10 @@ truly connected to your body’s experience
 In our consultation we establish how this will alter to meet your needs. Below is a example framework of how this could look, but will be altered to meet your needs overall and what arises in life week by week. 
 There is also a version for men also. 
 
+3 session package: £180-240
+5 session package: £290-395
+8 session package: £490-645
+
 <img src="/img/revitalise3.png" alt="Revitalise" class="full-width-image">
 
 
