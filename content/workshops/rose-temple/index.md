@@ -33,17 +33,13 @@ We invite in our pleasure in deeper ways to a richer and fuller experience first
 
 ---
 
-## Heart, Soul & Eros: Temple Retreat Weekend
-
-6-7 September
-The Gables, Roman Way, Glastonbury
+## Upcoming Temples
 
 
-See more information here: [Heart, Soul & Eros Emergence: Sleepover Weekend · Dandelion](https://dandelion.events/e/x3dte)
+See more information on all upcoming events here:(https://dandelion.events/o/somarosa)
 
 ![](/img/tantra-workshop.jpg)
 
-The next Rose Temple will be in May 2026, only online offerings are available until then
 
 ## All of you is welcome 
 

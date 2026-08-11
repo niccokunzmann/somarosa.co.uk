@@ -5,14 +5,13 @@ draft: false
 featured: true
 parent: offerings
 weight: 1
-keywords: ["yoni massage", "kundalini activation", "kundalini activation process", "tantric massage wales", "tantra for couples", "tao tantric arts", "taoist massage", "nervous system", "vitality", "lingam massage", "tantric massage", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "erotic massage uk"]
+keywords: ["yoni massage", "kundalini activation", "kundalini activation process", "tantric massage wales", "tantra for couples", "tao tantric arts", "taoist massage", "nervous system", "vitality", "lingam massage", "tantric massage", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "erotic massage uk", "intimacy coaching", "embodied intimacy", "intimacy practitioner", "luxury retreat facilitator"]
 description: Tantric containers for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power in Tantric Bodywork, Energywork and Holding....​​
 ---
 
 
-## Tantric Bodywork & Energywork for your Sacred Pleasure 
+## Private Sanctuary for Embodied Immersion of Tantric Bodywork
 
-​
 
 Full Body Devotional Oil Massage
 
@@ -80,11 +79,14 @@ Whether you are seeking healing, empowerment, or deeper connection with your bod
 90 min sessions £130
 
 
-Orgasmic Breathwork 
+Alchemical Breathwork 
 
 ​This is a contained Breathwork Journey, with particular focus on the breath whilst opening the Sacral to Vocal channel, invoking eros to arise through sound, breath, and movements that is intuitive to your journey. This weaves between the whole spectrum of emotions that are unlocked through the Breathwork - there can be ecstatic pleasure, joy, sadness, grief, numbness, release and the whole array the body is capable of experiencing, what arises is different for each person and each session for that person. No two experiences are the same.
 
-60 minutes - £80
+60 minutes - £85
+
+Inviting 1:1 clients into this exclusive immersion. Get in touch
+![ENQUIRE NOW](mailto:somarosauk@gmail.com?subject=I%20would%20love%20to%20come%20to%20The%20Rose%20Temple!)
 
 
 "Unlike some working within the field of ‘Sacred-Sexuality’ Anya is the ‘Real-Deal’ on a genuine quest to discover and embody all she can about Tantric-Arts in order to be of best service to her clients.
