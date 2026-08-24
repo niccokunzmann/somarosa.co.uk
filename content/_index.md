@@ -24,7 +24,6 @@ I support you to re-establish safety, pleasure and power in your body. A flower 
 
 
 
-{{< image-section left=false image="/img/homepage3.jpg" alt="" >}}
 ## What Is Feminine Embodiment Coaching?
 
 Feminine Embodiment Coaching is about connecting to your true feminine energy. Not what you think it should look or feel like from the media or from your peers, not coming from performance or forcing yourself to surrender. 
@@ -39,7 +38,6 @@ Every sensation, emotion, power, desire, truth, grief, pleasure, and life force 
 
 Through this journey within Feminine Embodiment Coaching, a deeper connection with your whole self is nurtured and developed, allowing you to experience a fuller spectrum of life.
 
-{{< /image-section >}}
 
 
 

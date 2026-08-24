@@ -13,17 +13,17 @@ keywords: ["temple of love", "trauma informed temple night", "nervous system","s
 
 ## What is the The Rose Temple?
 
-The Rose Temple is a ceremonially held shared journey where we meet in heart, in desire, in pleasure, in emotion, in vulnerability, in connection, in the intimacy of all that arises in sacred space.  The Rose holds us in her heart, taking us on a journey to witness our own and others true essence, and in connection with our hearts and loving consensual touch. 
+Temple is a guided ritual to first and foremost to connect to Heart, Sex and Spirit, exploring the relationship between these that lives within us, then we can explore how we relate with others in each of these layers.
 
-The Rose Temple is a unique offeing, with it's foundation embedded in awareness, listening and responding to your nervous system. The space is guided with care and gentleness to support you to listen to what's arising for you, and within this holding feeling more able to respond to your needs. 
+In ritual, we experience a unified field between Divine and Earth, in devotion to Sex, Love and Spirit alive within every living being and atom around us.  
 
-The Rose embodies unfolding the delicacy of our pleasure, emotion, our desires, our boundaries, our vulnerabilities, our challenges, our pleasure, our expression. And it is a gentle slow unfurling, at a different pace for each individual for where you're at in your journey. 
+As part of this ritual process, we also uncover and feel on out the parts of ourselves that have contracted, conditioned or suppressed in Love, Sex or  Spirit and move towards greater depth and expansion within our full cohorent being. 
 
-This is a deeply healing transformational journey that ignites more power, courage, self-assurance and expression into your life in many ways. Our sexual expression that has been repressed is our life force, which is entwined with our creative expression which is our natural flowing expressive energy in many more ways than a paintbrush on paper. It connects us to the core of our being, the core of all nature, there is a power and mystery that unfolds that ia greater than the human mind can comprehend. 
+Is it my honour to support the journey of your process, to experience greater intimacy of your true nature that can be held in this container. 
 
-Within the exploration of deep sensuality arises sexual energy, and this is a beautiful and natural element of our being - it is our life force, our very power that drives us, ignites our passion and our souls. We welcome the beauty it carries whilst welcoming for that energy to flow into our entire being to not be limited to our sacral or genitalia.​
+This is a deeply healing transformational journey that ignites more power, courage, self-assurance and expression into your life in many ways. Our sexual expression that has been repressed is our life force, which is entwined with our creative expression which is our natural flowing expressive energy in many more ways than a paintbrush on paper. It connects us to our true nature in recognition that ARE made of sex. We ARE love. We breathe in air, we drink water, we feed on the fruits of the earth, there is no possibility to be separate from earth and spirit. In ritual, we remember this within ourselves.
 
-We invite in our pleasure in deeper ways to a richer and fuller experience first by accepting ourselves as sexual beings to realise that everything in life is sex, as we recognise everything is enveloped in our life force energy, our sexual energy, so that every breath, every sound, every movement, every sensation is a pleasurable intimate dance with our inner lover. We open our pleasure and sensations to allow this experience to unfold in the The Rose Temple to invite this more into our daily lives.
+We invite in our pleasure in deeper ways to a richer and fuller experience first by accepting ourselves as sexual beings to realise that everything in life is sex, as we recognise everything is enveloped in our life force energy, our sexual energy, so that every breath, sound, sensation is a pleasurable intimate dance with our inner lover. We open our pleasure and sensations to allow this experience to unfold in the The Rose Temple to invite this more into our daily lives.
 {{< /image-section  >}}
 
 > "It surprised me how open and vulnerable I felt able to be, completely opening to the love and sensation and how strange how completely normal this feels and then how abnormal it makes out there in the world"
