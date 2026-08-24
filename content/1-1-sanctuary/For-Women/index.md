@@ -1,5 +1,5 @@
 ---
-title: "For Women"
+title: "Sanctuary Programs"
 banner: sacred-holding-banner.jpg
 description: "Private 1-1 sanctuary sessions online and in person for feminine embodiment, nervous system health, emotional health, somatic vitality, self-love and self-empowerment"
 keywords: ["sanctuary", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "tao tantric arts", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "nervous system","vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy", "Anya Walsh", "somarosa", "shashi solluna", "catherine hale", "rachel rickards", "the field facilitation", "pleasure coach", "self love coaching", "embodiment coach", "confidence coaching"]
@@ -34,12 +34,6 @@ A session focused on embodied learning about your unique nervous system - guided
 
 There are also 3 month programs if you're seeking a deep dive to completely Revitalise Your Life in the Sanctuary. See more [here](https://somarosa.co.uk/1-1-sanctuary/revitalise-your-life-sanctuary/ "")
 
-
-Alchemical Breathwork 
-
-​This is a contained Breathwork Journey, with particular focus on the breath whilst opening the Sacral to Vocal channel, invoking eros to arise through sound, breath, and movements that is intuitive to your journey. This weaves between the whole spectrum of emotions that are unlocked through the Breathwork - there can be ecstatic pleasure, joy, sadness, grief, numbness, release and the whole array the body is capable of experiencing, what arises is different for each person and each session for that person. No two experiences are the same.
-
-60 minutes - £85
 
 These sessions are £65 - £85 sliding scale (£85 is standard price, £75 / £55 for those who are in financial difficulty)
 
