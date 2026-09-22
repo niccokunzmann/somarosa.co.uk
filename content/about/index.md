@@ -9,6 +9,18 @@ keywords = ["sanctuary", "what is feminine embodiment coaching", "nervous system
 draft = false
 +++
 
+I work with Clients in a range of offerings including
+Taoist Energy Healing 
+Taoist Se-xual Vitality 
+Tantric Bodywork
+Yoni-Dearmouring 
+Nervous System Resourcing & Reprogramming
+Somatic Parts Work
+Couples Intimacy Coaching
+Feminine Embodiment Coaching
+Men's Rewire Pleasure Connection
+Guided Self-inquiry, visualisation, reconnection with feminine, masculine, sexuality, creative expression, inner parts
+Practices within Somatic, Intimacy, Connection, Guided Self-Inquiry
 
 
 Hello! I'm Anya, a Trauma-Informed Feminine Embodiment & Pleasure Coach. My sessions support you to reclaim rooted connection, safety, pleasure and power in your body again. 
