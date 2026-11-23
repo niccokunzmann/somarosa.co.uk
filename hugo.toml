@@ -126,6 +126,12 @@ url = "/1-1-sanctuary/revitalise-your-life-sanctuary/"
 weight = 16
 
 [[menu.main]]
+name = "Pleasure Blueprint"
+parent = "1-1-sanctuary"
+url = "/pleasure-blueprint/"
+weight = 17
+
+[[menu.main]]
 identifier = "workshops"
 name = "Workshops"
 url = "/workshops/"
