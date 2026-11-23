@@ -5,7 +5,7 @@ draft: false
 featured: true
 parent: offerings
 weight: 1
-keywords: ["men's coaching", "kundalini activation", "kundalini activation process", "tantric massage wales", "tantra for couples", "tantra for men", "coaching for men", "tao tantric arts", "taoist massage", "nervous system", "vitality", "lingam massage", "tantric massage", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "erotic massage uk", "intimacy coaching", "embodied intimacy", "intimacy practitioner", "luxury retreat facilitator"]
+keywords: ["men's coaching", "kundalini activation", "kundalini activation process", "tantric massage wales", "tantra for couples", "tantra for men", "coaching for men", "tao tantric arts", "taoist massage", "nervous system", "vitality", "lingam massage", "tantric massage", "tantra practice", "tantra practitioner", "tantra teachings", "tantra coach for men", "men's tantra coach", "pleasure", "sensuality", "erotic massage uk", "intimacy coaching", "embodied intimacy", "intimacy practitioner", "luxury retreat facilitator"]
 description: 1:1 coaching for men to retrain your nervous system to experience pleasure with more depth and less intensity.
 ---
 
