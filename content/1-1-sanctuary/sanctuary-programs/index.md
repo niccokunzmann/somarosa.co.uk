@@ -10,6 +10,16 @@ Below are examples of session structures. Each session is tailored to your journ
 
 1-1 Online offerings available. Get in touch for information on time zones and in person sessions.
 
+## Coaching for Couples 
+Designed for couples who want to slow down, reconnect, and explore intimacy with greater presence, awareness, and intention, whether you’re feeling disconnected or simply want to deepen what’s already there. Sessions are very experiential and could involve: Conscious touch and guided connection practices, Dual Cultivation energy practices for cultivating and harnessing sexual energy, Foundations of tantric intimacy, Principles of Tantric Massage, Taoist Energy Cultivation
+More information [here](https://somarosa.co.uk/1-1-sanctuary/couples-sanctuary/ "") 
+
+## Coaching for Men 
+Many men learned what sex and intimacy look like through media that promotes performance, high stimulation, and chasing intensity. This is a guided process to retrain your nervous system to experience pleasure with more depth and less intensity.
+We move from: 🔥 High stimulation → Subtle sensation 🔥 Performance → Presence 🔥 Goal → Process 🔥 Fantasy dependence → Embodied awareness 🔥 Genital-only focus → Whole-body pleasure
+More information [here](https://somarosa.co.uk/1-1-sanctuary/for-men/ "") 
+
+## Coaching for Women 
 ## Reclaiming your Self Love & Self Pleasure
 
 - Creating or deepening embodied connection to your pleasure & body
