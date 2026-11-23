@@ -9,9 +9,6 @@ keywords: ["yoni massage", "kundalini activation", "kundalini activation process
 description: Tantric containers for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power in Tantric Bodywork, Energywork and Holding....​​
 ---
 
-
-## Private Sanctuary for Embodied Immersion of Tantric Bodywork
-
 Guided immersions into body, sensation and presence. 
 
 Full Body Devotional Oil Massage
