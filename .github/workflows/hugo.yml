@@ -1,3 +1,4 @@
+
 name: Deploy Hugo site to Pages
 
 on:
@@ -19,51 +20,48 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
-      # 1. Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
 
-      # 2. Setup Hugo Extended
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.147.8'
           extended: true
 
-      # 3. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # 4. Install npm dependencies
       - name: Install npm dependencies
         run: npm ci || npm install
 
-      # 5. Sanity check (optional but useful)
       - name: Check PostCSS
         run: npx postcss --version
 
-      # 6. Build site (CRITICAL FIX: expose node bin to Hugo)
       - name: Build Hugo site
         run: |
           export PATH="$PWD/node_modules/.bin:$PATH"
           hugo --gc --minify
 
-      # 7. Configure Pages
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      # 8. Upload artifact
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
+          name: github-pages
 
-      # 9. Deploy
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
