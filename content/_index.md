@@ -9,7 +9,7 @@ draft: false
 
 
 {{< image-section left=true image="/img/anyaprofile.jpg" alt="" >}}
-## Your Fullest Self.
+## Your Most Alive Self.
 Are you embodying it?
 Are you living your highest potential?
 
