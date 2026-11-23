@@ -7,10 +7,10 @@
    CSS Variables
 ====================== */
 :root {
-    --primary-color: #9f3946;
-    --secondary-color: #9F5255;
+    --primary-color: #3F1022; 
+    --secondary-color: #9f3946;
     --accent-color:  #FBDB93;
-    --background-color: #9f3946;
+    --background-color: #5a103a;
     --text-color: #ffcb86;
     --text-font: 'Soligant','Montserrat','Noto Sans JP',sans-serif;
     --accent-font: 'TAN-PEARL','NEVOCLARA','Montserrat','Noto Sans JP',sans-serif;
