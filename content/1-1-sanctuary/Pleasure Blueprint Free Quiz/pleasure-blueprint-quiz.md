@@ -1,3 +1,10 @@
+---
+title: "The Pleasure Blueprint"
+description: "Discover your unique pathways to pleasure, desire and intimacy with the Somarosa Pleasure Blueprint quiz."
+layout: "single"
+url: "/pleasure-blueprint/"
+hide_page_title: true
+---
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
