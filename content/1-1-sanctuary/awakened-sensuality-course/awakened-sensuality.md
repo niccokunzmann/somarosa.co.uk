@@ -4,6 +4,7 @@ subtitle: "Reclaiming Pleasure, Voice & Feminine Power"
 description: "A six-week experiential journey from disconnection and numbness into aliveness, through safety, presence and embodied awareness."
 url: "/awakened-sensuality/"
 layout: "single"
+hide_page_title: true
 draft: false
 ---
 
@@ -39,7 +40,7 @@ draft: false
   background:
     linear-gradient(90deg, rgba(39,13,19,.94) 0%, rgba(58,20,25,.82) 42%, rgba(58,20,25,.28) 100%),
     linear-gradient(0deg, rgba(39,13,19,.32), rgba(39,13,19,.12)),
-    url("/img/page-banners/feminine-embodiment-banner.png") center 42% / cover no-repeat,
+    url("/img/page-banners/awakened-sensuality-banner.png") center 42% / cover no-repeat,
     var(--as-wine);
 }
 .as-hero::after {
