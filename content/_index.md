@@ -9,15 +9,16 @@ draft: false
 
 
 {{< image-section left=true image="/img/anyaprofile.jpg" alt="" >}}
-## Hey beauty, 
+## Your Fullest Self.
+Are you embodying it?
+Are you living your highest potential?
 
-I commend you for embarking on the search for more, for knowing there must be something more for yourself. And to be willing to give that gift to yourself.
+At the intersection of embodiment, pleasure, and vitality is your FULL ALIVENESS. 
+The capacity to be your fullest, most expansive expression of yourself. 
 
-I imagine you've been wondering how to move forward in your life for a while - and now you're taking the steps to find the answers?
+I weave nervous-system capacity building, somatic awareness, Taoist sexual arts, Tantra, breathwork and embodied movement and expression. 
 
-My approach is not to logically understand the body, or to analyse your past through hours of talking therapy, but instead we connect to the body and see what trauma the body is revealing to us and your body and nervous system guide our way through sensation.
-
-I support you to re-establish safety, pleasure and power in your body. A flower cannot thrive without strong roots. So we work with grounding practices, and build vitality at the pace your nervous system can sustain. 
+A flower cannot thrive without strong roots. So we work with grounding practices, and build vitality at the pace your nervous system can sustain. 
 
 
 {{< /image-section >}}
