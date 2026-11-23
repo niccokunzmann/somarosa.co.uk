@@ -4,7 +4,7 @@ description = "Who is Anya Walsh, what are Somarosa certifications, what is my s
 date = "2025-06-05"
 aliases = ["about-us", "about-anya", "contact"]
 author = "Hugo Authors"
-banner = "about-banner.jpg"
+banner = "anya-walsh-banner.png"
 keywords = ["sanctuary", "what is feminine embodiment coaching", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy", "livetantra", "shashi solluna", "minke de vos", "catherine hale", "the field facilitation", "live tantra community", "livetantra project manager", "anya walsh", "somarosa", "brainz magazine", "samma karuna", "biodevelopment dance therapy", "tantra dance", "samma karuna biodevelopment", "womens tantra training", "pleasure coaching", "vitality coaching"]
 draft = false
 +++
