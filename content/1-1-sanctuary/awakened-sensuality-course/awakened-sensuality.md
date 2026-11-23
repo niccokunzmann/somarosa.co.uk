@@ -159,7 +159,7 @@ draft: false
   <section class="as-intro">
     <div class="as-wrap">
       <div class="as-eyebrow">A reclamation of feminine aliveness</div>
-      <h2>What if your sensuality as not something to perform or prove, but to feel the deep currents of pleasure and aliveness within?</h2>
+      <h2>Your sensuality is not something you need to perform or prove. It is your birthright to enjoy for yourself</h2>
       <p>Awakened Sensuality is a deeply experiential journey into the body, where sensuality is reclaimed through safety, presence and embodied awareness. Through weekly teachings of daily practices and rituals you can integrate into your daily life, you will learn to listen to your body’s messages, release shame, awaken sensation and cultivate your body’s unique pleasure language. Rooted in trauma-aware somatics, taoist and tantric principles, this is a grounded yet powerful reclamation of feminine aliveness.</p>
       <div class="as-quote">“Where your body finds its unique expression of pleasure and truth.”</div>
     </div>
@@ -168,7 +168,7 @@ draft: false
   <section class="as-section as-dark">
     <div class="as-wrap">
       <div class="as-section-head">
-        <div class="as-eyebrow">The unfolding</div>
+        <div class="as-eyebrow"></div>
         <h2>From safety into expression, pleasure and expansion.</h2>
         <p>This journey moves from performance into presence, and from disconnection towards a more authentic felt experience. It is an invitation to listen inwardly, honour your own pace and discover what pleasure means in your body.</p>
       </div>
