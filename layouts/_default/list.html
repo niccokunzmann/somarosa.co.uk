@@ -1,23 +1,37 @@
-
 {{ define "main" }}
-<main class="container mx-auto px-6 py-16">
 
-  {{ if .IsSection }}
-    <h1 class="text-4xl font-bold mb-6">{{ .Title }}</h1>
+{{ if .Params.full_width }}
 
-    <ul class="space-y-4">
-      {{ range .Pages }}
-        <li>
-          <a href="{{ .RelPermalink }}" class="text-lg underline">
-            {{ .Title }}
-          </a>
-        </li>
+  {{ .Content }}
+
+{{ else }}
+
+  <main class="container mx-auto px-6 py-16">
+
+    {{ if .IsSection }}
+
+      {{ if not .Params.hide_page_title }}
+        <h1 class="text-4xl font-bold mb-6">{{ .Title }}</h1>
       {{ end }}
-    </ul>
 
-  {{ else }}
-    {{ .Content }}
-  {{ end }}
+      <ul class="space-y-4">
+        {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}" class="text-lg underline">
+              {{ .Title }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
 
-</main>
+    {{ else }}
+
+      {{ .Content }}
+
+    {{ end }}
+
+  </main>
+
+{{ end }}
+
 {{ end }}
