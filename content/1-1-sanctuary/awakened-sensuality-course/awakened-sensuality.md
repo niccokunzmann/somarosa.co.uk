@@ -95,7 +95,7 @@ draft: false
 .as-week p { color: var(--as-muted); font-size: 14px; margin: 0; }
 .as-week::after { content: "✧"; position: absolute; top: 24px; right: 26px; color: #d6a17e; font-size: 20px; }
 .as-includes { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
-.as-includes-image { min-height: 500px; background: linear-gradient(0deg,rgba(53,21,27,.12),rgba(53,21,27,.12)), url("/img/page-banners/sacred-pleasure-banner.png") center / cover no-repeat; }
+.as-includes-image { min-height: 500px; background: linear-gradient(0deg,rgba(53,21,27,.12),rgba(53,21,27,.12)), url("/img/sensuality-course.png") center / cover no-repeat; }
 .as-includes h2 { font-size: clamp(36px,5vw,56px); color: var(--as-wine); margin: 15px 0 18px; }
 .as-includes-copy { color: var(--as-muted); }
 .as-includes-list { list-style: none; padding: 0; margin: 28px 0 0; }
@@ -140,8 +140,8 @@ draft: false
       <div class="as-hero-inner">
         <div class="as-eyebrow">6 Week Program  · Somarosa</div>
         <h1>Awakened<br>Sensuality</h1>
-        <div class="as-subtitle">Reclaiming Your Authentic Pleasure &amp; Feminine Power</div>
-        <p class="as-hero-copy">A journey from disconnection and numbness into aliveness. Rediscover the language of your body, soften the pressure to perform, and make space for a more authentic experience of pleasure and self-expression.</p>
+        <div class="as-subtitle">Reclaiming Your Authentic Pleasure</div>
+        <p class="as-hero-copy">A 6 week journey of transformation from disconnection, numbness, self-judgement into aliveness, embodied pleasure and vitality. Rediscover the language of your body, let go of the pressure to perform, and make space for a more authentic experience of pleasure and self-expression.</p>
         <div class="as-actions">
           <a class="as-button" href="#as-enrol">Explore the journey</a>
           <a class="as-text-link" href="#as-six-weeks">Discover the six weeks</a>
