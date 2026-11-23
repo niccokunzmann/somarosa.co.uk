@@ -1,18 +1,14 @@
-+++
-title = "Training Your Nervous System: Building Sustainable Resiliency"
-date = 2026-05-29
-draft = false
-type = "blog"
-description = "Learn how to build nervous system resilience by increasing your capacity to process stress, trauma, and emotional experiences without overwhelm through a somatic, trauma-informed approach."
+---
+title: "Training Your Nervous System: Building Sustainable Resiliency"
+description: "Learn how to build nervous system resilience by increasing your capacity to process stress, trauma, and emotional experiences without overwhelm through a somatic, trauma-informed approach."
+keywords: ["nervous system regulation", "nervous system resilience", "trauma healing", "somatic healing", "somatic therapy", "window of tolerance", "emotional regulation", "trauma integration", "nervous system healing", "stress recovery", "self regulation", "healing trauma in the body", "trauma informed healing", "somatic experiencing", "how to regulate your nervous system", "build resilience nervous system", "process trauma safely", "retraumatization healing", "expand capacity nervous system", "healing emotional overwhelm", "body based healing", "somatic practices for trauma", "nervous system training", "how to build emotional resilience", "healing through the body", "trauma and triggers", "understanding trauma responses", "brainz article", "brainz magazine", "fight flight freeze response", "somatic resilience practices"]
+date: 2026-05-29
+draft: false
+type: "blog"
 image: "/img/blog/nervous-system.jpg"
 image_alt: "A woman with long wavy hair holding a warm drink by a lake"
-keywords = [
-"nervous system regulation", "nervous system resilience", "trauma healing", "somatic healing", "somatic therapy", "window of tolerance", "emotional regulation", "trauma integration", "nervous system healing", "stress recovery",
-"self regulation", "healing trauma in the body", "trauma informed healing", "somatic experiencing", "how to regulate your nervous system", "build resilience nervous system", "process trauma safely", "retraumatization healing", "expand capacity nervous system", "healing emotional overwhelm",
-"body based healing", "somatic practices for trauma", "nervous system training", "how to build emotional resilience", "healing through the body", "trauma and triggers", "understanding trauma responses", "brainz article", "brainz magazine", "fight flight freeze response", "somatic resilience practices"
-]
-tags = ["nervous system", "trauma", "somatics", "healing", "resilience"]
-+++
+tags: ["nervous system", "trauma", "somatics", "healing", "resilience"]
+---
 
 ## Why Healing Isn’t About What Happened, It’s What Your Nervous System Couldn’t Process 
 When we think about trauma, we often picture dramatic, life-altering events: accidents, abuse, loss. Whilst these events are impactful and shocking, often referred to as shock trauma, this provides a very limited view of what trauma actually is. For most people, trauma is created from much subtler, not-so-shocking experiences.

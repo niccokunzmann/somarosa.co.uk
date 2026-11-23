@@ -1,18 +1,14 @@
-+++
-title = "Reprogramming Pleasure"
-date = 2026-03-25
-draft = false
-type = "blog"
-description = "How slowing down pleasure helps you reconnect with your body, heal shame, and experience deeper intimacy and full-body sensation."
+---
+title: "Reprogramming Pleasure"
+description: "How slowing down pleasure helps you reconnect with your body, heal shame, and experience deeper intimacy and full-body sensation."
+keywords: ["feminine embodiment", "tantra for women", "nervous system healing", "somatic healing", "self pleasure practice", "embodiment coaching", "tantric practices", "emotional healing body", "intimacy and connection", "female sexuality healing", "self love", "pleasure and sensuality", "body awareness practice", "somatic feminine coaching", "trauma informed embodiment coach", "womens embodiment work", "feminine embodiment coaching for women", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy approach", "healing shame around sexuality", "reconnect to your body", "how to feel more pleasure in the body", "slow pleasure practice", "intimacy with self and body", "embodiment and sexuality", "tantric self pleasure", "somatic intimacy practices", "female pleasure and healing"]
+date: 2026-03-25
+draft: false
+type: "blog"
 image: "/img/blog/slow-down-pleasure.jpg"
 image_alt: "A woman resting on a white bed with soft light around her"
-keywords = [
-  "feminine embodiment", "tantra for women", "nervous system healing", "somatic healing", "self pleasure practice", "embodiment coaching", "tantric practices", "emotional healing body", "intimacy and connection", "female sexuality healing",
-  "self love", "pleasure and sensuality", "body awareness practice", "somatic feminine coaching", "trauma informed embodiment coach", "womens embodiment work", "feminine embodiment coaching for women", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy approach", "healing shame around sexuality", "reconnect to your body", "how to feel more pleasure in the body", "slow pleasure practice", "intimacy with self and body", "embodiment and sexuality", "tantric self pleasure",
-  "somatic intimacy practices","female pleasure and healing"]
-tags = ["embodiment", "tantra", "nervous system", "pleasure", "self-love"]
-+++
-
+tags: ["embodiment", "tantra", "nervous system", "pleasure", "self-love"]
+---
 
 ## Reprogramming Pleasure: How Slowing Down Deepens Our Connection With Our Bodies
 For years, I thought I knew my body, I thought I knew what turned me on. I had experienced pleasure, I knew what could bring me to climax, and I believed that meant I was connected to my sexuality. Yet whenever conversation around self-pleasure arose, my body contracted and wished for the conversation to steer in another direction.
