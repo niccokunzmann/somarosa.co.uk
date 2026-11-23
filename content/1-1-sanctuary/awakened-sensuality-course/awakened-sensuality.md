@@ -10,11 +10,11 @@ draft: false
 <style>
 /* Awakened Sensuality sales page. All styles are scoped to .as-page. */
 .as-page {
-  --as-wine: #35151b;
-  --as-wine2: #51212a;
-  --as-rose: #903142;
-  --as-rust: #b65335;
-  --as-clay: #d4774e;
+   --as-wine: #702632;
+  --as-wine2: #842f3c;
+  --as-rose: #9f3946;
+  --as-rust: #9f5255;
+  --as-clay: #b86b69;
   --as-peach: #e8b49a;
   --as-cream: #f7f0e8;
   --as-paper: #fffaf5;
@@ -136,9 +136,9 @@ draft: false
   <section class="as-hero">
     <div class="as-wrap">
       <div class="as-hero-inner">
-        <div class="as-eyebrow">Live Tantra Course · Somarosa</div>
+        <div class="as-eyebrow">6 Week Program  · Somarosa</div>
         <h1>Awakened<br>Sensuality</h1>
-        <div class="as-subtitle">Reclaiming Pleasure, Voice &amp; Feminine Power</div>
+        <div class="as-subtitle">Reclaiming Your Authentic Pleasure &amp; Feminine Power</div>
         <p class="as-hero-copy">A journey from disconnection and numbness into aliveness. Rediscover the language of your body, soften the pressure to perform, and make space for a more authentic experience of pleasure and self-expression.</p>
         <div class="as-actions">
           <a class="as-button" href="#as-enrol">Explore the journey</a>
@@ -147,7 +147,7 @@ draft: false
         <div class="as-meta">
           <span>6 weeks</span>
           <span>Weekly teachings</span>
-          <span>Live ritual spaces</span>
+          <span>Taoist, Tantric and Somatic Principles</span>
           <span>Daily practices</span>
         </div>
       </div>
@@ -157,8 +157,8 @@ draft: false
   <section class="as-intro">
     <div class="as-wrap">
       <div class="as-eyebrow">A reclamation of feminine aliveness</div>
-      <h2>What if sensuality was not something to perform, but something to feel?</h2>
-      <p>Awakened Sensuality is a deeply experiential journey into the body, where sensuality is reclaimed through safety, presence and embodied awareness. Through weekly teachings, live ritual spaces and simple daily practices, you will learn to listen to your body’s truth, soften shame, awaken sensation and cultivate your body’s unique pleasure language. Rooted in trauma-aware somatics and tantric principles, this is a grounded yet powerful reclamation of feminine aliveness.</p>
+      <h2>What if your sensuality as not something to perform or prove, but to feel the deep currents of pleasure and aliveness within?</h2>
+      <p>Awakened Sensuality is a deeply experiential journey into the body, where sensuality is reclaimed through safety, presence and embodied awareness. Through weekly teachings of daily practices and rituals you can integrate into your daily life, you will learn to listen to your body’s messages, release shame, awaken sensation and cultivate your body’s unique pleasure language. Rooted in trauma-aware somatics, taoist and tantric principles, this is a grounded yet powerful reclamation of feminine aliveness.</p>
       <div class="as-quote">“Where your body finds its unique expression of pleasure and truth.”</div>
     </div>
   </section>
@@ -251,8 +251,7 @@ draft: false
         <p class="as-includes-copy">This journey is experiential and ritual-based, trauma-aware and grounded. It is deeply embodied, yet accessible, with space to learn, explore and integrate through the week.</p>
         <ul class="as-includes-list">
           <li><strong>Weekly pre-recorded teaching</strong><span>45–60 minutes of teaching and guided exploration.</span></li>
-          <li><strong>Weekly live session</strong><span>A 90-minute space for shared practice and embodied exploration.</span></li>
-          <li><strong>Ritualised opening and closing</strong><span>Each week includes a consecrated, ritualised opening and closing.</span></li>
+            <li><strong>Ritualised opening and closing</strong><span>Each week includes a consecrated, ritualised opening and closing.</span></li>
           <li><strong>Simple daily ritual</strong><span>A 5–10 minute practice each week to bring the learning into your everyday life.</span></li>
         </ul>
       </div>
@@ -284,7 +283,7 @@ draft: false
         </details>
         <details>
           <summary>How is the course structured?</summary>
-          <p>Each week includes a 45–60 minute pre-recorded teaching, a 90-minute live session, a ritualised opening and closing, and a 5–10 minute daily practice.</p>
+          <p>Each week includes a 45–60 minute pre-recorded teachings and a 10 minute daily practice to trial through the week.</p>
         </details>
         <details>
           <summary>Is this therapy?</summary>
