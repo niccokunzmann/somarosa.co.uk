@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Pleasure Blueprint | Somarosa</title>
+<meta name="description" content="Discover your unique pathways to pleasure, desire and intimacy. A reflective quiz from Somarosa that reveals your primary and secondary Pleasure Blueprint.">
+<link rel="canonical" href="https://somarosa.co.uk/pleasure-blueprint/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root{--wine:#3F1022;--burg:#64182E;--rose:#9F3946;--blush:#E8C4BC;--champ:#E9D8B8;--bg:#3F1022;--fg:#F8F1E7;--mut:#D9C3BE;--card:rgba(255,255,255,.06);--line:rgba(233,216,184,.28);--serif:"Cormorant Garamond",Georgia,serif;--sans:Inter,system-ui,sans-serif;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+html{scroll-padding-top:env(safe-area-inset-top,0px);color-scheme:dark}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;color:var(--fg);background:radial-gradient(120% 70% at 50% 0,var(--burg),var(--wine) 70%) fixed var(--bg);font:300 1.02rem/1.75 var(--sans)}
+.wrap{max-width:760px;margin:0 auto;padding:3rem 1.25rem 4rem}
+h1,h2,h3{font-family:var(--serif);font-weight:500;line-height:1.12;color:var(--champ);margin:0 0 .5em}
+h1{font-size:clamp(2.6rem,10vw,4.4rem);letter-spacing:.02em}
+h2{font-size:clamp(1.8rem,6vw,2.5rem)}
+h3{font-size:1.4rem}
+.sub{font:italic 500 clamp(1.3rem,4.5vw,1.7rem)/1.35 var(--serif);color:var(--blush);margin:0 0 1.4rem}
+.tag{font:italic 500 1.35rem/1.3 var(--serif);color:var(--blush)}
+.btn{display:inline-block;background:var(--champ);color:var(--wine);border:1px solid var(--champ);border-radius:999px;padding:.95rem 1.7rem;font:500 .78rem var(--sans);letter-spacing:.14em;text-transform:uppercase;cursor:pointer;text-decoration:none;margin:.4rem .4rem .4rem 0}
+.btn.ghost{background:none;color:var(--champ);border-color:var(--line)}
+.btn:focus-visible,.opt:focus-visible{outline:2px solid var(--blush);outline-offset:3px}
+.grid{display:grid;gap:.9rem;grid-template-columns:1fr;margin:1.2rem 0 2rem}
+@media(min-width:640px){.grid{grid-template-columns:1fr 1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:1.1rem 1.25rem}
+.card b{display:block;font:500 1.3rem var(--serif);color:var(--champ)}
+.card span{font-size:.92rem;color:var(--mut)}
+.steps{counter-reset:s;list-style:none;padding:0;margin:1rem 0 2.2rem}
+.steps li{counter-increment:s;padding-left:3rem;position:relative;margin-bottom:1rem}
+.steps li::before{content:counter(s);position:absolute;left:0;top:-.1rem;width:2.1rem;height:2.1rem;border:1px solid var(--champ);border-radius:50%;text-align:center;line-height:2rem;font-family:var(--serif);color:var(--champ)}
+.opt{display:block;width:100%;text-align:left;background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:14px;padding:1rem 1.15rem;margin:.65rem 0;font:inherit;line-height:1.5;cursor:pointer}
+.opt:hover{border-color:var(--champ);background:rgba(255,255,255,.11)}
+.opt.on{border-color:var(--champ);background:var(--rose)}
+.bar{height:4px;background:var(--line);border-radius:4px;overflow:hidden;margin:.8rem 0 2rem}
+.bar i{display:block;height:100%;width:0;background:var(--champ);transition:width .3s}
+.hide{display:none}
+.sec{border-top:1px solid var(--line);margin-top:1.8rem;padding-top:1.5rem}
+.note{font-size:.85rem;color:var(--mut)}
+ul{padding-left:1.1rem}
+@media(prefers-reduced-motion:reduce){.bar i{transition:none}}
+</style>
+</head>
+<body>
+<main class="wrap">
+
+<section id="home">
+<h1>The Pleasure Blueprint</h1>
+<p class="sub">Discover your unique pathways to pleasure, desire and intimacy.</p>
+<p>A journey of self-discovery into your sensual nature. What awakens your desire? What allows you to melt into pleasure? What makes you feel deeply connected, stimulated, inspired or alive? Discover the unique ways you experience pleasure through a series of reflective questions.</p>
+<p><button class="btn" onclick="intro()">Discover your Pleasure Blueprint</button></p>
+<div class="sec">
+<p>Your relationship with pleasure is uniquely yours. It is shaped by your body, your nervous system, your experiences, your imagination and the ways you connect with yourself and others.</p>
+<p>Perhaps your desire awakens through deep heart connection, or the anticipation of what might happen. Maybe it lives in fantasy and imagination, or the beauty of a carefully created sensual experience. You might need trust and emotional safety before you can fully open, or feel most alive through physical sensation, dance and embodied expression. Perhaps you are naturally versatile, moving fluidly between different experiences.</p>
+<p>There is no single way to experience pleasure, and no one blueprint you need to fit into. The Pleasure Blueprint is an invitation to become curious about your own patterns, discover what awakens your desire and explore new possibilities for connection, sensuality and pleasure.</p>
+</div>
+<h2>What will you discover?</h2>
+<ul>
+<li>What naturally awakens your desire.</li>
+<li>Whether connection, anticipation, imagination, sensuality, trust or physical expression plays the greatest role in your pleasure.</li>
+<li>The environments and experiences that help you relax and receive.</li>
+<li>How your mind, senses and body contribute to your sensuality.</li>
+<li>Whether you have a dominant pathway into pleasure or move fluidly between different experiences.</li>
+</ul>
+<h2>The seven pathways</h2>
+<div class="grid" id="cards"></div>
+<h2>How it works</h2>
+<ol class="steps">
+<li><b>Explore.</b> Answer 14 reflective questions about your relationship with pleasure, desire and intimacy.</li>
+<li><b>Discover.</b> Receive your primary Pleasure Blueprint and a secondary profile that reveals another aspect of your sensual nature.</li>
+<li><b>Reflect.</b> Explore your results, understand what supports your pleasure and discover new possibilities for your sensual expression.</li>
+</ol>
+<div class="sec">
+<h2>Ready to discover your Pleasure Blueprint?</h2>
+<p>Take a few moments for yourself. Find a comfortable space and answer from your honest experience, rather than how you think you should feel. There are no right or wrong answers, and no ideal result.</p>
+<p><button class="btn" onclick="intro()">Take the quiz</button></p>
+<p class="note">The Pleasure Blueprint is an educational self-reflection tool, not a psychological assessment or diagnosis. Your results are not fixed identities or labels. Your relationship with pleasure can evolve and change throughout your life.</p>
+</div>
+</section>
+
+<section id="intro" class="hide">
+<h2>Discover Your Pleasure Blueprint</h2>
+<p>This quiz explores the different ways you experience pleasure, desire and intimacy.</p>
+<p>There are no right or wrong answers. Choose the response that feels most like you, rather than the one you think you should choose.</p>
+<p>Some pathways may feel familiar, while others may reveal something new about yourself.</p>
+<p>You may recognise yourself in several different profiles. Your results will highlight the patterns that appear most strongly in your answers.</p>
+<p>Take your time, stay curious and enjoy the exploration.</p>
+<p><button class="btn" onclick="start()">Begin</button></p>
+</section>
+
+<section id="quiz" class="hide">
+<div class="note" id="count"></div>
+<div class="bar"><i id="bar"></i></div>
+<h2 id="qt"></h2>
+<div id="opts"></div>
+<p><button class="btn ghost" id="back" onclick="back()">Back</button></p>
+</section>
+
+<section id="result" class="hide">
+<div id="res"></div>
+<div class="sec">
+<h2>Your Pleasure Blueprint is a starting point, not a destination.</h2>
+<p>Your relationship with pleasure is not fixed. You may recognise yourself in several profiles, and your relationship with desire, intimacy and sensuality can shift through different seasons of life. The intention is not to put you in a box. It is to offer language and insight for exploring what feels nourishing, what gets in the way, and what you might like to invite more of.</p>
+<h3>Continue exploring with Somarosa</h3>
+<p>Discover ways to deepen your relationship with your body, pleasure, intimacy and authentic expression.</p>
+<p><a class="btn" href="https://somarosa.co.uk/" target="_blank" rel="noopener">Explore Somarosa</a><a class="btn ghost" href="https://somarosa.co.uk/1-1-sanctuary/" target="_blank" rel="noopener">Explore 1:1 pleasure coaching</a></p>
+<p><button class="btn ghost" onclick="intro()">Retake the quiz</button></p>
+<p class="note">This is an educational self-reflection tool, not a psychological assessment or diagnosis.</p>
+</div>
+</section>
+
+</main>
+<script>
+var NM=["The Soul Intimate","The Anticipator","The Fantasizer","The Sensual Seeker","The Trust-Builder","The Embodied Explorer","The Chameleon"];
+var KEY=["deep connection and energetic attunement","build-up, tension and possibility","imagination and mental stimulation","atmosphere, ritual and sensory indulgence","emotional safety and gradual trust","movement, touch and physical activation","versatility and adaptability"];
+var NOTE=["notice how much presence and eye contact deepen what you feel.","notice where excitement builds before anything physically happens.","notice how a mental image or idea changes what you feel in your body.","notice how atmosphere, scent and touch help you slow down and soften.","notice what helps you feel safe enough to open at your own pace.","notice what your body wants to do when you let it lead.","notice which pathway you choose when nobody is asking you to adapt."];
+var R=[
+{c:"Connection, energetic attunement and deep heart intimacy.",t:"Where pleasure begins with connection.",i:"Your desires come alive through intimacy, energetic contact and deep connection. Feeling deeply seen, understood and met by another person can be an essential part of your desire. You may experience pleasure through eye contact, presence, emotional resonance and subtle energetic exchange. For you, intimacy is not simply about being physically close. It is about feeling connected on a deeper level, where there is openness, mutual presence and a sense of meeting soul to soul.",s:["Deep heart connection","Soul-level intimacy","Energetic exchange and attunement","Emotional resonance","Feeling deeply seen and met"],o:"You may become so attuned to another person’s experience that you lose touch with your own desires. Remember that connection is reciprocal. Your own needs, preferences and boundaries matter just as much.",v:"Explore the relationship between connection and your own sensual expression. Allow yourself to receive as deeply as you attune to others."},
+{c:"Build-up, tension, suggestion and the energy of what is about to happen.",t:"Where pleasure begins before the moment arrives.",i:"For you, pleasure often begins before anything physical happens. You are awakened by the build-up, the suggestion, the tension and the feeling of possibility. You may enjoy teasing, playful power dynamics, role-play, scenarios or the feeling of being drawn into an unfolding experience. This does not necessarily need to involve physical touch. Sometimes the most exciting part is the atmosphere of possibility or the feeling of being on the edge of an experience.",s:["Build-up and anticipation","Suggestion and teasing","Tension and suspense","Role-play and imagined scenarios","Playful power dynamics","The energy of what is about to happen"],o:"You may become so focused on what is coming that you miss the pleasure available in the present moment.",v:"Explore the space between wanting and receiving. Allow anticipation to become an experience in itself, without needing to rush towards an outcome."},
+{c:"Mental stimulation, imagination, fantasy and internal visual imagery.",t:"Where imagination becomes a gateway to desire.",i:"Your mind is one of your most important gateways into pleasure. You may be awakened by fantasy, stories, ideas, mental stimulation and the images you create internally. You might enjoy imagining scenarios, visualising experiences or being mentally stimulated through conversation and ideas. For you, desire may begin in the mind before it translates into physical sensation. Your inner world can be rich, creative and deeply connected to your sensuality.",s:["Fantasy and imagination","Internal visual imagery","Mental stimulation","Storytelling and scenarios","Ideas and intellectual curiosity","Visual inspiration"],o:"You may spend so much time in your imagination that you become disconnected from the sensations and experiences available in your physical body.",v:"Experiment with allowing your imagination to inform your physical experience. Notice how thoughts, images and feelings translate into sensation."},
+{c:"Sensory atmosphere, ritual, beautiful surroundings and sensual touch.",t:"Where the senses become an invitation to melt.",i:"You are awakened by the art of sensuality. The environment, atmosphere and sensory details can be just as important as the physical experience itself. You may love candlelight, soft fabrics, warm baths, essential oils, massage, music, delicious food and fragrance. You may enjoy rituals that invite you to slow down, soften and receive. You are drawn to the luxurious, nurturing and indulgent dimensions of sensuality.",s:["Sensory atmosphere and beautiful environments","Ritual and intentional preparation","Candles, scent, oils and fragrance","Warm baths and massage","Soft fabrics and beautiful surroundings","Delicious food and sensory indulgence","Slow, nurturing and sensual touch"],o:"You may become focused on creating the perfect setting or waiting for the ideal atmosphere before allowing yourself to experience pleasure. Remember that sensuality can also be found in simple, everyday moments.",v:"Explore the art of slowing down and engaging your senses. Discover how ordinary moments can become invitations into sensual pleasure."},
+{c:"Emotional safety, trust, connection and gradual opening.",t:"Where safety creates space for opening.",i:"Feeling safe with another person is an important foundation for your pleasure. You may approach intimacy gradually and need time to develop trust before you feel comfortable becoming vulnerable, receptive or expressive. This does not mean you lack desire. Your desire may simply need the right relational conditions to emerge. When you feel genuinely accepted, respected and safe, you can gradually soften, open and become more curious about your own pleasure.",s:["Emotional safety and reassurance","Trust and consistency","Feeling accepted without judgement","Respect for boundaries","Gradual vulnerability","Having time and space to open"],o:"You may wait until everything feels perfectly safe before allowing yourself to explore. While respecting your boundaries is essential, you can also become curious about the small steps that help you build trust in yourself and others.",v:"Explore what helps you feel safe enough to receive, express and discover. Allow opening to happen at your own pace, without pressure or expectation."},
+{c:"Physical sensation, movement, activation and authentic expression.",t:"Where pleasure comes alive through the body.",i:"You discover pleasure through being physically engaged and connected with your body. You may be drawn to touch, movement, dance, breath, sound and experiences that activate your body’s energy. You may find pleasure in the feeling of energy moving through your body, becoming physically activated or discovering new sensations through direct experience. For you, pleasure is often something you experience through doing, feeling, moving and expressing.",s:["Physical touch and stimulation","Bodily sensation","Dance and movement","Breath and physical activation","Expressive movement and sound","Spontaneity and freedom of expression","Exploring what the body can feel and do"],o:"You may be so focused on exploration and following what arises that you overlook the value of slowing down, integrating and noticing what is happening beneath the surface.",v:"Continue discovering the relationship between presence, movement and pleasure. Let your body express itself in ways that feel authentic, without needing to perform or achieve anything."},
+{c:"Versatility, adaptability and responsiveness across different pathways.",t:"Where pleasure takes many forms.",i:"You are naturally versatile in your relationship with pleasure. Rather than having one dominant pathway, you may enjoy a wide variety of experiences and move fluidly between different ways of awakening desire. Your preferences may change with your mood, environment, energy and the person you are with. You might enjoy leading, following, initiating, receiving or giving. Your adaptability is not about automatically accommodating others. It is about genuinely enjoying variety while remaining connected to your own desires and boundaries.",s:["Variety and exploration","Flexibility between different experiences","Adaptability and responsiveness","Enjoying different forms of intimacy","Moving between giving and receiving","Attunement to different energies and dynamics","Freedom to change and explore"],o:"Your ability to adapt to others can sometimes make it difficult to recognise what you genuinely want for yourself. Flexibility does not mean losing yourself or accommodating everything.",v:"Explore your versatility while staying deeply connected to yourself. Notice when you are choosing something because you genuinely desire it, rather than simply because you can adapt to it."}
+];
+var Q=[
+["What most naturally awakens your desire?",["Feeling deeply connected to someone, sensing their energy and experiencing a genuine meeting of hearts.","The excitement of anticipation, suggestion and imagining what might happen next.","A fantasy, intriguing thought, mental image or imaginative scenario.","A beautiful atmosphere, sensual setting, delicious smells, soft textures or an inviting ritual.","Feeling emotionally safe, comfortable and able to trust the person I am with.","Physical sensation, touch, movement, dance or feeling energy activated in my body.","It depends. Different experiences awaken my desire at different times, and I enjoy moving between them."]],
+["Imagine someone creating an experience of pleasure for you. What would draw you in most?",["An experience of deep presence, eye contact, energetic connection and feeling truly seen.","A slow build-up filled with mystery, teasing, suggestion and the excitement of what is about to happen.","An imaginative scenario, intriguing fantasy or mentally stimulating exchange that captures my attention.","A beautiful room, candles, oils, music, warm water, massage and sensory details that invite me to relax and receive.","Someone who takes the time to understand me, build trust and make me feel completely comfortable.","An experience involving physical touch, movement, dance or stimulating my body through different forms of expression.","A combination of different experiences, with the freedom to change direction depending on what feels right."]],
+["Which of these would most likely awaken your sensual curiosity?",["Feeling another person’s presence and energy in a deeply intimate way.","Knowing something exciting might happen, but not knowing exactly when or how.","Imagining a scenario or exploring a fantasy in my mind.","Being surrounded by beautiful sensory details, such as fragrance, candlelight, textures and delicious tastes.","Feeling that I can trust someone enough to let my guard down.","Discovering what my body can experience through touch, movement and physical activation.","Being able to explore different experiences and follow whichever pathway feels most alive."]],
+["What makes an intimate experience feel especially pleasurable?",["The depth of connection and feeling emotionally or energetically met.","The tension, anticipation and exciting sense of possibility.","The mental stimulation, fantasy and imaginative world involved.","The atmosphere, ritual, sensual surroundings and quality of touch.","Feeling safe, respected and able to be vulnerable.","The physical sensations, movement and freedom to express myself.","The variety of experiences and the ability to move naturally between them."]],
+["How important is the build-up before an intimate experience?",["It is meaningful when it creates a deeper emotional and energetic connection.","Very important. The suggestion, teasing, suspense and feeling of what is to come can be incredibly exciting.","I enjoy imagining different scenarios and possibilities in my mind.","I love preparing the atmosphere, creating a ritual and setting the scene.","I need to feel comfortable and trust the person before the build-up becomes enjoyable.","I am more interested in getting into the physical experience, movement or sensation itself.","It depends. I enjoy both anticipation and spontaneous experiences."]],
+["Which form of stimulation most naturally captures your attention?",["Emotional and energetic connection with another person.","Suggestion, tension, playful scenarios and the anticipation of what might happen.","Visual imagery, imagination, fantasy and mentally stimulating ideas.","Beautiful surroundings, scent, music, taste, texture and sensual touch.","Emotional reassurance, consistency and feeling connected to someone I trust.","Physical touch, movement, dance and direct bodily stimulation.","Different forms of stimulation depending on my mood and the situation."]],
+["What role does your imagination play in your experience of pleasure?",["It often revolves around deep connection and the feeling of being intimately met.","I imagine what might happen next, enjoying the tension and possibility.","It is central to my desire. I can become deeply stimulated by fantasy and internal visual imagery.","I imagine beautiful sensual experiences, settings, rituals and sensory indulgence.","My imagination opens more easily when I feel safe and emotionally connected.","I tend to discover pleasure through direct physical experience rather than imagining it.","My imagination is one of several pathways I enjoy, but I don’t rely on just one."]],
+["Which environment would most naturally invite you into pleasure?",["A quiet, intimate space where I can connect deeply with another person’s presence and energy.","An atmosphere filled with mystery, tension, suggestion and the excitement of what might unfold.","A setting that sparks my imagination, fantasy and mental curiosity.","A beautiful sensual sanctuary with candles, warm baths, oils, music, fragrance and delicious treats.","A familiar, comfortable environment with someone I trust and feel emotionally safe with.","A space where I can move, dance, explore physical sensation and express myself freely.","Any environment that allows me to explore different experiences and adapt to the energy of the moment."]],
+["What helps you relax and become receptive to pleasure?",["Feeling deeply connected and emotionally present with another person.","Having space for anticipation, playful tension and the experience to unfold.","Being mentally stimulated and able to explore my imagination.","Sensory indulgence, beautiful surroundings, soothing touch and a carefully created atmosphere.","Knowing I can trust the person, communicate my boundaries and take my time.","Moving my body, releasing tension and becoming physically engaged.","Having the freedom to change what we are doing and follow what feels right."]],
+["Which experience would you most enjoy exploring?",["Deep heart intimacy, energetic connection and a sense of meeting another person beyond words.","Playful anticipation, teasing, role-play or imagined scenarios that create excitement before physical contact.","Fantasy, visual imagination, mental stimulation and exploring the world of possibility in my mind.","A sensual ritual involving massage, oils, beautiful scents, warm water, music and sensory pleasure.","Exploring intimacy gradually with someone who makes me feel safe, accepted and respected.","Dance, movement, physical touch, breath and experiences that activate my body.","Combining different pathways and discovering how they can complement each other."]],
+["What are you most naturally drawn to in an intimate connection?",["The feeling of emotional depth, energetic resonance and genuine heart connection.","The excitement of anticipation, playful tension and not knowing exactly what will happen.","Sharing ideas, fantasies, imagination and mental stimulation.","Creating beautiful sensual experiences through atmosphere, touch and sensory details.","Feeling secure, understood and able to gradually become vulnerable.","Physical chemistry, touch, movement and expressive bodily connection.","Different dynamics and ways of connecting, depending on the person and the moment."]],
+["How do you most enjoy expressing your sensuality?",["Through presence, eye contact, emotional depth and energetic connection.","Through teasing, suggestion, playful tension and creating anticipation.","Through fantasy, imagination, visual inspiration and mental exploration.","Through creating or enjoying beautiful sensory experiences, rituals and sensual touch.","Through gradually opening, expressing my needs and allowing myself to be vulnerable with someone I trust.","Through movement, dance, touch, physical expression and allowing my body to lead.","Through a range of different expressions, adapting naturally to what feels authentic."]],
+["What would you most like to experience more of?",["Deeper heart intimacy, soul connection and energetic attunement.","More anticipation, mystery, excitement, playful tension and the energy of what is to come.","More fantasy, mental stimulation, imagination and visual inspiration.","More sensual rituals, beautiful environments, massage, oils, fragrance and sensory indulgence.","More emotional safety, trust, confidence and ease in receiving.","More physical exploration, movement, dance, touch and embodied expression.","More variety, flexibility and opportunities to explore different pathways into pleasure."]],
+["Which statement feels most like you?",["I feel most alive when I experience deep connection and a genuine meeting of hearts and energy.","The build-up and possibility of what might happen can be more exciting than the physical experience itself.","My imagination and mental world are powerful gateways into my desire.","I love being immersed in beautiful sensory experiences that invite me to slow down, soften and melt into pleasure.","I need to feel safe and trust the person I am with before I can fully open and receive.","I discover pleasure through my body, through physical sensation, movement, dance and expression.","I enjoy many different pathways and can naturally adapt to different experiences, energies and dynamics."]]
+];
+var ans=[],cur=0;
+function $(x){return document.getElementById(x)}
+function show(id){["home","intro","quiz","result"].forEach(function(x){$(x).classList.toggle("hide",x!==id)});window.scrollTo(0,0)}
+function intro(){show("intro")}
+function start(){ans=[];cur=0;show("quiz");draw()}
+function back(){if(cur>0){cur--;draw()}}
+function draw(){var q=Q[cur],h="";$("bar").style.width=(cur/Q.length*100)+"%";$("count").textContent="Question "+(cur+1)+" of "+Q.length;$("qt").textContent=q[0];q[1].forEach(function(t,i){h+='<button class="opt'+(ans[cur]===i?" on":"")+'" data-i="'+i+'">'+t+'</button>'});$("opts").innerHTML=h;$("back").style.visibility=cur?"visible":"hidden"}
+$("opts").onclick=function(e){var b=e.target.closest(".opt");if(!b)return;ans[cur]=+b.dataset.i;if(cur<Q.length-1){cur++;draw()}else finish()};
+function blk(i,L){var r=R[i];return "<"+L+">"+NM[i]+"</"+L+'><p class="tag">'+r.t+"</p><p>"+r.i+'</p><div class="sec"><h3>What awakens your pleasure</h3><ul>'+r.s.map(function(x){return "<li>"+x+"</li>"}).join("")+'</ul></div><div class="sec"><h3>What you might sometimes overlook</h3><p>'+r.o+'</p></div><div class="sec"><h3>Your invitation</h3><p>'+r.v+"</p></div>"}
+function pair(p,s){return "Alongside your primary "+NM[p]+" blueprint, you also have a strong "+NM[s]+" influence. While "+KEY[p]+" are central to your pleasure, "+KEY[s]+" can also play an important role. To explore this, "+NOTE[s]}
+function finish(){
+var s=[0,0,0,0,0,0,0],g={},h="";
+ans.forEach(function(a){s[a]++});
+s.forEach(function(v,i){if(v>0){(g[v]=g[v]||[]).push(i)}});
+var lv=Object.keys(g).map(Number).sort(function(a,b){return b-a});
+var g0=g[lv[0]],g1=lv.length>1?g[lv[1]]:[],g2=lv.length>2?g[lv[2]]:[];
+if(g0.length>1){
+h+="<h1>Your Pleasure Blueprint</h1><p class=\"sub\">Two or more pathways appear equally prominent in your answers.</p><p>Rather than choosing one, you may recognise each of these as part of how you experience pleasure.</p>";
+g0.forEach(function(i){h+='<div class="sec">'+blk(i,"h2")+"</div>"});
+if(g1.length===1){h+='<div class="sec"><h3>An additional influence: '+NM[g1[0]]+'</h3><p>Your answers also point towards '+KEY[g1[0]]+". To explore this, "+NOTE[g1[0]]+"</p></div>"}
+}else{
+var p=g0[0];
+h+=blk(p,"h1");
+if(g1.length){h+='<div class="sec"><h3>Your secondary '+(g1.length>1?"pathways":"pathway")+(g1.length===1?": "+NM[g1[0]]:"")+"</h3>";g1.forEach(function(x){h+="<p>"+pair(p,x)+"</p>"});h+="</div>"}
+}
+$("res").innerHTML=h;show("result")}
+$("cards").innerHTML=R.map(function(r,i){return '<div class="card"><b>'+NM[i]+"</b><span>"+r.c+"</span></div>"}).join("");
+</script>
+</body>
+</html>
