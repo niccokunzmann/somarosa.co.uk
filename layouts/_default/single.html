@@ -1,3 +1,4 @@
+
 {{ define "meta_tags" }}
 
 <meta property="og:site_name" content="{{ .Site.Title }}" />
@@ -25,7 +26,6 @@
 
 {{ end }}
 
-
 {{ define "main" }}
 
 {{ if .Params.banner }}
@@ -36,20 +36,32 @@
   />
 {{ end }}
 
-<div class="mx-auto my-10 max-w-6xl">
-  <div class="mx-3 px-2">
+{{ if .Params.full_width }}
 
-    {{ if not .Params.banner }}
-      <h1 class="title text-5xl mb-4">{{ .Title }}</h1>
-    {{ end }}
+  {{ with .Content }}
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none">
+      {{ . }}
+    </div>
+  {{ end }}
 
-    {{ with .Content }}
-      <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">
-        {{ . }}
-      </div>
-    {{ end }}
+{{ else }}
 
+  <div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 px-2">
+
+      {{ if not .Params.hide_page_title }}
+        <h1 class="title text-5xl mb-4">{{ .Title }}</h1>
+      {{ end }}
+
+      {{ with .Content }}
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">
+          {{ . }}
+        </div>
+      {{ end }}
+
+    </div>
   </div>
-</div>
+
+{{ end }}
 
 {{ end }}
