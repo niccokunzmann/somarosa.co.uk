@@ -82,6 +82,7 @@ meta_twitter_creator = "@somarosa"
 
 [menu]
 
+
 [[menu.main]]
 identifier = "1-1-sanctuary"
 name = "1-1 Sanctuary"
@@ -89,23 +90,40 @@ url = "/1-1-sanctuary/"
 weight = 10
 
 [[menu.main]]
-name = "Revitalise Your Life Sanctuary"
+name = "Coaching for Women"
 parent = "1-1-sanctuary"
-url = "/1-1-sanctuary/revitalise-your-life-sanctuary/"
+url = "/1-1-sanctuary/sanctuary-programs/"
 weight = 11
+
+[[menu.main]]
+name = "Coaching for Men"
+parent = "1-1-sanctuary"
+url = "/1-1-sanctuary/for-men/"
+weight = 12
+
+[[menu.main]]
+name = "Coaching for Couples"
+parent = "1-1-sanctuary"
+url = "/1-1-sanctuary/couples-sanctuary/"
+weight = 13
 
 [[menu.main]]
 name = "Tantric Bodywork"
 parent = "1-1-sanctuary"
 url = "/1-1-sanctuary/tantric-bodywork/"
-weight = 12
+weight = 14
 
 [[menu.main]]
 name = "Sanctuary Programs"
 parent = "1-1-sanctuary"
-url = "/1-1-sanctuary/sanctuary-programs/"
-weight = 13
+url = "/1-1-sanctuary/for-women/"
+weight = 15
 
+[[menu.main]]
+name = "Revitalise Your Life Sanctuary"
+parent = "1-1-sanctuary"
+url = "/1-1-sanctuary/revitalise-your-life-sanctuary/"
+weight = 16
 
 [[menu.main]]
 identifier = "workshops"
