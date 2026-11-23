@@ -1,5 +1,5 @@
 ---
-title: "Tantric Bodywork"
+title: "Bodywork"
 date: 2025-06-05
 draft: false
 featured: true
@@ -79,12 +79,6 @@ Whether you are seeking healing, empowerment, or deeper connection with your bod
 
 90 min sessions £130
 
-
-Alchemical Breathwork 
-
-​This is a contained Breathwork Journey, with particular focus on the breath whilst opening the Sacral to Vocal channel, invoking eros to arise through sound, breath, and movements that is intuitive to your journey. This weaves between the whole spectrum of emotions that are unlocked through the Breathwork - there can be ecstatic pleasure, joy, sadness, grief, numbness, release and the whole array the body is capable of experiencing, what arises is different for each person and each session for that person. No two experiences are the same.
-
-60 minutes - £85
 
 Inviting 1:1 clients into this exclusive immersion. Get in touch
 ![ENQUIRE NOW](mailto:somarosauk@gmail.com?subject=I%20would%20love%20to%20come%20to%20The%20Rose%20Temple!)
