@@ -4,6 +4,7 @@ subtitle: "Reclaiming Pleasure, Voice & Feminine Power"
 description: "A six-week experiential journey from disconnection and numbness into aliveness, through safety, presence and embodied awareness."
 url: "/awakened-sensuality/"
 layout: "single"
+full_width: true
 hide_page_title: true
 draft: false
 ---
