@@ -22,9 +22,7 @@ I support you to re-establish safety, pleasure and power in your body. A flower 
 
 {{< /image-section >}}
 
-
-
-## What Is Feminine Embodiment Coaching?
+## Feminine Embodiment Coaching
 
 Feminine Embodiment Coaching is about connecting to your true feminine energy. Not what you think it should look or feel like from the media or from your peers, not coming from performance or forcing yourself to surrender. 
 
@@ -38,12 +36,16 @@ Every sensation, emotion, power, desire, truth, grief, pleasure, and life force 
 
 Through this journey within Feminine Embodiment Coaching, a deeper connection with your whole self is nurtured and developed, allowing you to experience a fuller spectrum of life.
 
-
-
-
 Reclaim your body as a place of safety, pleasure, and power.
 See more [here](https://somarosa.co.uk/1-1-sanctuary/revitalise-your-life-sanctuary/ "")
 
+## Couples Journey of Pleasure Rediscovery 
+Designed for couples who want to slow down, reconnect, and explore intimacy with greater presence, awareness, and intention, whether you’re feeling disconnected or simply want to deepen what’s already there. Sessions are very experiential and could involve: Conscious touch and guided connection practices, Dual Cultivation energy practices for cultivating and harnessing sexual energy, Foundations of tantric intimacy, Principles of Tantric Massage, Taoist Energy Cultivation
+More information [here](https://somarosa.co.uk/1-1-sanctuary/couples-sanctuary/ "") 
 
+## Men: Rewire How Your Body Connects to Pleasure
+Many men learned what sex and intimacy look like through media that promotes performance, high stimulation, and chasing intensity. This is a guided process to retrain your nervous system to experience pleasure with more depth and less intensity.
+We move from: 🔥 High stimulation → Subtle sensation 🔥 Performance → Presence 🔥 Goal → Process 🔥 Fantasy dependence → Embodied awareness 🔥 Genital-only focus → Whole-body pleasure
+More information [here](https://somarosa.co.uk/1-1-sanctuary/for-men/ "") 
 
 

@@ -6,20 +6,18 @@ keywords: ["sanctuary", "nervous system", "vitality", "somatic practice", "femin
 date: 2026-01-12
 draft: false
 ---
-Below are examples of session structures. Each session is tailored to your journey - so may be an alteration of an example session below or a blend of practices between these sessions. Get in touch to discuss what would fit for you.
+
+## What will we discover in your Journey?
+
+Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, for how we can connect to the pleasures within your body. These are some examples of sessions structures.
+
+## Recalibrate Your Life
+## Reawaken Your Pleasure
+## Remember Your Truth
 
 1-1 Online offerings available. Get in touch for information on time zones and in person sessions.
 
-## Coaching for Couples 
-Designed for couples who want to slow down, reconnect, and explore intimacy with greater presence, awareness, and intention, whether you’re feeling disconnected or simply want to deepen what’s already there. Sessions are very experiential and could involve: Conscious touch and guided connection practices, Dual Cultivation energy practices for cultivating and harnessing sexual energy, Foundations of tantric intimacy, Principles of Tantric Massage, Taoist Energy Cultivation
-More information [here](https://somarosa.co.uk/1-1-sanctuary/couples-sanctuary/ "") 
 
-## Coaching for Men 
-Many men learned what sex and intimacy look like through media that promotes performance, high stimulation, and chasing intensity. This is a guided process to retrain your nervous system to experience pleasure with more depth and less intensity.
-We move from: 🔥 High stimulation → Subtle sensation 🔥 Performance → Presence 🔥 Goal → Process 🔥 Fantasy dependence → Embodied awareness 🔥 Genital-only focus → Whole-body pleasure
-More information [here](https://somarosa.co.uk/1-1-sanctuary/for-men/ "") 
-
-## Coaching for Women 
 ## Reclaiming your Self Love & Self Pleasure
 
 - Creating or deepening embodied connection to your pleasure & body
@@ -41,6 +39,26 @@ Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy
 
 A session focused on embodied learning about your unique nervous system - guided to deepen in body, seeing what's there, learning to recognise your nervous system state, and then practices offered to respond to your real-time nervous system state and tracking your body's response. 
 
+## Reclaiming your Self Love & Self Pleasure
+
+- Creating or deepening embodied connection to your pleasure & body
+- Cultivating love for yourself & your body
+- Activating your sexual energy, also bringing increased overall vitality
+- Harnessing your sexual energy, sublimating and channelling your sexual energy for balanced aliveness
+
+## Awakening your Kundalini Shakti, Your Full Body Pleasure
+
+Working with Taoist Tantric Arts practice, Breathwork, Self-pleasure to awaken your Shakti energy (Kundalini) to come alive, to circulate for Whole Body Pleasure. Will be tailored to depending where you're at in your Kundalini journey 
+
+## Yoni Egg Demouring & Reclamation
+
+Yoni Egg practices can be used to clear and heal blocked energies and emotions held in the yoni and rest of the body, but can also be used to cultivate sexual vitality that recharges the whole body's vitality. 
+Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy, Guided Self Love & Self pleasure practices, 
+
+
+## Nervous System Experiencing & Resourcing 
+
+A session focused on embodied learning about your unique nervous system - guided to deepen in body, seeing what's there, learning to recognise your nervous system state, and then practices offered to respond to your real-time nervous system state and tracking your body's response. 
 
 There are also 3 month programs if you're seeking a deep dive to completely Revitalise Your Life in the Sanctuary. See more [here](https://somarosa.co.uk/1-1-sanctuary/revitalise-your-life-sanctuary/ "")
 
