@@ -1,5 +1,5 @@
 ---
-title: "Week 1: Softening into Presence"
+title: "Week 1: Grounding into Presence"
 subtitle: "Safety, slowing down and learning to listen to your body"
 description: "Begin your Awakened Sensuality journey by cultivating safety, presence and a deeper awareness of your body's signals."
 weight: 1
@@ -7,7 +7,7 @@ weight: 1
 
 <p class="course-eyebrow">AWAKENED SENSUALITY · WEEK ONE</p>
 
-<h1>Softening into Presence</h1>
+<h1>Grounding into Presence</h1>
 
 <p class="course-lead">
   Before we explore pleasure, expression or expansion, we begin by creating
