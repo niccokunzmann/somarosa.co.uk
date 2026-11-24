@@ -264,17 +264,6 @@ draft: false
     <div><h2>Your most alive self. Are you embodying it?</h2><p>At the intersection of embodiment, pleasure and vitality is your full aliveness: the capacity to be your fullest, most expansive expression of yourself.</p><p>I weave nervous-system capacity building, somatic awareness, Taoist sexual arts, Tantra, breathwork and embodied movement and expression.</p><p>A flower cannot thrive without strong roots. We work with grounding practices and build vitality at the pace your nervous system can sustain.</p><a class="sr-text-link" href="/about/">Meet Anya <span>↗</span></a></div>
     <div class="sr-intro-photo"><img src="/img/anya-homepage-portrait.jpg" alt="Portrait of Anya, founder of Somarosa" loading="lazy"></div>
   </div></section>
-  <section class="sr-statement"><p class="sr-script">More than pleasure. More than regulation.</p><h2>FULL ALIVENESS.</h2><p>The freedom to feel, express, receive, create and experience the full spectrum of being alive.</p></section>
-  <section class="sr-section sr-paper"><div class="sr-wrap"><div class="sr-section-heading"><p class="sr-eyebrow">THE SOMAROSA APPROACH</p><h2>Blending Somatics, Taoism and Tantra</h2><p>To create a system of more nervous system capacity, resiliency, embodiment and sustained vitality.</p></div>
-    <div class="sr-pillar-grid">
-      <article class="sr-pillar-card"><img src="/img/homepage-slides/homepage-somatic.png" alt="Anya seated in a red dress by the sea" loading="lazy"><div class="sr-pillar-copy"><h3>Somatic Embodiment</h3><p>Reconnect with the intelligence of your body. Build nervous-system capacity, feel more and move through life with greater presence.</p></div></article>
-      <article class="sr-pillar-card"><img src="/img/homepage-slides/homepage-taoism.png" alt="Anya expressing through movement on the shoreline" loading="lazy"><div class="sr-pillar-copy"><h3>Taoist Sexual Arts</h3><p>Taoists recognised our sexual energy as our most potent life force, they mastered how to cultivate and harness life force energy for their daily vitality, purpose and overall wellbeing. Build vitality, energise your body and create greater balance and flow.</p></div></article>
-      <article class="sr-pillar-card"><img src="/img/homepage-slides/homepage-tantra.png" alt="Anya resting on warm coastal rock" loading="lazy"><div class="sr-pillar-copy"><h3>Tantric Practices</h3><p>Explore the art of presence, pleasure and connection. Awaken your sensuality and expand your capacity for intimacy.</p></div></article>
-    </div>
-  </div></section>
-  <section class="sr-feature-quote"><div class="sr-quote-inner"><span class="sr-quote-mark">“</span><blockquote>Anya is one of the most grounded practitioners I have ever had the pleasure of working with. Her presence immediately makes me feel safe, open and receptive. Through her Temple and breath work sessions I have uncovered so much about myself and my own energy, needs and boundaries, which has gone on to help me profoundly in my life. Feeling how she touches others, makes it clear to me this is what she is here to do. Her unique passion and gentleness combined are such medicine in these times and I would recommend her to anyone wanting to experience deep healing.</blockquote><p class="sr-credit">MEG · WALES · CLIENT TESTIMONIAL</p></div></section>
- <!-- FIND YOUR WAY IN: THREE COACHING PATHWAYS -->
-<section class="sr-pathways">
   <div class="sr-wrap">
     <div class="sr-section-heading">
       <p class="sr-eyebrow">FIND YOUR WAY IN</p>
@@ -297,7 +286,7 @@ draft: false
       </article>
       <!-- MEN -->
       <article class="sr-pathway-card">
-        <img src="/img/page-banners/mens-coaching-thumb.png"
+        <img src="/img/page-banners/mens-breathwork-thumb.png"
              alt="Men's Tantra and embodiment"
              loading="lazy">
         <div class="sr-pathway-content">
@@ -326,6 +315,9 @@ draft: false
     </div>
   </div>
 </section>
+  <section class="sr-feature-quote"><div class="sr-quote-inner"><span class="sr-quote-mark">“</span><blockquote>Anya is one of the most grounded practitioners I have ever had the pleasure of working with. Her presence immediately makes me feel safe, open and receptive. Through her Temple and breath work sessions I have uncovered so much about myself and my own energy, needs and boundaries, which has gone on to help me profoundly in my life. Feeling how she touches others, makes it clear to me this is what she is here to do. Her unique passion and gentleness combined are such medicine in these times and I would recommend her to anyone wanting to experience deep healing.</blockquote><p class="sr-credit">MEG · WALES · CLIENT TESTIMONIAL</p></div></section>
+ <!-- FIND YOUR WAY IN: THREE COACHING PATHWAYS -->
+<section class="sr-pathways">
 <!-- AWAKENED SENSUALITY FEATURE STRIP -->
 <section class="sr-feature-strip"
   style="background-image:url('/img/page-banners/awakened-sensuality.png');">
@@ -345,6 +337,14 @@ draft: false
     </div>
   </div>
 </section>
+  <section class="sr-statement"><p class="sr-script">More than pleasure. More than regulation.</p><h2>FULL ALIVENESS.</h2><p>The freedom to feel, express, receive, create and experience the full spectrum of being alive.</p></section>
+  <section class="sr-section sr-paper"><div class="sr-wrap"><div class="sr-section-heading"><p class="sr-eyebrow">THE SOMAROSA APPROACH</p><h2>Blending Somatics, Taoism and Tantra</h2><p>To create a system of more nervous system capacity, resiliency, embodiment and sustained vitality.</p></div>
+    <div class="sr-pillar-grid">
+      <article class="sr-pillar-card"><img src="/img/homepage-slides/homepage-somatic.png" alt="Anya seated in a red dress by the sea" loading="lazy"><div class="sr-pillar-copy"><h3>Somatic Embodiment</h3><p>Reconnect with the intelligence of your body. Build nervous-system capacity, feel more and move through life with greater presence.</p></div></article>
+      <article class="sr-pillar-card"><img src="/img/page-banners/tantric-path.png" alt="Anya expressing through movement on the shoreline" loading="lazy"><div class="sr-pillar-copy"><h3>Taoist Sexual Arts</h3><p>Taoists recognised our sexual energy as our most potent life force, they mastered how to cultivate and harness life force energy for their daily vitality, purpose and overall wellbeing. Build vitality, energise your body and create greater balance and flow.</p></div></article>
+      <article class="sr-pillar-card"><img src="/img/homepage-slides/homepage-tantra.png" alt="Anya resting on warm coastal rock" loading="lazy"><div class="sr-pillar-copy"><h3>Tantric Practices</h3><p>Explore the art of presence, pleasure and connection. Awaken your sensuality and expand your capacity for intimacy.</p></div></article>
+    </div>
+  </div></section>
 <!-- PLEASURE BLUEPRINT FEATURE STRIP -->
 <section class="sr-feature-strip"
   style="background-image:url('/img/page-banners/pleasure-blueprint.png');">
