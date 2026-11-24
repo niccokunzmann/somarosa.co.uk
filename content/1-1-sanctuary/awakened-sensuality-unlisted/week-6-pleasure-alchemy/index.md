@@ -1,3 +1,4 @@
+
 ---
 title: "Week 6: Pleasure Alchemy"
 subtitle: "Integrating breath, movement, voice and sensual expression"
@@ -34,6 +35,22 @@ feels supportive for your body.
 
 <div style="position:relative;padding-top:56.25%;overflow:hidden;border-radius:12px;">
   <iframe src="https://player.mediadelivery.net/embed/819148/2a56ccc1-d680-47d5-ac5b-0a2420795e18?autoplay=true&loop=false&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;left:0;width:100%;height:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;" allowfullscreen="true"></iframe>
+</div>
+
+## Intro to Ritual of the Senses
+
+An introduction to awakening your senses and cultivating a deeper relationship with pleasure, presence and embodied awareness. Explore how to slow down and become more receptive to the subtle sensations available in each moment.
+
+<div style="position:relative;padding-top:56.25%;overflow:hidden;border-radius:12px;">
+  <iframe src="https://player.mediadelivery.net/embed/819148/8d1b90f9-508f-4258-b507-e1d632536f30?autoplay=true&loop=false&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;left:0;width:100%;height:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;" allowfullscreen="true"></iframe>
+</div>
+
+## Ritual of the Senses
+
+A guided exploration inviting you to experience the senses as doorways into presence, connection and pleasure. Allow yourself to become more curious, receptive and available to the richness of your sensory experience.
+
+<div style="position:relative;padding-top:56.25%;overflow:hidden;border-radius:12px;">
+  <iframe src="https://player.mediadelivery.net/embed/819148/4adaa8da-1fb1-4833-973e-289cca74eaa6?autoplay=true&loop=false&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;left:0;width:100%;height:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;" allowfullscreen="true"></iframe>
 </div>
 
 ## Integration: Bringing sensual embodiment into daily life
