@@ -61,6 +61,11 @@ Allow whatever answers, sensations or emotions arise to be met with curiosity. Y
   <iframe src="https://player.mediadelivery.net/embed/819148/776d28c8-bec7-4147-b6e4-313e47fd21fd?autoplay=true&loop=false&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;left:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;" allowfullscreen="true"></iframe>
 </div>
 
+## Your Self Discovery of the Body
+Discover the body as if you've never touched her before. As if you don't know what skin feels like. Or what your hands, your face, your breasts, each inch of your body is something new to discover as though for the first time.
+
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.mediadelivery.net/embed/819148/6f27127f-1553-4d17-8ec9-575b07a19de8?autoplay=true&loop=false&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;" allowfullscreen="true"></iframe></div>
+
 ## Gentle breathwork and sounding
 
 Return to soft breathwork, allowing the exhale to become full and unforced. If it feels supportive, let a heavier breath or sound emerge naturally. You might imagine the exhale travelling down through the Yoni and flowing like a river, releasing only what is ready to move.
