@@ -398,7 +398,7 @@ draft: false
       </article>
       <!-- MEN -->
       <article class="sr-pathway-card">
-        <img src="/img/page-banners/mens-breathwork-thumb.png"
+        <img src="/img/page-banners/men-breathwork-thumb.png"
              alt="Men's Tantra and embodiment"
              loading="lazy">
         <div class="sr-pathway-content">
