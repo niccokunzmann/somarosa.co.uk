@@ -243,6 +243,118 @@ draft: false
 
 @media(prefers-reduced-motion:reduce){.sr-home *{scroll-behavior:auto!important;transition:none!important}}
 
+/* ==========================================
+   SOMAROSA MOBILE RESPONSIVE BANNERS
+   ========================================== */
+
+@media (max-width: 600px) {
+
+    /* HOMEPAGE HERO SLIDER */
+    .sr-home .sr-hero {
+        height: auto;
+        min-height: 0;
+        overflow: hidden;
+        background: var(--wine);
+    }
+
+    /* Allow the active slide to determine the height */
+    .sr-home .sr-slides {
+        position: relative;
+        inset: auto;
+    }
+
+    .sr-home .sr-slide {
+        display: none;
+        position: relative;
+        inset: auto;
+        width: 100%;
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    .sr-home .sr-slide.is-active {
+        display: block;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    /* Images retain their natural proportions */
+    .sr-home .sr-slide img {
+        position: relative;
+        inset: auto;
+        display: block;
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+        object-fit: contain;
+        object-position: center;
+    }
+
+    /* Remove the desktop image overlay */
+    .sr-home .sr-slide:after {
+        display: none;
+    }
+
+    /* Place text beneath the image */
+    .sr-home .sr-slide-content {
+        position: relative;
+        width: 100%;
+        max-width: none;
+        padding: 35px 24px 65px;
+        margin: 0;
+        background: var(--wine);
+    }
+
+    .sr-home .sr-slide-content > * {
+        max-width: 100%;
+    }
+
+    .sr-home .sr-slide h1 {
+        font-size: clamp(38px, 10vw, 53px);
+    }
+
+    .sr-home .sr-slide-copy {
+        font-size: 21px;
+    }
+
+    /* Slider navigation */
+    .sr-home .sr-hero-dots {
+        position: relative;
+        left: auto;
+        bottom: auto;
+        padding: 0 24px 25px;
+        background: var(--wine);
+    }
+
+    .sr-home .sr-arrow {
+        top: 25%;
+    }
+
+    /* FEATURE STRIPS */
+.sr-home .sr-feature-strip {
+    min-height: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: var(--wine);
+}
+
+    .sr-home .sr-feature-strip-copy {
+        padding: 65px 0;
+    }
+
+    /* PREVENT HORIZONTAL OVERFLOW */
+    .sr-home {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    .sr-home img {
+        max-width: 100%;
+    }
+
+}
+
 </style>
 
 
