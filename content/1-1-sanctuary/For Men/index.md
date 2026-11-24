@@ -42,4 +42,4 @@ Using a nervous-system-informed approach inspired by Taoist and Tantric principl
 If you’re ready to upgrade your relationship with pleasure, message me privately for details.
 Contact Anya, somarosa@gmail.com
 
-“I had a gentle yet profound experience… By the end of the session I felt less fear, less trauma and more warmth and feeling…” – Scott
+“I had a gentle yet very profound experience… By the end of the session I felt less fear, less trauma and more warmth and feeling…” – Scott, Bristol

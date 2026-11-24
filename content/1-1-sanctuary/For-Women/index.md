@@ -29,7 +29,11 @@ Can also include a selection of practices:  Taoist Tantric Arts, Gestalt Therapy
 
 ## Nervous System Experiencing & Resourcing 
 
-A session focused on embodied learning about your unique nervous system - guided to deepen in body, seeing what's there, learning to recognise your nervous system state, and then practices offered to respond to your real-time nervous system state and tracking your body's response. 
+"A session focused on embodied learning about your unique nervous system - guided to deepen in body, seeing what's there, learning to recognise your nervous system state, and then practices offered to respond to your real-time nervous system state and tracking your body's response. 
+
+Anya crafted a warm and inviting atmosphere and held the space lightly and gently, allowing me to ease into intimacy at my own pace and in my own way"
+
+-Clara, Birmingham
 
 
 There are also 3 month programs if you're seeking a deep dive to completely Revitalise Your Life in the Sanctuary. See more [here](https://somarosa.co.uk/1-1-sanctuary/revitalise-your-life-sanctuary/ "")
