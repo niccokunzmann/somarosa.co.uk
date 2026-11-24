@@ -5,7 +5,6 @@ title: "Home"
 description: "Somatic, Taoist and Tantric practices for deeper embodiment, nervous system capacity, vitality, pleasure and connection."
 
 keywords: ["somatic embodiment", "Taoist sexual arts", "Tantra", "feminine embodiment coaching", "nervous system regulation", "somatic coaching", "pleasure", "intimacy", "Anya Walsh", "Somarosa", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "somatic feminine coaching", "trauma-informed women's coach", "women's empowerment embodiment work", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy", "livetantra", "shashi solluna", "minke de vos", "catherine hale", "the field facilitation", "live tantra community", "livetantra project manager", "Anya Walsh", "brainz magazine", "livetantra tv", "live tantra courses", "tantra courses", "traditional chinese medicine", "taoist sexual arts", "mantak chia", "tantra courses online", "culture of care facilitation", "rachel rickards"]
-
 date: 2026-01-12
 
 draft: false
@@ -249,332 +248,133 @@ draft: false
 
 
 <div class="sr-home">
-
   <section class="sr-hero" aria-label="Somarosa featured pathways">
-
     <div class="sr-slides">
-
       <article class="sr-slide is-active" data-sr-slide aria-hidden="false"><img src="/img/homepage-slides/slide-01-hero-image.png" alt="Anya in a flowing red dress beside the sea"><div class="sr-slide-content"><p class="sr-eyebrow">WOMEN · MEN · COUPLES</p><h1>SOMATIC TAOIST TANTRIC.</h1><p class="sr-slide-copy">Practices for deeper embodiment, vitality and pleasure.</p><a class="sr-button sr-button-gold sr-slide-cta" href="/1-1-sanctuary/">Explore 1:1 coaching</a></div></article>
-
       <article class="sr-slide" data-sr-slide aria-hidden="true"><img src="/img/homepage-slides/slide-02-pleasure.png" alt="Anya in a red dress by the shoreline" loading="lazy"><div class="sr-slide-content"><p class="sr-eyebrow">A LIFE MORE FULLY FELT</p><h1>Awaken more pleasure.</h1><p class="sr-slide-copy">Awaken your fullest self to feel, express, receive and create.</p><a class="sr-button sr-button-gold" href="/about/">Discover Somarosa</a></div></article>
-
       <article class="sr-slide" data-sr-slide aria-hidden="true"><img src="/img/homepage-slides/slide-03-red-dress.jpg" alt="Anya moving freely on the shoreline" loading="lazy"><div class="sr-slide-content"><p class="sr-eyebrow">FOR WOMEN</p><h1>Return to your own aliveness.</h1><p class="sr-slide-copy">Reconnect with your body, awaken your sensuality and reclaim your expression of self.</p><a class="sr-button sr-button-gold" href="/1-1-sanctuary/sanctuary/programs">Explore women's coaching</a></div></article>
-
       <article class="sr-slide" data-sr-slide aria-hidden="true"><img src="/img/homepage-slides/slide-04-men-coaching.png" alt="Anya resting in a relaxed pose on the coast" loading="lazy"><div class="sr-slide-content"><p class="sr-eyebrow">FOR MEN</p><h1>Move beyond performance.</h1><p class="sr-slide-copy">Cultivate vitality, deepen presence and discover a more expansive experience of pleasure.</p><a class="sr-button sr-button-gold" href="/1-1-sanctuary/for-men/">Explore men's coaching</a></div></article>
-
       <article class="sr-slide" data-sr-slide aria-hidden="true"><img src="/img/homepage-slides/slide-05-couple.png" alt="Anya in a cream dress beside the ocean" loading="lazy"><div class="sr-slide-content"><p class="sr-eyebrow">FOR COUPLES</p><h1>Reignite intimacy.</h1><p class="sr-slide-copy">Slow down. Reconnect. Explore conscious touch and embodied connection.</p><a class="sr-button sr-button-gold" href="/1-1-sanctuary/couples-sanctuary/">Explore couples coaching</a></div></article>
-
     </div>
-
     <button class="sr-arrow sr-prev" type="button" aria-label="Previous slide">‹</button><button class="sr-arrow sr-next" type="button" aria-label="Next slide">›</button>
-
     <div class="sr-hero-dots" aria-label="Choose homepage slide"><button class="sr-dot is-active" type="button" data-sr-dot="0" aria-label="Show slide 1"></button><button class="sr-dot" type="button" data-sr-dot="1" aria-label="Show slide 2"></button><button class="sr-dot" type="button" data-sr-dot="2" aria-label="Show slide 3"></button><button class="sr-dot" type="button" data-sr-dot="3" aria-label="Show slide 4"></button><button class="sr-dot" type="button" data-sr-dot="4" aria-label="Show slide 5"></button></div>
-
   </section>
-
-
-
   <section class="sr-intro sr-paper"><div class="sr-wrap sr-intro-grid">
-
     <div class="sr-intro-heading"><p class="sr-script">I'm Anya.</p><p class="sr-eyebrow">INTIMACY &amp; EMBODIMENT COACH<br>TAO TANTRIC ARTS FACILITATOR</p></div>
-
     <div><h2>Your most alive self. Are you embodying it?</h2><p>At the intersection of embodiment, pleasure and vitality is your full aliveness: the capacity to be your fullest, most expansive expression of yourself.</p><p>I weave nervous-system capacity building, somatic awareness, Taoist sexual arts, Tantra, breathwork and embodied movement and expression.</p><p>A flower cannot thrive without strong roots. We work with grounding practices and build vitality at the pace your nervous system can sustain.</p><a class="sr-text-link" href="/about/">Meet Anya <span>↗</span></a></div>
-
     <div class="sr-intro-photo"><img src="/img/anya-homepage-portrait.jpg" alt="Portrait of Anya, founder of Somarosa" loading="lazy"></div>
-
   </div></section>
-
-
-
   <section class="sr-statement"><p class="sr-script">More than pleasure. More than regulation.</p><h2>FULL ALIVENESS.</h2><p>The freedom to feel, express, receive, create and experience the full spectrum of being alive.</p></section>
-
-
-
   <section class="sr-section sr-paper"><div class="sr-wrap"><div class="sr-section-heading"><p class="sr-eyebrow">THE SOMAROSA APPROACH</p><h2>Three pathways into deeper connection.</h2><p>Grounded practices to support a more intimate relationship with your body, energy and expression.</p></div>
-
     <div class="sr-pillar-grid">
-
       <article class="sr-pillar-card"><img src="/img/homepage-slides/homepage-somatic.png" alt="Anya seated in a red dress by the sea" loading="lazy"><div class="sr-pillar-copy"><h3>Somatic Embodiment</h3><p>Reconnect with the intelligence of your body. Build nervous-system capacity, feel more and move through life with greater presence.</p><a class="sr-text-link" href="/1-1-sanctuary/">Explore <span>↗</span></a></div></article>
-
       <article class="sr-pillar-card"><img src="/img/homepage-slides/homepage-taoism.png" alt="Anya expressing through movement on the shoreline" loading="lazy"><div class="sr-pillar-copy"><h3>Taoist Energy Arts</h3><p>Cultivate and circulate your life force. Build vitality, energise your body and create greater balance and flow.</p><a class="sr-text-link" href="/1-1-sanctuary/">Explore <span>↗</span></a></div></article>
-
       <article class="sr-pillar-card"><img src="/img/homepage-slides/homepage-tantra.png" alt="Anya resting on warm coastal rock" loading="lazy"><div class="sr-pillar-copy"><h3>Tantric Practices</h3><p>Explore the art of presence, pleasure and connection. Awaken your sensuality and expand your capacity for intimacy.</p><a class="sr-text-link" href="/1-1-sanctuary/">Explore <span>↗</span></a></div></article>
-
     </div>
-
   </div></section>
-
-
-
   <section class="sr-feature-quote"><div class="sr-quote-inner"><span class="sr-quote-mark">“</span><blockquote>Anya is one of the most grounded practitioners I have ever had the pleasure of working with. Her presence immediately makes me feel safe, open and receptive. Through her Temple and breath work sessions I have uncovered so much about myself and my own energy, needs and boundaries, which has gone on to help me profoundly in my life. Feeling how she touches others, makes it clear to me this is what she is here to do. Her unique passion and gentleness combined are such medicine in these times and I would recommend her to anyone wanting to experience deep healing.</blockquote><p class="sr-credit">MEG · WALES · CLIENT TESTIMONIAL</p></div></section>
-
-
-
  <!-- FIND YOUR WAY IN: THREE COACHING PATHWAYS -->
-
-
-
 <section class="sr-pathways">
-
   <div class="sr-wrap">
-
-
-
     <div class="sr-section-heading">
-
       <p class="sr-eyebrow">FIND YOUR WAY IN</p>
-
       <h2>Spaces to meet yourself more fully.</h2>
-
     </div>
-
-
-
     <div class="sr-pathway-grid">
-
-
-
       <!-- WOMEN -->
-
       <article class="sr-pathway-card">
-
         <img src="/img/homepage-slides/slide-05-cream-dress-shore.jpg"
-
              alt="Feminine embodiment coaching"
-
              loading="lazy">
-
-
-
         <div class="sr-pathway-content">
-
           <p class="sr-eyebrow">FOR WOMEN</p>
-
           <h3>Feminine Embodiment Coaching</h3>
-
           <p>Reconnect with your body, awaken your sensuality and reclaim your feminine expression.</p>
-
           <a class="sr-button sr-button-gold" href="/1-1-sanctuary/">
-
             Explore women's coaching
-
           </a>
-
         </div>
-
       </article>
-
-
-
       <!-- MEN -->
-
       <article class="sr-pathway-card">
-
         <img src="/img/page-banners/mens-coaching-thumb.png"
-
              alt="Men's Tantra and embodiment"
-
              loading="lazy">
-
-
-
         <div class="sr-pathway-content">
-
           <p class="sr-eyebrow">FOR MEN</p>
-
           <h3>Men's Tantra &amp; Embodiment</h3>
-
           <p>Move beyond performance. Cultivate vitality, deepen presence and discover a more expansive experience of pleasure.</p>
-
           <a class="sr-button sr-button-gold" href="/1-1-sanctuary/for-men/">
-
             Explore men's coaching
-
           </a>
-
         </div>
-
       </article>
-
-
-
       <!-- COUPLES -->
-
       <article class="sr-pathway-card">
-
         <img src="/img/page-banners/couples-coaching-thumb.png"
-
              alt="Reignite intimacy for couples"
-
              loading="lazy">
-
-
-
         <div class="sr-pathway-content">
-
           <p class="sr-eyebrow">FOR COUPLES</p>
-
           <h3>Reignite Intimacy</h3>
-
           <p>Slow down. Reconnect. Explore conscious touch, embodied connection and deeper intimacy.</p>
-
           <a class="sr-button sr-button-gold" href="/1-1-sanctuary/couples-sanctuary/">
-
             Explore couples coaching
-
           </a>
-
         </div>
-
       </article>
-
-
-
     </div>
-
   </div>
-
 </section>
-
-
-
-
-
 <!-- AWAKENED SENSUALITY FEATURE STRIP -->
-
-
-
 <section class="sr-feature-strip"
-
   style="background-image:url('/img/page-banners/awakened-sensuality.png');">
-
-
-
   <div class="sr-wrap">
-
     <div class="sr-feature-strip-copy">
-
-
-
       <p class="sr-eyebrow">A SIX-WEEK JOURNEY</p>
-
-
-
       <h2>Awakened Sensuality</h2>
-
-
-
       <p>
-
         Reconnect with your sensual nature. Move beyond disconnection
-
         and self-judgement into embodied pleasure, vitality and
-
         a deeper expression of yourself.
-
       </p>
-
-
-
       <a class="sr-button sr-button-gold"
-
          href="/awakened-sensuality/">
-
         Find out more
-
       </a>
-
-
-
     </div>
-
   </div>
-
 </section>
-
-
-
-
-
 <!-- PLEASURE BLUEPRINT FEATURE STRIP -->
-
-
-
 <section class="sr-feature-strip"
-
   style="background-image:url('/img/page-banners/pleasure-blueprint.png');">
-
-
-
   <div class="sr-wrap">
-
     <div class="sr-feature-strip-copy">
-
-
-
       <p class="sr-eyebrow">DISCOVER YOURSELF</p>
-
-
-
       <h2>The Pleasure Blueprint</h2>
-
-
-
       <p>
-
         Discover your unique relationship with pleasure, sensation,
-
         intimacy and desire. Explore what helps you feel more,
-
         receive more and experience pleasure in your own way.
-
       </p>
-
-
-
       <a class="sr-button sr-button-gold"
-
          href="/pleasure-blueprint/">
-
         Discover your blueprint
-
       </a>
-
-
-
     </div>
-
   </div>
-
 </section>
-
-
-
   <section class="sr-testimonials"><div class="sr-wrap"><div class="sr-section-heading"><p class="sr-eyebrow">WORDS FROM THE COMMUNITY</p><h2>Held with care. Felt deeply.</h2><p>Experiences shared by people who have entered these spaces.</p></div>
-
     <div class="sr-testimonial-grid">
-
       <article class="sr-testimonial"><span class="sr-quote-mark">“</span><blockquote>Such a nourishing, healing space held with great skill and care. I feel whole</blockquote><p>IMOGEN <span>· SOMERSET</span></p></article>
-
       <article class="sr-testimonial"><span class="sr-quote-mark">“</span><blockquote>Anya crafted a warm and inviting atmosphere and held the space lightly and gently, allowing me to ease into intimacy at my own pace and in my own way</blockquote><p>CLARA <span>· BIRMINGHAM</span></p></article>
-
       <article class="sr-testimonial"><span class="sr-quote-mark">“</span><blockquote>I cannot recommend Anya highly enough for the spaces she holds. She created a beautifully curated safe space that allowed me to feel held, seen and accepted. I could be me, showing vulnerability and self in a way that I knew would be cherished and held</blockquote><p>CHRIS <span>· DEVON</span></p></article>
-
       <article class="sr-testimonial"><span class="sr-quote-mark">“</span><blockquote>I had a gentle yet profound experience, where Anya expertly guided me into deeper connection with myself, helping to chip away at some of the frozen, stored trauma in my body. By the end of the session I felt less fear, less trauma and more warmth and feeling. With her help, I feel I’ve take another important step forward in my healing, giving me optimism and excitement about my capacity to connect, receive and enjoy pleasure with myself and others. Thank you Anya.</blockquote><p>SCOTT <span>· BRISTOL</span></p></article>
-
     </div>
-
   </div></section>
-
-
-
   <section class="sr-workshops"><div class="sr-wrap"><div class="sr-workshops-copy"><p class="sr-eyebrow">GATHER. EXPLORE. EXPERIENCE.</p><h2>Come into the circle.</h2><p>Workshops, temples and immersive experiences to deepen your embodiment, expand your practice and connect in community.</p><a class="sr-button sr-button-outline" href="/workshops/">Explore workshops</a></div></div></section>
-
   <section class="sr-final"><p class="sr-script">The blooming of embodied truth.</p><p class="sr-eyebrow">YOUR BODY. YOUR VITALITY. YOUR FULLEST EXPRESSION.</p><h2>Begin where you are. Discover what becomes possible.</h2><a class="sr-button sr-button-gold" href="/contact/">Begin your journey</a></section>
-
 </div>
-
-
 
 <script>
 
