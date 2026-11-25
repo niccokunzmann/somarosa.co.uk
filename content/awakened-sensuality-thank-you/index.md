@@ -8,6 +8,8 @@ url: "/awakened-sensuality/thank-you/"
 robots: "noindex, nofollow"
 ---
 
+{{< rawhtml >}}
+
 <style>
 .as-thankyou {
     background: #F5EBDD;
@@ -163,3 +165,5 @@ robots: "noindex, nofollow"
 
     </div>
 </section>
+
+{{< /rawhtml >}}
