@@ -30,7 +30,7 @@ body:has(.sr-vitality) article > header {
     --sv-orange: #d97832;
     --sv-pearl: #f1dfc7;
     --sv-cream: #fad7b1;
-    --sv-text: #ffcb86;
+    --sv-text: #430432;
     width: 100%;
     max-width: 1080px;
     margin: 0 auto;
