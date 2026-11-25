@@ -300,7 +300,7 @@ draft: false
         </details>
         <details>
           <summary>How is the course structured?</summary>
-          <p>Each week includes 45–60 minutes of pre-recorded teaching and a 10-minute daily practice to explore through the week.</p>
+          <p>Each week includes 90 minutes of pre-recorded teaching and daily practices to explore through the week.</p>
         </details>
         <details>
           <summary>Is this therapy?</summary>
