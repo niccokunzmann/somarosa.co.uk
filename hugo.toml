@@ -1,3 +1,4 @@
+
 ############################
 # Site Configuration
 ############################
@@ -82,6 +83,7 @@ meta_twitter_creator = "@somarosa"
 
 [menu]
 
+# 1-1 SANCTUARY
 
 [[menu.main]]
 identifier = "1-1-sanctuary"
@@ -131,6 +133,9 @@ parent = "1-1-sanctuary"
 url = "/pleasure-blueprint/"
 weight = 17
 
+
+# WORKSHOPS
+
 [[menu.main]]
 identifier = "workshops"
 name = "Workshops"
@@ -155,23 +160,59 @@ parent = "workshops"
 url = "/workshops/womens-temple/"
 weight = 23
 
-[[menu.main]]
-name = "Blog"
-url = "/blog/"
-weight = 25
 
+# COURSES
 
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
+identifier = "courses"
+name = "Courses"
+url = "/courses/"
 weight = 30
 
 [[menu.main]]
-name = "Contact"
-parent = "about"
-url = "/contact/"
+name = "Awakened Sensuality"
+parent = "courses"
+url = "/awakened-sensuality/"
 weight = 31
+
+[[menu.main]]
+name = "Cultivate Sexual Vitality for Women"
+parent = "courses"
+url = "/cultivate-sexual-vitality-for-women/"
+weight = 32
+
+[[menu.main]]
+name = "Free Practices: Tao Vital Arts"
+parent = "courses"
+url = "/free-practices-tao-vital-arts/"
+weight = 33
+
+
+# MORE
+
+[[menu.main]]
+identifier = "more"
+name = "More"
+url = "/more/"
+weight = 40
+
+[[menu.main]]
+name = "About"
+parent = "more"
+url = "/about/"
+weight = 41
+
+[[menu.main]]
+name = "Contact"
+parent = "more"
+url = "/contact/"
+weight = 42
+
+[[menu.main]]
+name = "Blog"
+parent = "more"
+url = "/blog/"
+weight = 43
 
 
 ############################
