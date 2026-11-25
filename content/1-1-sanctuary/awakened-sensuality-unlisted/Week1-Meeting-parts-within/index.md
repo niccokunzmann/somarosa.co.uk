@@ -1,3 +1,4 @@
+
 ---
 title: "Week 1: Meeting the Parts Within"
 subtitle: "Safety, slowing down and learning to listen to your body"
@@ -37,6 +38,16 @@ I may use words such as *Yoni* and *Lingam* as sacred expressions when speaking 
 This Gestalt-inspired exploration invites you to listen inwardly and create a dialogue between your Yoni and your heart. Allow yourself to become curious about what each part may be holding, needing or communicating.
 
 You might explore the relationship between feminine and masculine aspects within yourself, or simply listen to what your Yoni needs. There is no correct answer and nothing to fix. Let your own experience guide you.
+
+### Week 1 Gestalt: A Conversation Between Your Heart and Yoni
+
+This guided Gestalt practice invites you into an intimate inner conversation between your heart and your Yoni. Through gentle awareness and dialogue, explore what these parts of yourself may wish to express, what they need from one another and how you can begin to nurture a deeper relationship between them.
+
+Approach this exploration with curiosity rather than expectation. Allow each part to have a voice, listen without judgement and give yourself permission to discover whatever arises at your own pace.
+
+<div style="position:relative;padding-top:56.25%;margin:24px 0;border-radius:12px;overflow:hidden;">
+  <iframe src="https://player.mediadelivery.net/embed/819148/7125061b-ec10-49aa-99ac-762032daf7f3?autoplay=true&loop=false&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;left:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;" allowfullscreen="true"></iframe>
+</div>
 
 ## Guided practice: Somatic Experiencing
 
