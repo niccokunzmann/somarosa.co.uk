@@ -1,3 +1,4 @@
+
 ---
 title: "Cultivate Sexual Vitality For Women"
 description: "Discover the art of cultivating sexual vitality through Taoist-inspired practices, feminine sensuality, conscious breath and embodied pleasure. A 40-minute guided practice for £7."
@@ -35,27 +36,20 @@ body:has(.sr-vitality) article > header {
     max-width: 1080px;
     margin: 0 auto;
     color: var(--sv-text);
+    background: #f5eee8;
     font-family: inherit;
 }
 
-.sr-vitality .sv-banner {
-    display: block;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
-    object-position: center;
-    margin: 0 0 46px;
-    border-radius: 3px;
-}
-
+/* MAIN CONTENT: LIGHT BACKGROUND, DARK TEXT */
 .sr-vitality .sv-content {
     width: 100%;
     padding: 0 28px;
+    background: #f5eee8;
+    color: #38232a;
 }
 
 .sr-vitality .sv-kicker {
-    color: var(--sv-rust);
+    color: var(--sv-rust) !important;
     font-family: Arial, sans-serif;
     font-size: 11px;
     letter-spacing: 3px;
@@ -68,7 +62,7 @@ body:has(.sr-vitality) article > header {
 .sr-vitality .sv-lead {
     max-width: 790px;
     margin: 0 auto 42px;
-    color: var(--sv-text);
+    color: #38232a !important;
     font-size: clamp(18px, 2vw, 21px);
     line-height: 1.85;
     text-align: center;
@@ -86,6 +80,7 @@ body:has(.sr-vitality) article > header {
     padding: 32px;
     background: var(--sv-cream);
     border: 1px solid rgba(105, 40, 63, 0.10);
+    color: #38232a;
 }
 
 .sr-vitality h2 {
@@ -97,7 +92,7 @@ body:has(.sr-vitality) article > header {
 }
 
 .sr-vitality p {
-    color: var(--sv-text);
+    color: #38232a !important;
     font-size: 16px;
     line-height: 1.85;
     margin: 0 0 17px;
@@ -117,7 +112,7 @@ body:has(.sr-vitality) article > header {
     position: relative;
     padding: 0 0 0 22px;
     margin: 0 0 13px;
-    color: var(--sv-text);
+    color: #38232a !important;
     font-size: 15px;
     line-height: 1.7;
 }
@@ -138,26 +133,30 @@ body:has(.sr-vitality) article > header {
     max-width: 820px;
     margin: 54px auto;
     text-align: center;
+    color: #38232a;
 }
 
 .sr-vitality .sv-section p {
     max-width: 760px;
     margin-left: auto;
     margin-right: auto;
+    color: #38232a !important;
 }
 
+/* TESTIMONIAL: DARK BACKGROUND, LIGHT TEXT */
 .sr-vitality .sv-testimonial {
     margin: 48px 0;
     padding: 42px 34px;
     background: linear-gradient(135deg, #762d32 0%, #a94730 58%, #c66c36 100%);
     text-align: center;
     border-radius: 3px;
+    color: #f1dfc7;
 }
 
 .sr-vitality .sv-testimonial blockquote {
     max-width: 760px;
     margin: 0 auto 18px;
-    color: var(--sv-pearl);
+    color: #f1dfc7 !important;
     font-family: Georgia, serif;
     font-size: clamp(20px, 2.5vw, 27px);
     font-style: italic;
@@ -165,7 +164,7 @@ body:has(.sr-vitality) article > header {
 }
 
 .sr-vitality .sv-testimonial cite {
-    color: #f5d9bd;
+    color: #f5d9bd !important;
     font-family: Arial, sans-serif;
     font-size: 12px;
     font-style: normal;
@@ -173,6 +172,7 @@ body:has(.sr-vitality) article > header {
     text-transform: uppercase;
 }
 
+/* PURCHASE: DARK BACKGROUND, LIGHT TEXT */
 .sr-vitality .sv-purchase {
     margin: 55px 0 32px;
     padding: 48px 28px;
@@ -183,7 +183,7 @@ body:has(.sr-vitality) article > header {
 }
 
 .sr-vitality .sv-purchase .sv-kicker {
-    color: #e9bd9c;
+    color: #e9bd9c !important;
 }
 
 .sr-vitality .sv-purchase h2 {
@@ -192,7 +192,7 @@ body:has(.sr-vitality) article > header {
 }
 
 .sr-vitality .sv-price {
-    color: #f2c99f;
+    color: #f2c99f !important;
     font-family: Georgia, serif;
     font-size: 48px;
     line-height: 1.2;
@@ -200,7 +200,7 @@ body:has(.sr-vitality) article > header {
 }
 
 .sr-vitality .sv-purchase p {
-    color: #f4e5d9;
+    color: #f4e5d9 !important;
     font-size: 14px;
 }
 
@@ -228,15 +228,18 @@ body:has(.sr-vitality) article > header {
 .sr-vitality .sv-signature {
     padding: 26px 0 52px;
     text-align: center;
+    background: #f5eee8;
+    color: #38232a;
 }
 
 .sr-vitality .sv-signature p {
     margin-bottom: 7px;
     font-size: 14px;
+    color: #38232a !important;
 }
 
 .sr-vitality .sv-signature .sv-brand {
-    color: var(--sv-rust);
+    color: var(--sv-rust) !important;
     letter-spacing: 3px;
 }
 
