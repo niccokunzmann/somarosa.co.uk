@@ -327,7 +327,7 @@ draft: false
       <div class="as-eyebrow">Your body has its own language</div>
       <h2>Begin the journey into awakened sensuality.</h2>
       <p>Reclaim your sensuality, your voice and your feminine power. Make space for presence, sensation, expression and your own unique experience of pleasure.</p>
-
+{{< rawhtml >}}
       <div class="as-enrol-card">
         <div class="as-enrol-kicker">Awakened Sensuality · Six-week programme</div>
         <div class="as-price-line">
@@ -342,6 +342,8 @@ draft: false
           <p>✧ A complimentary private coaching call, valued at £75</p>
           <p>✧ Enrol by 7 January 2027 and receive a bonus 75-minute guided practice</p>
         </div>
+{{< /rawhtml >}}
+
 {{< rawhtml >}}
        <div class="as-paypal-wrap">
   <style>
