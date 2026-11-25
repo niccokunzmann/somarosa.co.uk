@@ -1,4 +1,3 @@
-
 ---
 title: "Cultivate Sexual Vitality For Women"
 description: "Discover the art of cultivating sexual vitality through Taoist-inspired practices, feminine sensuality, conscious breath and embodied pleasure. A 40-minute guided practice for £7."
@@ -12,21 +11,11 @@ featured: false
 ---
 
 {{< rawhtml >}}
-
 <style>
-
-/* ==========================================
-   SOMAROSA - CULTIVATE SEXUAL VITALITY
-   ========================================== */
-
-/* HIDE THE AUTOMATIC HUGO PAGE TITLE
-   ONLY ON THIS PAGE */
-
+/* SOMAROSA | CULTIVATE SEXUAL VITALITY */
 body:has(.sr-vitality) article > header {
     display: none !important;
 }
-
-/* MAIN WRAPPER */
 
 .sr-vitality,
 .sr-vitality * {
@@ -35,368 +24,312 @@ body:has(.sr-vitality) article > header {
 
 .sr-vitality {
     --sv-wine: #69283f;
-    --sv-rose: #a66c79;
-    --sv-cream: #f8f2ed;
-    --sv-text: #49363a;
-
+    --sv-rust: #a9432d;
+    --sv-orange: #d97832;
+    --sv-pearl: #f1dfc7;
+    --sv-cream: #fbf5ed;
+    --sv-text: #493936;
     width: 100%;
-    max-width: 850px;
+    max-width: 1080px;
     margin: 0 auto;
-    padding: 0;
     color: var(--sv-text);
+    font-family: inherit;
 }
 
-/* HERO */
-
-.sr-vitality .sv-hero {
-    background: var(--sv-wine);
-    color: var(--sv-cream);
-    padding: 75px 30px;
-    text-align: center;
-    border-radius: 3px;
-    margin: 0 0 45px;
+.sr-vitality .sv-banner {
+    display: block;
     width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    object-position: center;
+    margin: 0 0 46px;
+    border-radius: 3px;
 }
-
-.sr-vitality .sv-eyebrow {
-    font-family: Arial, sans-serif;
-    font-size: 11px;
-    letter-spacing: 4px;
-    text-transform: uppercase;
-    color: #e5b8bd !important;
-    margin: 0 0 25px;
-}
-
-.sr-vitality .sv-hero h1 {
-    color: var(--sv-cream) !important;
-    font-size: clamp(36px, 6vw, 58px);
-    font-weight: 400;
-    line-height: 1.15;
-    margin: 0 auto 20px;
-    max-width: 650px;
-}
-
-.sr-vitality .sv-subtitle {
-    color: #f1d9d9 !important;
-    font-size: 17px;
-    line-height: 1.8;
-    max-width: 570px;
-    margin: 0 auto;
-}
-
-/* CONTENT */
 
 .sr-vitality .sv-content {
     width: 100%;
-    padding: 0 24px;
+    padding: 0 28px;
 }
 
-.sr-vitality .sv-content h2 {
+.sr-vitality .sv-kicker {
+    color: var(--sv-rust);
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    letter-spacing: 3px;
+    line-height: 1.6;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 0 16px;
+}
+
+.sr-vitality .sv-lead {
+    max-width: 790px;
+    margin: 0 auto 42px;
+    color: var(--sv-text);
+    font-size: clamp(18px, 2vw, 21px);
+    line-height: 1.85;
+    text-align: center;
+}
+
+.sr-vitality .sv-columns {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+    align-items: stretch;
+    margin: 38px 0;
+}
+
+.sr-vitality .sv-panel {
+    padding: 32px;
+    background: var(--sv-cream);
+    border: 1px solid rgba(105, 40, 63, 0.10);
+}
+
+.sr-vitality h2 {
     color: var(--sv-wine) !important;
-    font-size: 27px;
+    font-size: clamp(24px, 3vw, 30px);
     font-weight: 400;
-    line-height: 1.35;
-    margin: 40px 0 15px;
+    line-height: 1.3;
+    margin: 0 0 17px;
 }
 
-.sr-vitality .sv-content p {
+.sr-vitality p {
     color: var(--sv-text);
     font-size: 16px;
-    line-height: 1.9;
-    margin: 0 0 20px;
+    line-height: 1.85;
+    margin: 0 0 17px;
 }
 
-.sr-vitality .sv-intro {
-    font-size: 19px !important;
-    line-height: 1.85 !important;
+.sr-vitality .sv-panel p:last-child {
+    margin-bottom: 0;
 }
-
-.sr-vitality .sv-divider {
-    width: 65px;
-    height: 1px;
-    background: var(--sv-rose);
-    margin: 35px auto;
-}
-
-/* BENEFITS */
 
 .sr-vitality .sv-benefits {
-    background: var(--sv-cream);
-    padding: 30px;
-    margin: 30px 0;
-    width: 100%;
-}
-
-.sr-vitality .sv-benefits ul {
-    padding-left: 20px;
+    list-style: none;
     margin: 0;
-    line-height: 2.1;
-    color: var(--sv-text);
+    padding: 0;
 }
 
 .sr-vitality .sv-benefits li {
-    padding-left: 3px;
-    margin-bottom: 5px;
+    position: relative;
+    padding: 0 0 0 22px;
+    margin: 0 0 13px;
+    color: var(--sv-text);
+    font-size: 15px;
+    line-height: 1.7;
 }
 
-/* PURCHASE */
+.sr-vitality .sv-benefits li:last-child {
+    margin-bottom: 0;
+}
+
+.sr-vitality .sv-benefits li::before {
+    content: "✧";
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: var(--sv-orange);
+}
+
+.sr-vitality .sv-section {
+    max-width: 820px;
+    margin: 54px auto;
+    text-align: center;
+}
+
+.sr-vitality .sv-section p {
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sr-vitality .sv-testimonial {
+    margin: 48px 0;
+    padding: 42px 34px;
+    background: linear-gradient(135deg, #762d32 0%, #a94730 58%, #c66c36 100%);
+    text-align: center;
+    border-radius: 3px;
+}
+
+.sr-vitality .sv-testimonial blockquote {
+    max-width: 760px;
+    margin: 0 auto 18px;
+    color: var(--sv-pearl);
+    font-family: Georgia, serif;
+    font-size: clamp(20px, 2.5vw, 27px);
+    font-style: italic;
+    line-height: 1.6;
+}
+
+.sr-vitality .sv-testimonial cite {
+    color: #f5d9bd;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
 
 .sr-vitality .sv-purchase {
+    margin: 55px 0 32px;
+    padding: 48px 28px;
     background: var(--sv-wine);
-    color: white;
-    padding: 45px 25px;
+    color: #fff;
     text-align: center;
-    margin: 45px 0 30px;
     border-radius: 3px;
-    width: 100%;
+}
+
+.sr-vitality .sv-purchase .sv-kicker {
+    color: #e9bd9c;
 }
 
 .sr-vitality .sv-purchase h2 {
-    color: white !important;
-    margin: 0 0 15px;
+    color: var(--sv-pearl) !important;
+    margin-bottom: 12px;
 }
 
 .sr-vitality .sv-price {
-    font-size: 42px;
-    color: #f1d9d9;
-    margin: 15px 0;
+    color: #f2c99f;
+    font-family: Georgia, serif;
+    font-size: 48px;
+    line-height: 1.2;
+    margin: 15px 0 8px;
 }
 
 .sr-vitality .sv-purchase p {
-    color: #f1d9d9 !important;
+    color: #f4e5d9;
     font-size: 14px;
 }
 
 .sr-vitality .sv-button {
     display: inline-block;
-    border: none;
-    border-radius: 3px;
-    min-width: 230px;
+    min-width: 245px;
     max-width: 100%;
-    padding: 16px 28px;
-    min-height: 52px;
-    font-weight: 600;
-    background: #e8c6c3;
-    color: #54243a !important;
+    min-height: 54px;
+    padding: 17px 28px;
+    border: 0;
+    border-radius: 3px;
+    background: #efcfad;
+    color: #542a2c !important;
     font-family: Arial, sans-serif;
-    font-size: 14px;
-    letter-spacing: 1px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
     cursor: pointer;
 }
 
 .sr-vitality .sv-button:hover {
-    background: #f4ded9;
+    background: #fae4c9;
 }
 
-/* SIGNATURE */
-
 .sr-vitality .sv-signature {
+    padding: 26px 0 52px;
     text-align: center;
-    padding: 25px 0 45px;
 }
 
 .sr-vitality .sv-signature p {
+    margin-bottom: 7px;
     font-size: 14px;
-    margin-bottom: 10px;
 }
 
 .sr-vitality .sv-signature .sv-brand {
+    color: var(--sv-rust);
     letter-spacing: 3px;
-    color: var(--sv-rose);
 }
 
-/* MOBILE */
-
-@media (max-width: 600px) {
-
-    .sr-vitality {
-        width: 100%;
-        max-width: 100%;
-    }
-
-    .sr-vitality .sv-hero {
-        padding: 50px 20px;
+@media (max-width: 700px) {
+    .sr-vitality .sv-banner {
         margin-bottom: 30px;
     }
-
-    .sr-vitality .sv-hero h1 {
-        font-size: 36px;
-    }
-
-    .sr-vitality .sv-subtitle {
-        font-size: 15px;
-    }
-
     .sr-vitality .sv-content {
-        padding: 0 18px;
+        padding: 0 16px;
     }
-
-    .sr-vitality .sv-content h2 {
-        font-size: 24px;
-        margin-top: 32px;
+    .sr-vitality .sv-columns {
+        grid-template-columns: 1fr;
+        gap: 16px;
+        margin: 28px 0;
     }
-
-    .sr-vitality .sv-content p {
-        font-size: 15px;
+    .sr-vitality .sv-panel {
+        padding: 25px 22px;
     }
-
-    .sr-vitality .sv-intro {
-        font-size: 17px !important;
+    .sr-vitality .sv-section {
+        margin: 38px auto;
     }
-
-    .sr-vitality .sv-benefits {
-        padding: 22px 18px;
+    .sr-vitality .sv-testimonial {
+        padding: 32px 22px;
+        margin: 35px 0;
     }
-
     .sr-vitality .sv-purchase {
-        padding: 35px 18px;
+        padding: 38px 20px;
+        margin-top: 40px;
     }
-
-    .sr-vitality .sv-purchase h2 {
-        font-size: 24px;
-    }
-
     .sr-vitality .sv-button {
         width: 100%;
         min-width: 0;
     }
 }
-
 </style>
 
-
 <div class="sr-vitality">
-
-    <section class="sv-hero">
-
-        <p class="sv-eyebrow">SOMAROSA · A GUIDED PRACTICE</p>
-
-        <h1>Cultivate Sexual Vitality</h1>
-
-        <p class="sv-subtitle">
-            Awaken your life force. Reconnect with your sensuality. Discover the art of embodied pleasure.
-        </p>
-
-    </section>
-
+    <img class="sv-banner" src="/img/page-banners/cultivate-vitality-banner.png" alt="Cultivate Sexual Vitality for Women. Connect to your body, expand your vitality, empower your feminine." />
 
     <div class="sv-content">
+        <p class="sv-kicker">A guided practice by Somarosa</p>
+        <p class="sv-lead">Your sexual vitality is more than your sexuality. It is your life force: your capacity to feel, to receive, to experience pleasure and to inhabit the fullness of your body.</p>
 
-        <p class="sv-intro">
-            Your sexual vitality is more than your sexuality. It is your life force, your capacity to feel, to receive, to experience pleasure and to inhabit the fullness of your body.
-        </p>
+        <div class="sv-columns">
+            <section class="sv-panel">
+                <h2>The art of feminine sensuality</h2>
+                <p>So many women have learnt to disconnect from their sensuality, to live predominantly in their minds or to experience pleasure as something that happens to them rather than something they can actively cultivate.</p>
+                <p>Feminine sensuality practices invite you to soften, awaken sensation, develop body awareness and rediscover the intelligence of your own pleasure.</p>
+            </section>
 
-        <p>
-            Across Taoist traditions, sexual energy is understood as a powerful expression of our vital essence. Through conscious breath, movement and awareness, we can learn to cultivate this energy and develop a deeper relationship with ourselves.
-        </p>
-
-        <div class="sv-divider"></div>
-
-        <h2>The Art of Feminine Sensuality</h2>
-
-        <p>
-            So many women have learnt to disconnect from their sensuality, to live predominantly in their minds or to experience pleasure as something that happens to them rather than something they can actively cultivate.
-        </p>
-
-        <p>
-            Feminine sensuality practices invite you to soften, awaken sensation, develop body awareness and rediscover the intelligence of your own pleasure.
-        </p>
-
-
-        <h2>Why Cultivate Sexual Vitality?</h2>
-
-        <div class="sv-benefits">
-
-            <ul>
-                <li>Deepen your connection with your body and sensuality.</li>
-                <li>Explore pleasure as a source of vitality and aliveness.</li>
-                <li>Develop greater awareness of your internal sensations and energy.</li>
-                <li>Discover Taoist-inspired approaches to breath and energy cultivation.</li>
-                <li>Nurture a more intimate relationship with your feminine essence.</li>
-                <li>Create space for presence, receptivity and embodied confidence.</li>
-            </ul>
-
+            <section class="sv-panel">
+                <h2>Why cultivate sexual vitality?</h2>
+                <ul class="sv-benefits">
+                    <li>Deepen your connection with your body and sensuality.</li>
+                    <li>Explore pleasure as a source of vitality and aliveness.</li>
+                    <li>Develop greater awareness of your internal sensations and energy.</li>
+                    <li>Discover Taoist-inspired approaches to breath and energy cultivation.</li>
+                    <li>Nurture a more intimate relationship with your feminine essence.</li>
+                    <li>Create space for presence, receptivity and embodied confidence.</li>
+                </ul>
+            </section>
         </div>
 
-
-        <h2>Your 40-Minute Guided Practice</h2>
-
-        <p>
-            This guided experience introduces you to the cultivation of sexual vitality through embodied awareness and Taoist-inspired practices.
-        </p>
-
-        <p>
-            A space to slow down, turn inward and explore the relationship between your breath, body, sensuality and life force.
-        </p>
-
-        <p>
-            No previous experience is needed. Simply bring your curiosity and a willingness to explore.
-        </p>
-
-
-        <section class="sv-purchase">
-
-            <p class="sv-eyebrow">YOUR PRACTICE AWAITS</p>
-
-            <h2>Begin Cultivating Your Vitality</h2>
-
-            <div class="sv-price">£7</div>
-
-            <p>One-time payment · 40-minute guided video practice</p>
-
-            <form
-                action="https://history.paypal.com/ncp/payment/AWT567BES272C"
-                method="post"
-                target="_blank"
-                style="display:flex;flex-direction:column;align-items:center;gap:12px;margin-top:15px;"
-            >
-
-                <input
-                    class="sv-button"
-                    type="submit"
-                    value="GET YOUR PRACTICE"
-                />
-
-                <img
-                    src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg"
-                    alt="Accepted payment methods"
-                    style="max-width:180px;width:100%;height:auto;"
-                />
-
-                <span style="font-family:Arial,sans-serif;font-size:11px;color:#f1d9d9;">
-                    Secure payment powered by PayPal
-                </span>
-
-            </form>
-
-            <p style="margin-top:20px;">
-                Your private video access link will be delivered by email following confirmed payment.
-            </p>
-
+        <section class="sv-section">
+            <p class="sv-kicker">Your experience</p>
+            <h2>40 minutes to explore, feel and awaken</h2>
+            <p>This guided experience introduces you to the cultivation of sexual vitality through embodied awareness and Taoist-inspired practices.</p>
+            <p>A space to slow down, turn inward and explore the relationship between your breath, body, sensuality and life force.</p>
+            <p>No previous experience is needed. Simply bring your curiosity and a willingness to explore.</p>
         </section>
 
+        <section class="sv-testimonial" aria-label="Participant testimonial">
+            <blockquote>“WOW i feel SO alive!!! After doing this practice for the first time I've done anything like this i felt tingling in my hands and vibrations all over my body!! Inspired!”</blockquote>
+            <cite>Meg</cite>
+        </section>
 
-        <div class="sv-divider"></div>
-
-        <p>
-            Give yourself 40 minutes. Create a little space. Allow yourself to feel.
-        </p>
-
+        <section class="sv-purchase" id="get-the-practice">
+            <p class="sv-kicker">Your practice awaits</p>
+            <h2>Begin cultivating your vitality</h2>
+            <div class="sv-price">£7</div>
+            <p>One-time payment · 40-minute guided video practice</p>
+            <form action="https://history.paypal.com/ncp/payment/AWT567BES272C" method="post" target="_blank" style="display:flex;flex-direction:column;align-items:center;gap:12px;margin-top:18px;">
+                <input class="sv-button" type="submit" value="GET YOUR PRACTICE" />
+                <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="Accepted payment methods" style="max-width:180px;width:100%;height:auto;" />
+                <span style="font-family:Arial,sans-serif;font-size:11px;color:#f1d9d9;">Secure payment powered by PayPal</span>
+            </form>
+            <p style="margin-top:20px;">Your private video access link will be delivered by email following confirmed payment.</p>
+        </section>
 
         <div class="sv-signature">
-
             <p>With love,</p>
-
             <p><strong>Anya</strong></p>
-
             <p class="sv-brand">SOMAROSA</p>
-
             <p><em>The blooming of embodied truth.</em></p>
-
         </div>
-
     </div>
-
 </div>
-
 {{< /rawhtml >}}
