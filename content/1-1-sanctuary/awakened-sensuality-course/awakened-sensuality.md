@@ -342,7 +342,7 @@ draft: false
           <p>✧ A complimentary private coaching call, valued at £75</p>
           <p>✧ Enrol by 7 January 2027 and receive a bonus 75-minute guided practice</p>
         </div>
-
+{{< rawhtml >}}
        <div class="as-paypal-wrap">
   <style>
     .as-paypal-wrap .pp-77DYZS2WHJMP4 {
@@ -403,6 +403,7 @@ draft: false
     </section>
   </form>
 </div>
+{{< /rawhtml >}}
         <p class="as-payment-note">Secure checkout through PayPal. Your place is confirmed once payment has been completed.</p>
       </div>
 
