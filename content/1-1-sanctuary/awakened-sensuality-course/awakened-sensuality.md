@@ -1088,15 +1088,11 @@ draft: false
 </section>
   <footer class="as-footer">
 
-    <div>Somarosa · The blooming of embodied truth</div>
+<div>Somarosa · The blooming of embodied truth</div>
 
-    <div style="margin-top:8px"><a href="https://somarosa.co.uk/">somarosa.co.uk</a></div>
+<div style="margin-top:8px"><a href="https://somarosa.co.uk/">somarosa.co.uk</a></div>
 
-  </footer>
-
-
+</footer>
 
 </div>
-
-
 {{< /rawhtml >}}
