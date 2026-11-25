@@ -7,6 +7,8 @@ slug: "cultivate-sexual-vitality"
 url: "/cultivate-sexual-vitality-for-women/"
 type: "page"
 layout: "single"
+full_width: true
+hide_page_title: true
 featured: false
 ---
 
@@ -27,7 +29,7 @@ body:has(.sr-vitality) article > header {
     --sv-rust: #a9432d;
     --sv-orange: #d97832;
     --sv-pearl: #f1dfc7;
-    --sv-cream: #fbf5ed;
+    --sv-cream: #fad7b1;
     --sv-text: #ffcb86;
     width: 100%;
     max-width: 1080px;
