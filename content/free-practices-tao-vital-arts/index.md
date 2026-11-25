@@ -9,8 +9,6 @@ url: "/free-practices-tao-vital-arts/"
 
 {{< access-gate >}}
 
-# Tao Sexual Vitality Arts
-
 ## Cultivate your life force. Awaken your vitality.
 
 Discover simple Taoist practices for cultivating, circulating and harnessing your sexual vitality and life force energy.
