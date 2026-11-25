@@ -29,14 +29,14 @@ body:has(.sr-vitality) article > header {
     --sv-wine: #69283f;
     --sv-rust: #a9432d;
     --sv-orange: #d97832;
-    --sv-pearl: #f1dfc7;
+    --sv-pearl: #a9432d;
     --sv-cream: #fad7b1;
-    --sv-text: #430432;
+    --sv-text: #f1dfc7;
     width: 100%;
     max-width: 1080px;
     margin: 0 auto;
     color: var(--sv-text);
-    background: #f5eee8;
+    background: #69283f;
     font-family: inherit;
 }
 
