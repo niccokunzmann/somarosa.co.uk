@@ -213,3 +213,5 @@ Explore the relationship between ancient Taoist wisdom, conscious embodiment and
 *Somarosa | Embodiment. Vitality. Pleasure.*
 
 Exploring embodiment, somatic awareness, Taoist practices and conscious connection.
+
+{{< tao-seo-schema >}}
