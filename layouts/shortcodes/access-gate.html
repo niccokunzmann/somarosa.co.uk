@@ -1,0 +1,170 @@
+
+<div id="sr-access-gate">
+  <div class="sr-gate-inner">
+
+    <div class="sr-gate-brand">SOMAROSA</div>
+
+    <div class="sr-gate-divider"></div>
+
+    <p class="sr-gate-eyebrow">A FREE PRACTICE EXPERIENCE</p>
+
+    <h1>Explore Tao Vital Arts</h1>
+
+    <p class="sr-gate-description">
+      An invitation to slow down, connect with your breath
+      and explore the relationship between movement,
+      vitality and embodied presence.
+    </p>
+
+    <p class="sr-gate-instruction">
+      Enter your details below to receive immediate access
+      to your two free practices.
+    </p>
+
+    <div class="sr-gate-form">
+      <div
+        class="sender-form-field"
+        data-sender-form-id="dL9Lzr">
+      </div>
+    </div>
+
+    <p class="sr-gate-footer">
+      With warmth, Anya · Somarosa
+    </p>
+
+  </div>
+</div>
+
+<div id="sr-gated-content" hidden>
+  {{ .Page.RenderString .Inner }}
+</div>
+
+<style>
+  #sr-access-gate {
+    position: fixed;
+    inset: 0;
+    z-index: 999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-y: auto;
+    padding: 35px 20px;
+    background: #3F1022;
+    color: #F5EBDD;
+    box-sizing: border-box;
+  }
+
+  #sr-access-gate[hidden] {
+    display: none !important;
+  }
+
+  .sr-gate-inner {
+    width: 100%;
+    max-width: 560px;
+    margin: auto;
+    text-align: center;
+  }
+
+  .sr-gate-brand {
+    font-size: 15px;
+    letter-spacing: 7px;
+    font-weight: 500;
+    margin-bottom: 28px;
+  }
+
+  .sr-gate-divider {
+    width: 55px;
+    height: 1px;
+    background: #C9A47E;
+    margin: 0 auto 30px;
+  }
+
+  .sr-gate-eyebrow {
+    font-size: 10px;
+    letter-spacing: 3px;
+    color: #D5B99D;
+    margin-bottom: 18px;
+  }
+
+  .sr-gate-inner h1 {
+    color: #F5EBDD;
+    font-size: clamp(32px, 6vw, 48px);
+    line-height: 1.15;
+    font-weight: 400;
+    margin: 0 0 22px;
+  }
+
+  .sr-gate-description {
+    max-width: 440px;
+    margin: 0 auto 22px;
+    color: #E8D9CE;
+    font-size: 16px;
+    line-height: 1.8;
+  }
+
+  .sr-gate-instruction {
+    color: #D5B99D;
+    font-size: 14px;
+    line-height: 1.7;
+    margin: 0 auto 28px;
+  }
+
+  .sr-gate-form {
+    width: 100%;
+    max-width: 440px;
+    margin: 0 auto;
+    text-align: left;
+  }
+
+  .sr-gate-footer {
+    margin-top: 32px;
+    color: #C9A47E;
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+
+  #sr-gated-content[hidden] {
+    display: none !important;
+  }
+
+  @media (max-width: 600px) {
+    #sr-access-gate {
+      padding: 25px 20px;
+      align-items: center;
+    }
+
+    .sr-gate-brand {
+      margin-bottom: 20px;
+    }
+
+    .sr-gate-description {
+      font-size: 15px;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  var gate = document.getElementById('sr-access-gate');
+  var content = document.getElementById('sr-gated-content');
+
+  if (!gate || !content) return;
+
+  var params = new URLSearchParams(window.location.search);
+
+  if (params.get('access') === 'granted') {
+    gate.hidden = true;
+    content.hidden = false;
+
+    // Remove the access marker from the visible address.
+    window.history.replaceState(
+      {},
+      document.title,
+      window.location.pathname + window.location.hash
+    );
+  } else {
+    gate.hidden = false;
+    content.hidden = true;
+  }
+})();
+</script>
