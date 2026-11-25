@@ -116,6 +116,183 @@ draft: false
 .as-cta p { max-width: 650px; margin: 0 auto 30px; color: rgba(255,247,239,.75); }
 .as-footer { background: #241116; color: rgba(255,247,239,.6); text-align: center; padding: 28px 20px; font-size: 10px; letter-spacing: .16em; text-transform: uppercase; }
 .as-footer a { color: #edc2a9 !important; text-decoration: none; }
+
+/* ==========================================
+   LAUNCH OFFER / ENROLMENT STRIP
+   ========================================== */
+
+.as-offer-strip {
+  max-width: 760px;
+  margin: 42px auto 32px;
+  padding: 38px 42px;
+  background: #f7f0e8;
+  color: #352522;
+  text-align: center;
+  border: 1px solid rgba(238,190,157,.45);
+}
+
+.as-offer-label {
+  color: #9f5255;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.as-price-comparison {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 42px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
+.as-standard-price,
+.as-launch-price {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.as-standard-price span,
+.as-launch-price span {
+  font-size: 10px;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  color: #76645d;
+}
+
+.as-standard-price strong {
+  font-family: Georgia, serif;
+  font-size: 34px;
+  font-weight: 400;
+  color: #9b8980;
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+}
+
+.as-launch-price strong {
+  font-family: Georgia, serif;
+  font-size: 52px;
+  font-weight: 400;
+  color: #702632;
+  line-height: 1;
+}
+
+.as-saving {
+  display: inline-block;
+  margin: 12px 0 28px;
+  padding: 7px 17px;
+  background: #ead5c7;
+  color: #702632;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.as-includes-heading {
+  font-family: Georgia, serif;
+  font-size: 22px;
+  color: #702632;
+  margin: 10px 0 14px;
+}
+
+.as-offer-includes {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 510px;
+  text-align: left;
+}
+
+.as-offer-includes li {
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(83,42,38,.12);
+  color: #5f4c45;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.as-offer-includes li::before {
+  content: "✧";
+  color: #9f5255;
+  margin-right: 12px;
+}
+
+.as-offer-includes li:last-child {
+  border-bottom: none;
+}
+
+.as-paypal-wrap {
+  margin: 28px auto 0;
+  text-align: center;
+}
+
+.as-paypal-wrap form {
+  display: inline-grid;
+  justify-items: center;
+  align-content: start;
+  gap: 10px;
+}
+
+.as-paypal-wrap .pp-77DYZS2WHJMP4 {
+  min-width: 230px;
+  height: 54px;
+  padding: 0 32px;
+  font-size: 12px;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  background: #702632;
+  color: #fff8f0;
+  border: 1px solid #702632;
+  border-radius: 0;
+  font-family: "Avenir Next", Avenir, sans-serif;
+  font-weight: 700;
+  cursor: pointer;
+  transition: .2s ease;
+}
+
+.as-paypal-wrap .pp-77DYZS2WHJMP4:hover {
+  background: #842f3c;
+  border-color: #842f3c;
+}
+
+.as-paypal-wrap img {
+  max-width: 100%;
+}
+
+.as-paypal-note {
+  color: rgba(255,247,239,.58);
+  font-size: 11px;
+  margin-top: 16px;
+}
+
+@media (max-width: 600px) {
+  .as-offer-strip {
+    padding: 30px 20px;
+    margin: 32px auto 24px;
+  }
+
+  .as-price-comparison {
+    gap: 25px;
+  }
+
+  .as-standard-price strong {
+    font-size: 29px;
+  }
+
+  .as-launch-price strong {
+    font-size: 44px;
+  }
+
+  .as-offer-includes li {
+    font-size: 12px;
+  }
+}
 @media (max-width: 760px) {
   .as-hero { min-height: 690px; background-position: 58% center; }
   .as-hero-inner { padding: 130px 0 75px; }
@@ -298,13 +475,99 @@ draft: false
       </div>
     </div>
   </section>
+<section class="as-cta" id="as-enrol">
+  <div class="as-wrap">
 
-  <section class="as-cta" id="as-enrol">
-    <div class="as-wrap">
-      <div class="as-eyebrow">Your body has its own language</div>
-      <h2>Begin the journey into awakened sensuality.</h2>
-      <p>Reclaim your sensuality, your voice and your feminine power. Make space for presence, sensation, expression and your own unique experience of pleasure.</p>
-      <!-- Replace the enquiry link below with your payment/checkout URL when ready. -->
+    <div class="as-eyebrow">Your body has its own language</div>
+
+    <h2>Begin the journey into awakened sensuality.</h2>
+
+    <p>
+      Reclaim your sensuality, your voice and your feminine power.
+      Make space for presence, sensation, expression and your own
+      unique experience of pleasure.
+    </p>
+
+    <!-- LAUNCH OFFER STRIP -->
+
+    <div class="as-offer-strip">
+
+      <div class="as-offer-label">
+        An invitation to begin · Limited launch offer
+      </div>
+
+      <div class="as-price-comparison">
+
+        <div class="as-standard-price">
+          <span>Standard price</span>
+          <strong>£197</strong>
+        </div>
+
+        <div class="as-launch-price">
+          <span>Your launch price</span>
+          <strong>£147</strong>
+        </div>
+
+      </div>
+
+      <div class="as-saving">
+        £50 launch saving
+      </div>
+
+      <div class="as-includes-heading">
+        Your enrolment includes:
+      </div>
+
+      <ul class="as-offer-includes">
+        <li>Six-week self-paced programme</li>
+        <li>Guided somatic and tantric practices</li>
+        <li>Complimentary private coaching call (worth £75)</li>
+        <li>Bonus 75-minute guided practice when you enrol by 7th January</li>
+      </ul>
+
+    </div>
+
+    <!-- PAYPAL CHECKOUT BUTTON -->
+
+    <div class="as-paypal-wrap">
+
+      <form
+        action="https://www.paypal.com/ncp/payment/77DYZS2WHJMP4"
+        method="post"
+        target="_blank"
+      >
+
+        <input
+          class="pp-77DYZS2WHJMP4"
+          type="submit"
+          value="Begin Your Journey · £147"
+        />
+
+        <img
+          src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg"
+          alt="Available payment methods"
+        />
+
+        <section style="font-size:0.75rem;color:#76645d;">
+          Powered by
+          <img
+            src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg"
+            alt="PayPal"
+            style="height:0.875rem;vertical-align:middle;"
+          />
+        </section>
+
+      </form>
+
+      <div class="as-paypal-note">
+        Secure payment through PayPal.
+      </div>
+
+    </div>
+
+  </div>
+</section>
+ <section 
       <a class="as-button" href="mailto:somarosauk@gmail.com?subject=Awakened%20Sensuality%20Course%20Enquiry">Enquire about joining</a>
     </div>
   </section>
