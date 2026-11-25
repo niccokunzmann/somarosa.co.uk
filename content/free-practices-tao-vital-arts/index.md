@@ -215,3 +215,5 @@ Explore the relationship between ancient Taoist wisdom, conscious embodiment and
 Exploring embodiment, somatic awareness, Taoist practices and conscious connection.
 
 {{< tao-seo-schema >}}
+
+{{< /access-gate >}}
