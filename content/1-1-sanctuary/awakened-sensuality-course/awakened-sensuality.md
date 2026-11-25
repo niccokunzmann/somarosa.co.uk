@@ -343,7 +343,66 @@ draft: false
           <p>✧ Enrol by 7 January 2027 and receive a bonus 75-minute guided practice</p>
         </div>
 
-        <a class="as-button" href="https://www.paypal.com/ncp/payment/77DYZS2WHJMP4" target="_blank" rel="noopener noreferrer">Enrol now · £147</a>
+       <div class="as-paypal-wrap">
+  <style>
+    .as-paypal-wrap .pp-77DYZS2WHJMP4 {
+      text-align: center;
+      border: 1px solid #b86b69;
+      border-radius: 0;
+      min-width: 245px;
+      padding: 0 2rem;
+      height: 52px;
+      font-weight: 700;
+      background-color: #b86b69;
+      color: #271217;
+      font-family: "Avenir Next", Avenir, Arial, sans-serif;
+      font-size: 10px;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+
+    .as-paypal-wrap .pp-77DYZS2WHJMP4:hover {
+      background-color: #edb28f;
+      border-color: #edb28f;
+    }
+
+    .as-paypal-wrap {
+      text-align: center;
+    }
+
+    .as-paypal-wrap img {
+      max-width: 100%;
+    }
+  </style>
+
+  <form
+    action="https://www.paypal.com/ncp/payment/77DYZS2WHJMP4"
+    method="post"
+    target="_blank"
+    style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;"
+  >
+    <input
+      class="pp-77DYZS2WHJMP4"
+      type="submit"
+      value="Enrol Now · £147"
+    />
+
+    <img
+      src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg"
+      alt="Available payment methods"
+    />
+
+    <section style="font-size:0.75rem;color:#76645d;">
+      Powered by
+      <img
+        src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg"
+        alt="PayPal"
+        style="height:0.875rem;vertical-align:middle;"
+      />
+    </section>
+  </form>
+</div>
         <p class="as-payment-note">Secure checkout through PayPal. Your place is confirmed once payment has been completed.</p>
       </div>
 
