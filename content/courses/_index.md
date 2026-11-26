@@ -6,6 +6,7 @@ draft: false
 full_width: true
 ---
 
+{{< rawhtml >}}
 <style>
 /* SOMAROSA COURSES INDEX */
 .sr-courses {
@@ -418,3 +419,4 @@ full_width: true
   </aside>
 
 </div>
+{{< /rawhtml >}}
