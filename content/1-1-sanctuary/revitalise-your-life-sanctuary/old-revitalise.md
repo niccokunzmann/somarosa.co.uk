@@ -1,0 +1,77 @@
+---
+title: "Revitalise Your Life Sanctuary"
+description: "A 12-week immersive program for women to restore nervous system safety, awaken sensuality, reclaim pleasure, and feel fully alive in their body again."
+keywords: ["sanctuary", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "pleasure", "sensuality", "self-love", "body awareness", "tao tantric arts", "feminine embodiment coaching for women", "tantra for women", "tao tantric arts", "somatic feminine coaching", "trauma-informed women's coach", "women's empowermenr embodiment work", "nervous system", "vitality", "somatic practice", "feminine embodiment", "tantra practice", "tantra practitioner", "tantra teachings", "feminine embodiment coach", "somatic coach", "tantra embodiment training", "nervous system regulation for women", "nervous system training", "somatic therapy"]
+date: 2026-01-12
+draft: false
+---
+
+Hey beauty, 
+I commend you for seeking support, embarking on the search for more, for knowing there must be something more for yourself. And to be willing to gift that to yourself. I imagine you've been wondering how to move forward in your life for a while - and now you're taking the steps to find the answers. 
+
+My approach is not to logically understand the body, the patterns or the mental or emotional challenges that arise, but to learn to listen to the subtle messages the body gives us, and create space for the body to be the guide. 
+
+## Do you long to feel your full alive self?
+
+<img src="/img/revitalisepage3.png" alt="Revitalise" class="full-width-image">
+
+<img src="/img/revitalisepage4.png" alt="Revitalise" class="full-width-image">
+
+I truly, fully believe, every person can feel FULLY ALIVE. 
+I KNOW it is possible for you to feel deeply connected to your body, your emotions, your full expression of you are truly are. 
+I KNOW it because i have been through this journey myself, and have witnessed many do the same. 
+And for myself, and many I've witnessed, there's felt like no hope, this is "just how it is for me, I'll just have to make do with it"
+
+This is your invitation to a 12 week immersive journey designed for women who feel the  longing quietly inside to feel truly themselves again. The ones who feel the desire to deeply connect with their body again, and their vitality, pleasure, and zest for life. 
+
+This path blends trauma informed nervous system work, feminine embodiment, sensual awakening, and energetic activation rooted in Trauma-Informed Nervous System practice and Tao Tantric Arts – blending the grounding, recalibration with deep healing, energy clearing and life force activations. 
+
+
+[See more here](file:///C:/Users/anya_/Downloads/Revitalise%20Life%20Promo.pdf "")
+
+
+It is my heart, soul & s:x passion to bring the depth of connection to body, to full vitality the full power of s:xual energy that is our FUEL for life & body to you. Reclaiming all that our unique expression of s:xuality is and how it expresses itself within our body in our daily life, not just behind closed doors. 
+
+I believe there is more for you, more you can live, and feel (without getting overwhelmed or shutting down) in your life, more of YOU, the whole full unapologetic YOU! And I'm excited to meet you in every step of your journey, in every layer of unfolding and blossoming into a more authentic embodied YOU. 
+
+<img src="/img/revitalise-2.png" alt="Revitalise" class="full-width-image">
+<img src="image.jpg" loading="lazy" alt="Description">
+
+
+Rewire Your Nervous System, 
+Rewire Your Life. 
+
+<img src="/img/revitalise-1.png" alt="Revitalise" class="full-width-image">
+
+
+Everything we experience is through the filter of our nervous system, so by reprogramming our nervous system, broadening our neuroplasticity then our whole experience of life transforms. 
+
+It is ESSENTIAL to find safety within the body FIRST, before then we can deeply feel & release the emotions. And from deepened embodiment, we are connected to our deeper sensations and pleasure comes more alive and richer. 
+
+Throughout the process you will integrate practices to reset, ground, nourish, soothe your system as accessible transformative tools to realistically fit into your daily life. This is where the long-lasting change  occurs for your nervous system and your life. 
+
+Widening your capacity to FEEL again.
+To truly feel whilst staying connected 
+truly connected to your body’s experience
+ to your pleasure,
+ to your emotions,
+ to the truth of who you are.
+ Brings TRUE Nervous System Resiliency = Long lasting change as the Nervous System Reprograms
+ 
+
+In our consultation we establish how this will alter to meet your needs. Below is a example framework of how this could look, but will be altered to meet your needs overall and what arises in life week by week. 
+There is also a version for men also. 
+
+3 session package: £180-240
+5 session package: £290-395
+8 session package: £490-645
+
+<img src="/img/revitalise3.png" alt="Revitalise" class="full-width-image">
+
+
+<img src="/img/revitalise-1.png" alt="Revitalise" class="full-width-image">
+
+
+Book a 20 min [Discovery Call](https://calendly.com/somarosauk/discoverycall "")
+
+
