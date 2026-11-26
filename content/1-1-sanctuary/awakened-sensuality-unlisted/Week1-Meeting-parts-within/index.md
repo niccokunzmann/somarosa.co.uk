@@ -14,8 +14,6 @@ featured: false
 
 <p class="course-eyebrow">AWAKENED SENSUALITY · WEEK ONE</p>
 
-<h1>Meeting the Parts Within</h1>
-
 <p class="course-lead">This first week is an invitation to slow down, create a sense of safety and begin listening to the different parts of yourself. Before exploring pleasure or expansion, we practise meeting the body with curiosity, compassion and respect for our own pace.</p>
 
 ## A Consecration for Your Journey
