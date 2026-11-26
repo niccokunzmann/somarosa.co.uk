@@ -1,10 +1,10 @@
-+++
-title = "Courses"
-description = "Explore Somarosa online courses, guided practices and experiential journeys in embodiment, sensuality, pleasure and Taoist vitality."
-url = "/courses/"
-draft = false
-+++
-
+---
+title: "Courses"
+description: "Explore Somarosa courses, trainings and practices for embodied living, pleasure and vitality."
+url: "/courses/"
+draft: false
+full_width: true
+---
 
 <style>
 /* SOMAROSA COURSES INDEX */
