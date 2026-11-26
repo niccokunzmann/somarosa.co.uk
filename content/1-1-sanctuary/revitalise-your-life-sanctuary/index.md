@@ -151,13 +151,13 @@ draft: false
   <section class="rvl-section rvl-section--blush">
     <div class="rvl-wrap rvl-center">
       <div class="rvl-kicker" style="color:var(--rvl-wine)">The Somarosa approach</div>
-      <h2>A journey of ROOT · CONNECT · EXPAND</h2>
+      <h2>ROOT · CONNECT · EXPAND</h2>
       <p class="rvl-lead">Lasting change is not about forcing yourself to become someone else. It begins with creating the conditions to listen, reconnect and discover new possibilities from within.</p>
       <div class="rvl-phase-grid" style="margin-top:42px;text-align:left">
         <article class="rvl-phase">
           <span class="rvl-phase-number">01</span>
           <h3>ROOT</h3>
-          <p><strong>Build safety, awareness and inner resources.</strong></p>
+          <p><strong>Build anchoring in your body, awareness and inner resources.</strong></p>
           <p>Begin by understanding your patterns and recognising what supports you. Develop practical ways to ground, resource and orient yourself in the present.</p>
           <ul>
             <li>Nervous system awareness and tracking</li>
@@ -295,9 +295,6 @@ draft: false
         <p>I'm Anya, a Somatic Tantra Coach and Tao Tantric Arts Facilitator. My work brings together somatic awareness, nervous system-informed practices, embodiment and the wisdom of the Tao Tantric Arts.</p>
         <p>I believe the body deserves to be approached with curiosity, respect and choice. Rather than following a rigid formula, I work collaboratively, listening to what is present and adapting the practices to the person in front of me.</p>
         <p>My intention is to offer a grounded, compassionate space where you can explore your experience, strengthen your relationship with yourself and discover what feels meaningful and alive for you.</p>
-      </div>
-      <div class="rvl-image-frame" style="min-height:300px;display:flex;align-items:center;justify-content:center;background:linear-gradient(145deg,#d9b4ad,#873443);color:#fff5e9;text-align:center;padding:30px">
-        <div><div style="font-family:Georgia,serif;font-size:2.6rem;letter-spacing:.08em">SOMAROSA</div><div style="margin-top:8px;font-size:.75rem;letter-spacing:.18em;text-transform:uppercase">The blooming of embodied truth</div></div>
       </div>
     </div>
   </section>
