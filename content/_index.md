@@ -429,7 +429,6 @@ draft: false
 </section>
   <section class="sr-feature-quote"><div class="sr-quote-inner"><span class="sr-quote-mark">“</span><blockquote>Anya is one of the most grounded practitioners I have ever had the pleasure of working with. Her presence immediately makes me feel safe, open and receptive. Through her Temple and breath work sessions I have uncovered so much about myself and my own energy, needs and boundaries, which has gone on to help me profoundly in my life. Feeling how she touches others, makes it clear to me this is what she is here to do. Her unique passion and gentleness combined are such medicine in these times and I would recommend her to anyone wanting to experience deep healing.</blockquote><p class="sr-credit">MEG · WALES · CLIENT TESTIMONIAL</p></div></section>
  <!-- FIND YOUR WAY IN: THREE COACHING PATHWAYS -->
-<section class="sr-pathways">
 <!-- AWAKENED SENSUALITY FEATURE STRIP -->
 <section class="sr-feature-strip"
   style="background-image:url('/img/page-banners/awakened-sensuality.png');">
