@@ -1,4 +1,3 @@
-
 ---
 title: "Week 1: Meeting the Parts Within"
 subtitle: "Safety, slowing down and learning to listen to your body"
@@ -18,6 +17,30 @@ featured: false
 <h1>Meeting the Parts Within</h1>
 
 <p class="course-lead">This first week is an invitation to slow down, create a sense of safety and begin listening to the different parts of yourself. Before exploring pleasure or expansion, we practise meeting the body with curiosity, compassion and respect for our own pace.</p>
+
+## A Consecration for Your Journey
+
+Before we begin, take a moment to receive this consecration.
+
+This is an invocation of intention for the journey ahead. May this programme serve your highest potential, supporting you in becoming more fully expressed, embodied and connected to the deepest truth of who you are.
+
+May everything you encounter, explore and awaken through this journey be for your highest good and the highest good of all.
+
+May the practices, experiences and insights that unfold support your growth, liberation, healing and expansion, in alignment with what is truly needed for you.
+
+May the benefits of this work extend beyond yourself, contributing to the evolution, wellbeing and flourishing of all living beings.
+
+May you move through this journey with an open heart, curiosity, compassion and reverence for your own unique unfolding.
+
+May you always remain connected to your own inner wisdom, honouring your boundaries, your pace and your truth.
+
+May this journey be held in the highest intention, in service of love, life and the greater good.
+
+<div style="position:relative;padding-top:56.25%;margin:24px 0;border-radius:12px;overflow:hidden;">
+  <iframe src="https://player.mediadelivery.net/embed/819148/dfca8be6-76cd-4760-8012-cda82356c34b?autoplay=true&loop=false&muted=true&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;left:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;" allowfullscreen="true"></iframe>
+</div>
+
+Take a moment after watching to settle into yourself. There is nothing you need to achieve or become. Simply arrive as you are, and allow this journey to unfold in its own time.
 
 ## This week's focus
 
@@ -69,6 +92,6 @@ This practice supports gentle awareness of your nervous system and the sensation
 
 The intention is not to achieve a particular state. It is to practise listening and build trust in your own inner awareness.
 
-## A gentle reminder
+## Remember
 
 You are the authority on your body and your experience. You never need to push through discomfort or complete a practice simply because it has been offered. Move at a pace that feels appropriate for you.
