@@ -487,7 +487,31 @@ draft: false
   <section class="sr-workshops"><div class="sr-wrap"><div class="sr-workshops-copy"><p class="sr-eyebrow">GATHER. EXPLORE. EXPERIENCE.</p><h2>Come into the circle.</h2><p>Workshops, temples and immersive experiences to deepen your embodiment, expand your practice and connect in community.</p><a class="sr-button sr-button-outline" href="/workshops/">Explore workshops</a></div></div></section>
   <section class="sr-final"><p class="sr-script">The blooming of embodied truth.</p><p class="sr-eyebrow">YOUR BODY. YOUR VITALITY. YOUR FULLEST EXPRESSION.</p><h2>Begin where you are. Discover what becomes possible.</h2><a class="sr-button sr-button-gold" href="/contact/">Begin your journey</a></section>
 </div>
+<!-- TAO VITALITY ARTS FREE PRACTICES FEATURE STRIP -->
+<section class="sr-feature-strip"
+  style="background-image:url('/img/page-banners/tao-vitality-arts.png');">
 
+  <div class="sr-wrap">
+    <div class="sr-feature-strip-copy">
+
+      <p class="sr-eyebrow">FREE 5-MINUTE PRACTICES</p>
+
+      <h2>Tao Vitality Arts</h2>
+
+      <p>
+        Cultivate life-force energy and harness your body's
+        natural vitality through simple, powerful Taoist practices.
+        Reset, revitalise and reconnect with your inner energy.
+      </p>
+
+      <a class="sr-button sr-button-gold"
+         href="https://somarosa.co.uk/free-practices-tao-vital-arts/">
+        Explore Free Practices
+      </a>
+
+    </div>
+  </div>
+</section>
 <script>
 
 (function(){
