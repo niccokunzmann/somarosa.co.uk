@@ -25,8 +25,10 @@ full_width: true
   color: var(--sc-ink);
   font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
 }
+
 .sr-courses, .sr-courses * { box-sizing: border-box; }
 .sr-courses a { color: inherit; }
+
 .sr-courses-hero {
   text-align: center;
   padding: 54px 20px 48px;
@@ -34,6 +36,7 @@ full_width: true
   background: var(--sc-wine);
   color: var(--sc-cream);
 }
+
 .sr-courses-eyebrow {
   margin: 0 0 15px;
   color: var(--sc-gold);
@@ -42,6 +45,7 @@ full_width: true
   letter-spacing: .24em;
   text-transform: uppercase;
 }
+
 .sr-courses-hero h1 {
   margin: 0 0 17px;
   color: #fffaf4;
@@ -50,6 +54,7 @@ full_width: true
   font-weight: 400;
   line-height: 1.12;
 }
+
 .sr-courses-hero p:last-child {
   max-width: 690px;
   margin: 0 auto;
@@ -58,22 +63,26 @@ full_width: true
   font-size: clamp(17px, 2.2vw, 21px);
   line-height: 1.65;
 }
+
 .sr-courses-intro {
   max-width: 760px;
   margin: 0 auto 42px;
   text-align: center;
 }
+
 .sr-courses-intro p {
   color: var(--sc-muted);
   font-size: 15px;
   line-height: 1.85;
 }
+
 .sr-course-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 24px;
   align-items: stretch;
 }
+
 .sr-course-card {
   display: flex;
   flex-direction: column;
@@ -84,16 +93,19 @@ full_width: true
   text-decoration: none !important;
   transition: transform .22s ease, box-shadow .22s ease;
 }
+
 .sr-course-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 14px 34px rgba(63,16,34,.12);
 }
+
 .sr-course-image {
   position: relative;
   aspect-ratio: 4 / 3;
   overflow: hidden;
   background: #eaded4;
 }
+
 .sr-course-image img {
   display: block;
   width: 100%;
@@ -101,9 +113,11 @@ full_width: true
   object-fit: cover;
   transition: transform .5s ease;
 }
+
 .sr-course-card:hover .sr-course-image img {
   transform: scale(1.045);
 }
+
 .sr-course-icon {
   position: absolute;
   right: 18px;
@@ -120,12 +134,14 @@ full_width: true
   font-size: 23px;
   line-height: 1;
 }
+
 .sr-course-copy {
   display: flex;
   flex: 1;
   flex-direction: column;
   padding: 30px 25px 26px;
 }
+
 .sr-course-type {
   margin: 0 0 11px;
   color: var(--sc-rose);
@@ -134,6 +150,7 @@ full_width: true
   letter-spacing: .2em;
   text-transform: uppercase;
 }
+
 .sr-course-copy h2 {
   margin: 0 0 13px;
   color: var(--sc-wine);
@@ -142,12 +159,14 @@ full_width: true
   font-weight: 400;
   line-height: 1.2;
 }
+
 .sr-course-copy p {
   margin: 0 0 23px;
   color: var(--sc-muted);
   font-size: 14px;
   line-height: 1.8;
 }
+
 .sr-course-link {
   display: inline-block;
   align-self: flex-start;
@@ -160,13 +179,54 @@ full_width: true
   letter-spacing: .16em;
   text-transform: uppercase;
 }
-.sr-courses-note {
+
+.sr-course-price {
+  display: inline-block;
+  margin: 0 0 15px;
+  color: var(--sc-wine);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 19px;
+}
+
+/* MORE COMING SOON */
+.sr-courses-coming {
   margin: 54px auto 0;
+  padding: 42px 26px;
+  max-width: 850px;
+  background: var(--sc-wine);
+  text-align: center;
+  color: var(--sc-cream);
+}
+
+.sr-courses-coming .sr-course-type {
+  color: var(--sc-gold);
+}
+
+.sr-courses-coming h2 {
+  margin: 0 0 13px;
+  color: #fffaf4;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.sr-courses-coming p {
+  max-width: 620px;
+  margin: 0 auto;
+  color: #eadbd6;
+  font-size: 14px;
+  line-height: 1.85;
+}
+
+/* CONTACT NOTE */
+.sr-courses-note {
+  margin: 24px auto 0;
   padding: 32px 26px;
   max-width: 850px;
   background: #F1E7E1;
   text-align: center;
 }
+
 .sr-courses-note h2 {
   margin: 0 0 12px;
   color: var(--sc-wine);
@@ -174,6 +234,7 @@ full_width: true
   font-size: 28px;
   font-weight: 400;
 }
+
 .sr-courses-note p {
   max-width: 680px;
   margin: 0 auto 18px;
@@ -181,6 +242,7 @@ full_width: true
   font-size: 14px;
   line-height: 1.8;
 }
+
 .sr-courses-note a {
   color: var(--sc-wine);
   font-size: 10px;
@@ -191,87 +253,168 @@ full_width: true
   border-bottom: 1px solid var(--sc-rose);
   padding-bottom: 5px;
 }
+
 @media (max-width: 850px) {
-  .sr-course-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .sr-course-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
+
 @media (max-width: 580px) {
-  .sr-courses { padding: 12px 15px 48px; }
-  .sr-courses-hero { padding: 42px 18px 38px; margin-bottom: 30px; }
-  .sr-course-grid { grid-template-columns: 1fr; gap: 19px; }
-  .sr-course-image { aspect-ratio: 16 / 10; }
-  .sr-course-copy { padding: 28px 23px 24px; }
+  .sr-courses {
+    padding: 12px 15px 48px;
+  }
+
+  .sr-courses-hero {
+    padding: 42px 18px 38px;
+    margin-bottom: 30px;
+  }
+
+  .sr-course-grid {
+    grid-template-columns: 1fr;
+    gap: 19px;
+  }
+
+  .sr-course-image {
+    aspect-ratio: 16 / 10;
+  }
+
+  .sr-course-copy {
+    padding: 28px 23px 24px;
+  }
+
+  .sr-courses-coming {
+    padding: 35px 22px;
+  }
 }
+
 @media (prefers-reduced-motion: reduce) {
-  .sr-courses * { transition: none !important; }
+  .sr-courses * {
+    transition: none !important;
+  }
 }
 </style>
-<div class="sr-courses">
-<header class="sr-courses-hero">
-<p class="sr-courses-eyebrow">
-LEARN · EXPLORE · EMBODY
-</p>
-<h1>
-Courses & Practices
-</h1>
-<p>
-Experiential journeys to deepen your connection with your body, awaken
-vitality and explore a more intimate relationship with pleasure.
-</p>
-</header>
-<div class="sr-courses-intro">
-    <p>Whether you are beginning your exploration or ready to deepen an existing practice, discover a collection of online courses and guided experiences rooted in somatic embodiment, Taoist arts and conscious sensuality.</p>
-</div>
 
-<section class="sr-course-grid" aria-label="Somarosa courses and practices">
-    <a class="sr-course-card" href="/awakened-sensuality/" aria-label="Explore Awakened Sensuality">
+<div class="sr-courses">
+
+  <header class="sr-courses-hero">
+    <p class="sr-courses-eyebrow">
+      LEARN · EXPLORE · EMBODY
+    </p>
+    <h1>Courses & Practices</h1>
+    <p>
+      Experiential journeys to deepen your connection with your body,
+      awaken vitality and explore a more intimate relationship with pleasure.
+    </p>
+  </header>
+
+  <div class="sr-courses-intro">
+    <p>
+      Whether you are beginning your exploration or ready to deepen an
+      existing practice, discover a collection of online courses and
+      guided experiences rooted in somatic embodiment, Taoist arts
+      and conscious sensuality.
+    </p>
+  </div>
+
+  <section class="sr-course-grid" aria-label="Somarosa courses and practices">
+
+    <!-- AWAKENED SENSUALITY -->
+    <a class="sr-course-card"
+       href="/awakened-sensuality/"
+       aria-label="Explore Awakened Sensuality">
+
       <div class="sr-course-image">
-        <img src="/img/page-banners/awakened-sensuality-banner.png" alt="Awakened Sensuality six-week embodiment journey" loading="lazy">
+        <img src="/img/page-banners/awakened-sensuality-banner.png"
+             alt="Awakened Sensuality six-week embodiment journey"
+             loading="lazy">
         <span class="sr-course-icon" aria-hidden="true">✧</span>
       </div>
+
       <div class="sr-course-copy">
         <p class="sr-course-type">Six-week guided journey</p>
         <h2>Awakened Sensuality</h2>
-        <p>Reconnect with your sensual nature and move beyond disconnection and self-judgement into greater presence, pleasure, vitality and embodied expression.</p>
+        <p>
+          Reconnect with your sensual nature and move beyond disconnection
+          and self-judgement into greater presence, pleasure, vitality
+          and embodied expression.
+        </p>
         <span class="sr-course-link">Explore the programme&nbsp; ↗</span>
       </div>
     </a>
 
-    <a class="sr-course-card" href="/cultivate-sexual-vitality-for-women/" aria-label="Explore Cultivate Sexual Vitality for Women">
+    <!-- CULTIVATE SEXUAL VITALITY -->
+    <a class="sr-course-card"
+       href="/cultivate-sexual-vitality-for-women/"
+       aria-label="Explore Cultivate Sexual Vitality for Women">
+
       <div class="sr-course-image">
-        <img src="/img/page-banners/cultivate-vitality-banner.png" alt="Cultivate Sexual Vitality for Women guided practice" loading="lazy">
+        <img src="/img/page-banners/cultivate-vitality-banner.png"
+             alt="Cultivate Sexual Vitality for Women guided practice"
+             loading="lazy">
         <span class="sr-course-icon" aria-hidden="true">☼</span>
       </div>
+
       <div class="sr-course-copy">
-        <p class="sr-course-type">Guided Taoist practice</p>
+        <p class="sr-course-type">Guided Taoist practice · 40 minutes</p>
         <h2>Cultivate Sexual Vitality for Women</h2>
-        <p>Explore Taoist-inspired practices, conscious breath and feminine sensuality to cultivate life force energy and deepen your relationship with vitality and pleasure.</p>
+        <span class="sr-course-price">£7</span>
+        <p>
+          Explore Taoist-inspired practices, conscious breath and feminine
+          sensuality to cultivate life force energy and deepen your
+          relationship with vitality and pleasure.
+        </p>
         <span class="sr-course-link">Discover the practice&nbsp; ↗</span>
       </div>
     </a>
 
-    <a class="sr-course-card" href="/free-practices-tao-vital-arts/" aria-label="Explore Free Tao Vital Arts Practices">
+    <!-- FREE TAO VITAL ARTS -->
+    <a class="sr-course-card"
+       href="/free-practices-tao-vital-arts/"
+       aria-label="Explore Free Tao Vital Arts Practices">
+
       <div class="sr-course-image">
-        <img src="/img/page-banners/tantric-path.png" alt="Taoist vitality and embodied energy practices" loading="lazy">
+        <img src="/img/page-banners/tantric-path.png"
+             alt="Taoist vitality and embodied energy practices"
+             loading="lazy">
         <span class="sr-course-icon" aria-hidden="true">◌</span>
       </div>
+
       <div class="sr-course-copy">
-        <p class="sr-course-type">Free practices</p>
+        <p class="sr-course-type">Free guided practices</p>
         <h2>Tao Vital Arts</h2>
-        <p>Begin with accessible practices exploring breath, movement and awareness. Discover ways to cultivate vitality and develop a more conscious relationship with your life force.</p>
+        <span class="sr-course-price">Free</span>
+        <p>
+          Begin with two accessible five-minute practices exploring
+          breath, movement and awareness. Reset, revitalise your energy
+          and cultivate a more conscious relationship with your life force.
+        </p>
         <span class="sr-course-link">Explore free practices&nbsp; ↗</span>
       </div>
     </a>
 
-</section>
-<aside class="sr-courses-note">
-<h2>
-Not sure where to begin?
-</h2>
-<p>
-If you would like help finding the right starting point, get in touch.
-We can explore which course, practice or form of support best meets you
-where you are.
-</p>
-<a href="/contact/">Get in touch&nbsp; ↗</a>
-</aside>
+  </section>
+
+  <!-- MORE COMING SOON -->
+  <section class="sr-courses-coming" aria-label="More courses coming soon">
+    <p class="sr-course-type">THE SOMAROSA LEARNING LIBRARY</p>
+    <h2>More Coming Soon</h2>
+    <p>
+      This is just the beginning. New courses, guided practices,
+      embodied experiences and learning journeys are in development.
+      Stay connected as the Somarosa collection continues to grow.
+    </p>
+  </section>
+
+  <!-- CONTACT -->
+  <aside class="sr-courses-note">
+    <h2>Not sure where to begin?</h2>
+    <p>
+      If you would like help finding the right starting point,
+      get in touch. We can explore which course, practice or form
+      of support best meets you where you are.
+    </p>
+    <a href="/contact/">Get in touch&nbsp; ↗</a>
+  </aside>
+
 </div>
