@@ -484,10 +484,7 @@ draft: false
       <article class="sr-testimonial"><span class="sr-quote-mark">“</span><blockquote>I had a gentle yet profound experience, where Anya expertly guided me into deeper connection with myself, helping to chip away at some of the frozen, stored trauma in my body. By the end of the session I felt less fear, less trauma and more warmth and feeling. With her help, I feel I’ve take another important step forward in my healing, giving me optimism and excitement about my capacity to connect, receive and enjoy pleasure with myself and others. Thank you Anya.</blockquote><p>SCOTT <span>· BRISTOL</span></p></article>
     </div>
   </div></section>
-  <section class="sr-workshops"><div class="sr-wrap"><div class="sr-workshops-copy"><p class="sr-eyebrow">GATHER. EXPLORE. EXPERIENCE.</p><h2>Come into the circle.</h2><p>Workshops, temples and immersive experiences to deepen your embodiment, expand your practice and connect in community.</p><a class="sr-button sr-button-outline" href="/workshops/">Explore workshops</a></div></div></section>
-  <section class="sr-final"><p class="sr-script">The blooming of embodied truth.</p><p class="sr-eyebrow">YOUR BODY. YOUR VITALITY. YOUR FULLEST EXPRESSION.</p><h2>Begin where you are. Discover what becomes possible.</h2><a class="sr-button sr-button-gold" href="/contact/">Begin your journey</a></section>
-</div>
-<!-- TAO VITALITY ARTS FREE PRACTICES FEATURE STRIP -->
+  <!-- TAO VITALITY ARTS FREE PRACTICES FEATURE STRIP -->
 <section class="sr-feature-strip"
   style="background-image:url('/img/page-banners/tao-vitality-arts.png');">
 
@@ -505,13 +502,17 @@ draft: false
       </p>
 
       <a class="sr-button sr-button-gold"
-         href="https://somarosa.co.uk/free-practices-tao-vital-arts/">
+         href="/free-practices-tao-vital-arts/">
         Explore Free Practices
       </a>
 
     </div>
   </div>
 </section>
+  <section class="sr-workshops"><div class="sr-wrap"><div class="sr-workshops-copy"><p class="sr-eyebrow">GATHER. EXPLORE. EXPERIENCE.</p><h2>Come into the circle.</h2><p>Workshops, temples and immersive experiences to deepen your embodiment, expand your practice and connect in community.</p><a class="sr-button sr-button-outline" href="/workshops/">Explore workshops</a></div></div></section>
+  <section class="sr-final"><p class="sr-script">The blooming of embodied truth.</p><p class="sr-eyebrow">YOUR BODY. YOUR VITALITY. YOUR FULLEST EXPRESSION.</p><h2>Begin where you are. Discover what becomes possible.</h2><a class="sr-button sr-button-gold" href="/contact/">Begin your journey</a></section>
+</div>
+  </section>
 <script>
 
 (function(){
