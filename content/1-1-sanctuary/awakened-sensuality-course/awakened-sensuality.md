@@ -319,6 +319,10 @@ draft: false
           <summary>What is included in the launch offer?</summary>
           <p>The launch price is £147 rather than the standard price of £197. It also includes a complimentary private coaching call valued at £75. Enrol by 7 January 2027 and you will also receive a bonus 75-minute guided practice.</p>
         </details>
+         <details>
+          <summary>How long do i have access to the course?</summary>
+          <p>How does lifetime access sound? Once you've boguth the course - it's yours to access anytime you like! Keep returning and reviewing the practices and you'll find new discoveries within yourself at different stages of your life!</p>
+        </details>
       </div>
     </div>
   </section>
