@@ -343,7 +343,7 @@ draft: false
 
         <div class="as-enrol-details">
           <p><strong>Included with your enrolment:</strong></p>
-          <p>✧ The complete six-week self-paced programme</p>
+          <p>✧ Lifetime access of the complete six-week self-paced programme</p>
           <p>✧ A complimentary private coaching call, valued at £75</p>
           <p>✧ Enrol by 7 January 2027 and receive a bonus 75-minute guided practice</p>
         </div>
