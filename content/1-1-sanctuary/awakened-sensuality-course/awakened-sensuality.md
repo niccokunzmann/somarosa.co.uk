@@ -407,6 +407,7 @@ draft: false
   </form>
 </div>
 {{< /rawhtml >}}
+{{< rawhtml >}}
         <p class="as-payment-note">Secure checkout through PayPal. Your place is confirmed once payment has been completed.</p>
       </div>
 
@@ -420,3 +421,4 @@ draft: false
   </footer>
 
 </div>
+{{< /rawhtml >}}
