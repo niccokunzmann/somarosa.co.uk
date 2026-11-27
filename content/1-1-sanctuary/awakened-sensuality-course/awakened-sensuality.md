@@ -154,7 +154,7 @@ draft: false
   <section class="as-hero">
     <div class="as-wrap">
       <div class="as-hero-inner">
-        <div class="as-eyebrow">6 Week Program  · Somarosa</div>
+        <div class="as-eyebrow">6 Week Program  · Lifetime access</div>
         <h1>Awakened<br>Sensuality</h1>
         <div class="as-subtitle">Reclaiming Your Authentic Pleasure</div>
         <p class="as-hero-copy">A 6 week journey of transformation from disconnection, numbness, self-judgement into aliveness, embodied pleasure and vitality. Rediscover the language of your body, let go of the pressure to perform, and make space for a more authentic experience of pleasure and self-expression.</p>
@@ -268,7 +268,7 @@ draft: false
         <h2>A rhythm of teaching, practice and ritual.</h2>
         <p class="as-includes-copy">This journey is experiential and ritual-based, trauma-aware and grounded. It is deeply embodied, yet accessible, with space to learn, explore and integrate through the week.</p>
         <ul class="as-includes-list">
-          <li><strong>Weekly pre-recorded teaching</strong><span>45–60 minutes of teaching and guided exploration.</span></li>
+          <li><strong>Weekly pre-recorded teaching</strong><span>60-90 minutes of teaching and guided exploration.</span></li>
             <li><strong>Ritualised opening and closing</strong><span>Each week includes a consecrated, ritualised opening and closing.</span></li>
           <li><strong>Simple daily ritual</strong><span>A 5–10 minute practice each week to bring the learning into your everyday life.</span></li>
         </ul>
@@ -313,7 +313,7 @@ draft: false
         </details>
         <details>
           <summary>How do I enrol and receive access?</summary>
-          <p>Select the enrolment button below to complete payment securely through PayPal. After your payment is confirmed, you will receive an email with the next steps and instructions for accessing the programme. Please check your spam or promotions folder if you do not see it.</p>
+          <p>Select the enrolment button below to complete payment securely through PayPal (you ccan also pay via debit/credit card through this portal). After your payment is confirmed, you will receive an email with the next steps and instructions for accessing the programme. Please check your spam or promotions folder if you do not see it.</p>
         </details>
         <details>
           <summary>What is included in the launch offer?</summary>
